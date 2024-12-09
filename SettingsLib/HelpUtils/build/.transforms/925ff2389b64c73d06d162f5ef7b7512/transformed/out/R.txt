@@ -1,2 +1,0 @@
-int drawable ic_help_actionbar 0x0
-int string help_feedback_label 0x0
