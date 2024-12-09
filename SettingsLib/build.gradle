@@ -35,9 +35,9 @@ android {
     }
 
     sourceSets.main {
-//        manifest.srcFile 'AndroidManifest.xml'
-//        java.srcDirs = ['src']
-//        res.srcDirs = ['res']
+        manifest.srcFile 'AndroidManifest.xml'
+        java.srcDirs = ['src']
+        res.srcDirs = ['res']
     }
 
     compileOptions {
@@ -92,4 +92,7 @@ dependencies {
     implementation project(':SettingsLib:Utils')
     implementation files('../libs/settingslib_media_flags_lib.jar')
     implementation files('../libs/settingslib_flags_lib.jar')
+
+
+    implementation libs.preference
 }

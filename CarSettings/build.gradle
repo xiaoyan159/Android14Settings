@@ -28,11 +28,11 @@ plugins {
 //}
 
 android {
-    namespace 'com.cariad.cea.carsettings'
+    namespace 'com.android.car.settings'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.cariad.cea.carsettings"
+        applicationId "com.android.car.settings"
         minSdk 31
         targetSdk 34
         versionCode 1
@@ -68,12 +68,16 @@ dependencies {
     implementation libs.preference
     implementation libs.androidx.constraintlayout
 
-    implementation(project(':iconloaderlib'))
-    implementation(project(':WifiTrackerLib'))
-    implementation(project(':setupdesign'))
-    implementation(project(':SettingsLib'))
+//    implementation(project(':iconloaderlib'))
+//    implementation(project(':setupdesign'))
 
     implementation files('../libs/android.car.jar')
+    implementation libs.car.ui.lib
+    implementation files('../libs/car-apps-common.jar')
+    implementation files('../libs/car-setup-wizard-lib-utils.jar')
+    implementation(project(':WifiTrackerLib'))
+    implementation(project(':SettingsLib'))
+    implementation libs.constraintlayout.solver
 //    implementation libs.androidx.core.ktx
 //    implementation libs.androidx.appcompat
 //    implementation libs.material
@@ -82,4 +86,36 @@ dependencies {
 //    testImplementation libs.junit
 //    androidTestImplementation libs.androidx.junit
 //    androidTestImplementation libs.androidx.espresso.core
+
+    implementation project(':SettingsLib:ActionBarShadow')
+    implementation project(':SettingsLib:ActionButtonsPreference')
+    implementation project(':SettingsLib:AdaptiveIcon')
+    implementation project(':SettingsLib:AppPreference')
+    implementation project(':SettingsLib:BannerMessagePreference')
+    implementation project(':SettingsLib:BarChartPreference')
+    implementation project(':SettingsLib:ButtonPreference')
+    implementation project(':SettingsLib:CollapsingToolbarBaseActivity')
+    implementation project(':SettingsLib:Color')
+    implementation project(':SettingsLib:DeviceStateRotationLock')
+    implementation project(':SettingsLib:DisplayUtils')
+    implementation project(':SettingsLib:EmergencyNumber')
+    implementation project(':SettingsLib:EntityHeaderWidgets')
+    implementation project(':SettingsLib:FooterPreference')
+    implementation project(':SettingsLib:HelpUtils')
+    implementation project(':SettingsLib:IllustrationPreference')
+    implementation project(':SettingsLib:LayoutPreference')
+    implementation project(':SettingsLib:MainSwitchPreference')
+    implementation project(':SettingsLib:ProfileSelector')
+    implementation project(':SettingsLib:ProgressBar')
+    implementation project(':SettingsLib:RestrictedLockUtils')
+    implementation project(':SettingsLib:SearchWidget')
+    implementation project(':SettingsLib:SelectorWithWidgetPreference')
+    implementation project(':SettingsLib:SettingsSpinner')
+    implementation project(':SettingsLib:SettingsTheme')
+    implementation project(':SettingsLib:SettingsTransition')
+    implementation project(':SettingsLib:Tile')
+    implementation project(':SettingsLib:TopIntroPreference')
+    implementation project(':SettingsLib:TwoTargetPreference')
+    implementation project(':SettingsLib:UsageProgressBarPreference')
+    implementation project(':SettingsLib:Utils')
 }
