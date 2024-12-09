@@ -48,14 +48,14 @@ android {
 
 dependencies {
 //    implementation "androidx.annotation:annotation:1.0.0"
-    implementation files('../libs/localbroadcastmanager-1.1.0-alpha02.aar')
+//    implementation files('../libs/localbroadcastmanager-1.1.0-alpha02.aar')
     implementation libs.room.runtime
     implementation libs.sqlite
     implementation files('../libs/zxing-core.jar')
     // Android14\out\soong\.intermediates\external\guava\guava\android_common\turbine-combined
-    implementation files('../libs/guava.jar')
+//    implementation files('../libs/guava.jar')
 
-    implementation files('../libs/WifiTrackerLibRes.jar')
+//    implementation files('../libs/WifiTrackerLibRes.jar')
     implementation project(':iconloaderlib')
     implementation project(':setupdesign')
 
@@ -67,11 +67,29 @@ dependencies {
     implementation project(':SettingsLib:BarChartPreference')
     implementation project(':SettingsLib:ButtonPreference')
     implementation project(':SettingsLib:CollapsingToolbarBaseActivity')
-
+    implementation project(':SettingsLib:Color')
+    implementation project(':SettingsLib:DeviceStateRotationLock')
+    implementation project(':SettingsLib:DisplayUtils')
+    implementation project(':SettingsLib:EmergencyNumber')
+    implementation project(':SettingsLib:EntityHeaderWidgets')
+    implementation project(':SettingsLib:FooterPreference')
     implementation project(':SettingsLib:HelpUtils')
-
+    implementation project(':SettingsLib:IllustrationPreference')
+    implementation project(':SettingsLib:LayoutPreference')
+    implementation project(':SettingsLib:MainSwitchPreference')
+    implementation project(':SettingsLib:ProfileSelector')
+    implementation project(':SettingsLib:ProgressBar')
+    implementation project(':SettingsLib:RestrictedLockUtils')
+    implementation project(':SettingsLib:SearchWidget')
+    implementation project(':SettingsLib:SelectorWithWidgetPreference')
+    implementation project(':SettingsLib:SettingsSpinner')
     implementation project(':SettingsLib:SettingsTheme')
     implementation project(':SettingsLib:SettingsTransition')
     implementation project(':SettingsLib:Tile')
+    implementation project(':SettingsLib:TopIntroPreference')
+    implementation project(':SettingsLib:TwoTargetPreference')
+    implementation project(':SettingsLib:UsageProgressBarPreference')
     implementation project(':SettingsLib:Utils')
+    implementation files('../libs/settingslib_media_flags_lib.jar')
+    implementation files('../libs/settingslib_flags_lib.jar')
 }

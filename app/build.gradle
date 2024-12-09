@@ -62,7 +62,7 @@ dependencies {
     implementation(project(':iconloaderlib'))
     implementation(project(':WifiTrackerLib'))
     implementation(project(':setupdesign'))
-//    implementation(project(':SettingsLib'))
+    implementation(project(':SettingsLib'))
 
     implementation libs.androidx.core.ktx
     implementation libs.androidx.appcompat

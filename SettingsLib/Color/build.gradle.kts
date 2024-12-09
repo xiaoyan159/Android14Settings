@@ -20,7 +20,7 @@ plugins {
 
 android {
     namespace = "com.android.settingslib.color"
-
+    compileSdk = 34
     sourceSets {
         sourceSets.getByName("main") {
             res.setSrcDirs(listOf("res"))

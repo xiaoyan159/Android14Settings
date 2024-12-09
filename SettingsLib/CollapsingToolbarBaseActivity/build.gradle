@@ -53,4 +53,8 @@ dependencies {
     implementation project(':SettingsLib:SettingsTransition')
     implementation project(':SettingsLib:Utils')
     implementation project(':SettingsLib:SettingsTheme')
+
+    implementation libs.recyclerview
+    implementation libs.androidx.appcompat
+    implementation libs.preference
 }

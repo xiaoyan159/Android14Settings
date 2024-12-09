@@ -20,7 +20,8 @@ public class Main {
                 "WifiTrackerLib/res",
                 "SettingsLib/HelpUtils/res",
                 "SettingsLib/RestrictedLockUtils/res",
-                "SettingsLib/SearchWidget/res"
+                "SettingsLib/SearchWidget/res",
+                "CarSettings/res",
         };
 
         for (String name : arr) {

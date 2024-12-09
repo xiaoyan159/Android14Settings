@@ -48,6 +48,8 @@ android {
 
 dependencies {
     implementation libs.androidx.annotation.annotation
-    implementation files('../../libs/preference-1.3.0-alpha01.aar')
+    implementation libs.preference
     implementation project(':SettingsLib:SettingsTheme')
+
+    implementation libs.recyclerview
 }
