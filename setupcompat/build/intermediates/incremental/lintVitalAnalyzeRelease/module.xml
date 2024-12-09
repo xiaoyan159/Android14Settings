@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="E:\VolkSwagen\OpenSource-Settings\CariadSettings\setupcompat"
+    name=":setupcompat"
+    type="LIBRARY"
+    maven="CariadSettings:setupcompat:"
+    agpVersion="8.2.2"
+    buildFolder="build"
+    bootClassPath="E:\SDK\AndroidSDK\platforms\android-34\android.jar;E:\SDK\AndroidSDK\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

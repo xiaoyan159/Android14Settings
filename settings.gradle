@@ -1,0 +1,45 @@
+pluginManagement {
+    repositories {
+        google {
+            content {
+                includeGroupByRegex("com\\.android.*")
+                includeGroupByRegex("com\\.google.*")
+                includeGroupByRegex("androidx.*")
+            }
+        }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "CariadSettings"
+include ':app'
+include ':Filter'
+include ':iconloaderlib'
+include ':WifiTrackerLib'
+include ':setupcompat'
+include ':setupdesign'
+
+include ':SettingsLib'
+include ':SettingsLib:ActionBarShadow'
+include ':SettingsLib:ActionButtonsPreference'
+include ':SettingsLib:AdaptiveIcon'
+include ':SettingsLib:AppPreference'
+include ':SettingsLib:BannerMessagePreference'
+include ':SettingsLib:BarChartPreference'
+include ':SettingsLib:ButtonPreference'
+include ':SettingsLib:CollapsingToolbarBaseActivity'
+
+include ':SettingsLib:HelpUtils'
+
+include ':SettingsLib:SettingsTheme'
+include ':SettingsLib:SettingsTransition'
+include ':SettingsLib:Tile'
+include ':SettingsLib:Utils'

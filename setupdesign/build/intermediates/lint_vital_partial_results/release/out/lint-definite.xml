@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.2" type="incidents">
+
+    <incident
+        id="MissingDefaultResource"
+        severity="fatal"
+        message="The layout &quot;sud_glif_preference_template_card&quot; in layout-sw600dp-v31 has no declaration in the base `layout` folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier">
+        <location
+            file="${:setupdesign*release*MAIN*sourceProvider*0*resDir*0}/layout-sw600dp-v31/sud_glif_preference_template_card.xml"
+            line="18"
+            column="2"
+            startOffset="667"
+            endLine="18"
+            endColumn="14"
+            endOffset="679"/>
+    </incident>
+
+</incidents>

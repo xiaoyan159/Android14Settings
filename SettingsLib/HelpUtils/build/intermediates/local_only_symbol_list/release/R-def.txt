@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_help_actionbar
+string help_feedback_label

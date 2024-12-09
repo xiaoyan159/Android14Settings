@@ -1,0 +1,17 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml:18:1-21:12
+INJECTED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml:18:1-21:12
+	package
+		ADDED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml:19:5-41
+		INJECTED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml:18:11-69
+uses-sdk
+INJECTED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml
+INJECTED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\VolkSwagen\OpenSource-Settings\CariadSettings\WifiTrackerLib\AndroidManifest.xml

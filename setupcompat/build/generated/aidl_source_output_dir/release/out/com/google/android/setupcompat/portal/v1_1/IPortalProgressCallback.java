@@ -1,0 +1,416 @@
+/*
+ * This file is auto-generated.  DO NOT MODIFY.
+ */
+package com.google.android.setupcompat.portal.v1_1;
+/**
+ * Interface for progress service to update progress to SUW. Clients should
+ * update progress at least once a minute, or set a pending reason to stop
+ * update progress. Without progress update and pending reason. We considering
+ * the progress service is no response will suspend it and unbinde service.
+ */
+public interface IPortalProgressCallback extends android.os.IInterface
+{
+  /** Default implementation for IPortalProgressCallback. */
+  public static class Default implements com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback
+  {
+    /** Sets completed amount. */
+    @Override public android.os.Bundle setProgressCount(int completed, int failed, int total) throws android.os.RemoteException
+    {
+      return null;
+    }
+    /** Sets completed percentage. */
+    @Override public android.os.Bundle setProgressPercentage(int percentage) throws android.os.RemoteException
+    {
+      return null;
+    }
+    /** Sets the summary shows on portal activity. */
+    @Override public android.os.Bundle setSummary(java.lang.String summary) throws android.os.RemoteException
+    {
+      return null;
+    }
+    /**
+     * Let SUW knows the progress is pending now, and stop update progress.
+     * @param reasonResName The name of resource identifier.
+     * @param quantity The number used to get the correct string for the current language's
+     *           plural rules
+     * @param formatArgs The format arguments that will be used for substitution.
+     */
+    @Override public android.os.Bundle setPendingReason(java.lang.String reasonResName, int quantity, int[] formatArgs, int reason) throws android.os.RemoteException
+    {
+      return null;
+    }
+    /**
+     * Once the progress completed, and service can be destroy. Call this function.
+     * SUW will unbind the service.
+     * @param resName The name of resource identifier.
+     * @param quantity The number used to get the correct string for the current language's
+     *           plural rules
+     * @param formatArgs The format arguments that will be used for substitution.
+     */
+    @Override public android.os.Bundle setComplete(java.lang.String resName, int quantity, int[] formatArgs) throws android.os.RemoteException
+    {
+      return null;
+    }
+    /**
+     * Once the progress failed, and not able to finish the progress. Should call
+     * this function. SUW will unbind service after receive setFailure. Client can
+     * registerProgressService again once the service is ready to execute.
+     * @param resName The name of resource identifier.
+     * @param quantity The number used to get the correct string for the current language's
+     *           plural rules
+     * @param formatArgs The format arguments that will be used for substitution.
+     */
+    @Override public android.os.Bundle setFailure(java.lang.String resName, int quantity, int[] formatArgs) throws android.os.RemoteException
+    {
+      return null;
+    }
+    @Override
+    public android.os.IBinder asBinder() {
+      return null;
+    }
+  }
+  /** Local-side IPC implementation stub class. */
+  public static abstract class Stub extends android.os.Binder implements com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback
+  {
+    /** Construct the stub at attach it to the interface. */
+    public Stub()
+    {
+      this.attachInterface(this, DESCRIPTOR);
+    }
+    /**
+     * Cast an IBinder object into an com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback interface,
+     * generating a proxy if needed.
+     */
+    public static com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback asInterface(android.os.IBinder obj)
+    {
+      if ((obj==null)) {
+        return null;
+      }
+      android.os.IInterface iin = obj.queryLocalInterface(DESCRIPTOR);
+      if (((iin!=null)&&(iin instanceof com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback))) {
+        return ((com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback)iin);
+      }
+      return new com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback.Stub.Proxy(obj);
+    }
+    @Override public android.os.IBinder asBinder()
+    {
+      return this;
+    }
+    @Override public boolean onTransact(int code, android.os.Parcel data, android.os.Parcel reply, int flags) throws android.os.RemoteException
+    {
+      java.lang.String descriptor = DESCRIPTOR;
+      if (code >= android.os.IBinder.FIRST_CALL_TRANSACTION && code <= android.os.IBinder.LAST_CALL_TRANSACTION) {
+        data.enforceInterface(descriptor);
+      }
+      switch (code)
+      {
+        case INTERFACE_TRANSACTION:
+        {
+          reply.writeString(descriptor);
+          return true;
+        }
+      }
+      switch (code)
+      {
+        case TRANSACTION_setProgressCount:
+        {
+          int _arg0;
+          _arg0 = data.readInt();
+          int _arg1;
+          _arg1 = data.readInt();
+          int _arg2;
+          _arg2 = data.readInt();
+          android.os.Bundle _result = this.setProgressCount(_arg0, _arg1, _arg2);
+          reply.writeNoException();
+          _Parcel.writeTypedObject(reply, _result, android.os.Parcelable.PARCELABLE_WRITE_RETURN_VALUE);
+          break;
+        }
+        case TRANSACTION_setProgressPercentage:
+        {
+          int _arg0;
+          _arg0 = data.readInt();
+          android.os.Bundle _result = this.setProgressPercentage(_arg0);
+          reply.writeNoException();
+          _Parcel.writeTypedObject(reply, _result, android.os.Parcelable.PARCELABLE_WRITE_RETURN_VALUE);
+          break;
+        }
+        case TRANSACTION_setSummary:
+        {
+          java.lang.String _arg0;
+          _arg0 = data.readString();
+          android.os.Bundle _result = this.setSummary(_arg0);
+          reply.writeNoException();
+          _Parcel.writeTypedObject(reply, _result, android.os.Parcelable.PARCELABLE_WRITE_RETURN_VALUE);
+          break;
+        }
+        case TRANSACTION_setPendingReason:
+        {
+          java.lang.String _arg0;
+          _arg0 = data.readString();
+          int _arg1;
+          _arg1 = data.readInt();
+          int[] _arg2;
+          _arg2 = data.createIntArray();
+          int _arg3;
+          _arg3 = data.readInt();
+          android.os.Bundle _result = this.setPendingReason(_arg0, _arg1, _arg2, _arg3);
+          reply.writeNoException();
+          _Parcel.writeTypedObject(reply, _result, android.os.Parcelable.PARCELABLE_WRITE_RETURN_VALUE);
+          break;
+        }
+        case TRANSACTION_setComplete:
+        {
+          java.lang.String _arg0;
+          _arg0 = data.readString();
+          int _arg1;
+          _arg1 = data.readInt();
+          int[] _arg2;
+          _arg2 = data.createIntArray();
+          android.os.Bundle _result = this.setComplete(_arg0, _arg1, _arg2);
+          reply.writeNoException();
+          _Parcel.writeTypedObject(reply, _result, android.os.Parcelable.PARCELABLE_WRITE_RETURN_VALUE);
+          break;
+        }
+        case TRANSACTION_setFailure:
+        {
+          java.lang.String _arg0;
+          _arg0 = data.readString();
+          int _arg1;
+          _arg1 = data.readInt();
+          int[] _arg2;
+          _arg2 = data.createIntArray();
+          android.os.Bundle _result = this.setFailure(_arg0, _arg1, _arg2);
+          reply.writeNoException();
+          _Parcel.writeTypedObject(reply, _result, android.os.Parcelable.PARCELABLE_WRITE_RETURN_VALUE);
+          break;
+        }
+        default:
+        {
+          return super.onTransact(code, data, reply, flags);
+        }
+      }
+      return true;
+    }
+    private static class Proxy implements com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback
+    {
+      private android.os.IBinder mRemote;
+      Proxy(android.os.IBinder remote)
+      {
+        mRemote = remote;
+      }
+      @Override public android.os.IBinder asBinder()
+      {
+        return mRemote;
+      }
+      public java.lang.String getInterfaceDescriptor()
+      {
+        return DESCRIPTOR;
+      }
+      /** Sets completed amount. */
+      @Override public android.os.Bundle setProgressCount(int completed, int failed, int total) throws android.os.RemoteException
+      {
+        android.os.Parcel _data = android.os.Parcel.obtain();
+        android.os.Parcel _reply = android.os.Parcel.obtain();
+        android.os.Bundle _result;
+        try {
+          _data.writeInterfaceToken(DESCRIPTOR);
+          _data.writeInt(completed);
+          _data.writeInt(failed);
+          _data.writeInt(total);
+          boolean _status = mRemote.transact(Stub.TRANSACTION_setProgressCount, _data, _reply, 0);
+          _reply.readException();
+          _result = _Parcel.readTypedObject(_reply, android.os.Bundle.CREATOR);
+        }
+        finally {
+          _reply.recycle();
+          _data.recycle();
+        }
+        return _result;
+      }
+      /** Sets completed percentage. */
+      @Override public android.os.Bundle setProgressPercentage(int percentage) throws android.os.RemoteException
+      {
+        android.os.Parcel _data = android.os.Parcel.obtain();
+        android.os.Parcel _reply = android.os.Parcel.obtain();
+        android.os.Bundle _result;
+        try {
+          _data.writeInterfaceToken(DESCRIPTOR);
+          _data.writeInt(percentage);
+          boolean _status = mRemote.transact(Stub.TRANSACTION_setProgressPercentage, _data, _reply, 0);
+          _reply.readException();
+          _result = _Parcel.readTypedObject(_reply, android.os.Bundle.CREATOR);
+        }
+        finally {
+          _reply.recycle();
+          _data.recycle();
+        }
+        return _result;
+      }
+      /** Sets the summary shows on portal activity. */
+      @Override public android.os.Bundle setSummary(java.lang.String summary) throws android.os.RemoteException
+      {
+        android.os.Parcel _data = android.os.Parcel.obtain();
+        android.os.Parcel _reply = android.os.Parcel.obtain();
+        android.os.Bundle _result;
+        try {
+          _data.writeInterfaceToken(DESCRIPTOR);
+          _data.writeString(summary);
+          boolean _status = mRemote.transact(Stub.TRANSACTION_setSummary, _data, _reply, 0);
+          _reply.readException();
+          _result = _Parcel.readTypedObject(_reply, android.os.Bundle.CREATOR);
+        }
+        finally {
+          _reply.recycle();
+          _data.recycle();
+        }
+        return _result;
+      }
+      /**
+       * Let SUW knows the progress is pending now, and stop update progress.
+       * @param reasonResName The name of resource identifier.
+       * @param quantity The number used to get the correct string for the current language's
+       *           plural rules
+       * @param formatArgs The format arguments that will be used for substitution.
+       */
+      @Override public android.os.Bundle setPendingReason(java.lang.String reasonResName, int quantity, int[] formatArgs, int reason) throws android.os.RemoteException
+      {
+        android.os.Parcel _data = android.os.Parcel.obtain();
+        android.os.Parcel _reply = android.os.Parcel.obtain();
+        android.os.Bundle _result;
+        try {
+          _data.writeInterfaceToken(DESCRIPTOR);
+          _data.writeString(reasonResName);
+          _data.writeInt(quantity);
+          _data.writeIntArray(formatArgs);
+          _data.writeInt(reason);
+          boolean _status = mRemote.transact(Stub.TRANSACTION_setPendingReason, _data, _reply, 0);
+          _reply.readException();
+          _result = _Parcel.readTypedObject(_reply, android.os.Bundle.CREATOR);
+        }
+        finally {
+          _reply.recycle();
+          _data.recycle();
+        }
+        return _result;
+      }
+      /**
+       * Once the progress completed, and service can be destroy. Call this function.
+       * SUW will unbind the service.
+       * @param resName The name of resource identifier.
+       * @param quantity The number used to get the correct string for the current language's
+       *           plural rules
+       * @param formatArgs The format arguments that will be used for substitution.
+       */
+      @Override public android.os.Bundle setComplete(java.lang.String resName, int quantity, int[] formatArgs) throws android.os.RemoteException
+      {
+        android.os.Parcel _data = android.os.Parcel.obtain();
+        android.os.Parcel _reply = android.os.Parcel.obtain();
+        android.os.Bundle _result;
+        try {
+          _data.writeInterfaceToken(DESCRIPTOR);
+          _data.writeString(resName);
+          _data.writeInt(quantity);
+          _data.writeIntArray(formatArgs);
+          boolean _status = mRemote.transact(Stub.TRANSACTION_setComplete, _data, _reply, 0);
+          _reply.readException();
+          _result = _Parcel.readTypedObject(_reply, android.os.Bundle.CREATOR);
+        }
+        finally {
+          _reply.recycle();
+          _data.recycle();
+        }
+        return _result;
+      }
+      /**
+       * Once the progress failed, and not able to finish the progress. Should call
+       * this function. SUW will unbind service after receive setFailure. Client can
+       * registerProgressService again once the service is ready to execute.
+       * @param resName The name of resource identifier.
+       * @param quantity The number used to get the correct string for the current language's
+       *           plural rules
+       * @param formatArgs The format arguments that will be used for substitution.
+       */
+      @Override public android.os.Bundle setFailure(java.lang.String resName, int quantity, int[] formatArgs) throws android.os.RemoteException
+      {
+        android.os.Parcel _data = android.os.Parcel.obtain();
+        android.os.Parcel _reply = android.os.Parcel.obtain();
+        android.os.Bundle _result;
+        try {
+          _data.writeInterfaceToken(DESCRIPTOR);
+          _data.writeString(resName);
+          _data.writeInt(quantity);
+          _data.writeIntArray(formatArgs);
+          boolean _status = mRemote.transact(Stub.TRANSACTION_setFailure, _data, _reply, 0);
+          _reply.readException();
+          _result = _Parcel.readTypedObject(_reply, android.os.Bundle.CREATOR);
+        }
+        finally {
+          _reply.recycle();
+          _data.recycle();
+        }
+        return _result;
+      }
+    }
+    static final int TRANSACTION_setProgressCount = (android.os.IBinder.FIRST_CALL_TRANSACTION + 0);
+    static final int TRANSACTION_setProgressPercentage = (android.os.IBinder.FIRST_CALL_TRANSACTION + 1);
+    static final int TRANSACTION_setSummary = (android.os.IBinder.FIRST_CALL_TRANSACTION + 2);
+    static final int TRANSACTION_setPendingReason = (android.os.IBinder.FIRST_CALL_TRANSACTION + 3);
+    static final int TRANSACTION_setComplete = (android.os.IBinder.FIRST_CALL_TRANSACTION + 4);
+    static final int TRANSACTION_setFailure = (android.os.IBinder.FIRST_CALL_TRANSACTION + 5);
+  }
+  public static final java.lang.String DESCRIPTOR = "com.google.android.setupcompat.portal.v1_1.IPortalProgressCallback";
+  /** Sets completed amount. */
+  public android.os.Bundle setProgressCount(int completed, int failed, int total) throws android.os.RemoteException;
+  /** Sets completed percentage. */
+  public android.os.Bundle setProgressPercentage(int percentage) throws android.os.RemoteException;
+  /** Sets the summary shows on portal activity. */
+  public android.os.Bundle setSummary(java.lang.String summary) throws android.os.RemoteException;
+  /**
+   * Let SUW knows the progress is pending now, and stop update progress.
+   * @param reasonResName The name of resource identifier.
+   * @param quantity The number used to get the correct string for the current language's
+   *           plural rules
+   * @param formatArgs The format arguments that will be used for substitution.
+   */
+  public android.os.Bundle setPendingReason(java.lang.String reasonResName, int quantity, int[] formatArgs, int reason) throws android.os.RemoteException;
+  /**
+   * Once the progress completed, and service can be destroy. Call this function.
+   * SUW will unbind the service.
+   * @param resName The name of resource identifier.
+   * @param quantity The number used to get the correct string for the current language's
+   *           plural rules
+   * @param formatArgs The format arguments that will be used for substitution.
+   */
+  public android.os.Bundle setComplete(java.lang.String resName, int quantity, int[] formatArgs) throws android.os.RemoteException;
+  /**
+   * Once the progress failed, and not able to finish the progress. Should call
+   * this function. SUW will unbind service after receive setFailure. Client can
+   * registerProgressService again once the service is ready to execute.
+   * @param resName The name of resource identifier.
+   * @param quantity The number used to get the correct string for the current language's
+   *           plural rules
+   * @param formatArgs The format arguments that will be used for substitution.
+   */
+  public android.os.Bundle setFailure(java.lang.String resName, int quantity, int[] formatArgs) throws android.os.RemoteException;
+  /** @hide */
+  static class _Parcel {
+    static private <T> T readTypedObject(
+        android.os.Parcel parcel,
+        android.os.Parcelable.Creator<T> c) {
+      if (parcel.readInt() != 0) {
+          return c.createFromParcel(parcel);
+      } else {
+          return null;
+      }
+    }
+    static private <T extends android.os.Parcelable> void writeTypedObject(
+        android.os.Parcel parcel, T value, int parcelableFlags) {
+      if (value != null) {
+        parcel.writeInt(1);
+        value.writeToParcel(parcel, parcelableFlags);
+      } else {
+        parcel.writeInt(0);
+      }
+    }
+  }
+}

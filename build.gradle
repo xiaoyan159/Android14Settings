@@ -1,0 +1,34 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    alias(libs.plugins.android.application) apply false
+    alias(libs.plugins.kotlin.android) apply false
+    alias(libs.plugins.android.library) apply false
+}
+
+//allprojects {
+//    gradle.projectsEvaluated {
+//        tasks.withType(JavaCompile).tap {
+//            configureEach {
+//                Set<File> fileSet
+//                if (options.bootstrapClasspath != null ) {
+//                    fileSet = options.bootstrapClasspath.getFiles()
+//                    System.out.println("bootstrapClasspath: null")
+//                }else {
+//                    fileSet = new HashSet<>()
+//                }
+//
+//                List<File> newFileList = new ArrayList<>()
+//                //JAVA语法，可连续调用，输入参数建议为相对路径
+//                newFileList.add(new File("./libs/framework.jar"))
+//                //最后将原始参数添加
+//                newFileList.addAll(fileSet)
+//                options.bootstrapClasspath = files(
+//                        newFileList.toArray()
+//                )
+//                for (File file : options.bootstrapClasspath) {
+//                    System.out.println("bootstrapClasspath: " + file.getAbsolutePath())
+//                }
+//            }
+//        }
+//    }
+//}

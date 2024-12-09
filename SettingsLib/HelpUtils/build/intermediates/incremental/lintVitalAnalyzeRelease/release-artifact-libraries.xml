@@ -1,0 +1,31 @@
+<libraries>
+  <library
+      name="__local_aars__:E:\VolkSwagen\OpenSource-Settings\CariadSettings\libs\framework.jar:unspecified@jar"
+      jars="E:\VolkSwagen\OpenSource-Settings\CariadSettings\libs\framework.jar"
+      resolved="__local_aars__:E:\VolkSwagen\OpenSource-Settings\CariadSettings\libs\framework.jar:unspecified"
+      provided="true"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0@jar"
+      jars="C:\Users\xiaoy\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk8\1.9.0\e000bd084353d84c9e888f6fb341dc1f5b79d948\kotlin-stdlib-jdk8-1.9.0.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0@jar"
+      jars="C:\Users\xiaoy\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.9.0\f320478990d05e0cfaadd74f9619fd6027adbf37\kotlin-stdlib-jdk7-1.9.0.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0"/>
+  <library
+      name="androidx.annotation:annotation-jvm:1.8.0-alpha01@jar"
+      jars="C:\Users\xiaoy\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation-jvm\1.8.0-alpha01\b8a16fe526014b7941c1debaccaf9c5153692dbb\annotation-jvm-1.8.0-alpha01.jar"
+      resolved="androidx.annotation:annotation-jvm:1.8.0-alpha01"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.9.0@jar"
+      jars="C:\Users\xiaoy\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.0\8ee15ef0c67dc83d874f412d84378d7f0eb50b63\kotlin-stdlib-1.9.0.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.9.0"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.9.0@jar"
+      jars="C:\Users\xiaoy\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-common\1.9.0\cd65c21cfd1eec4d44ef09f9f52b6d9f8a720636\kotlin-stdlib-common-1.9.0.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.9.0"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="C:\Users\xiaoy\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+</libraries>

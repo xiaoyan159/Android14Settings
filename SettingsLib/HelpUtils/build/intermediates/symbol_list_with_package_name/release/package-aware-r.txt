@@ -1,0 +1,3 @@
+com.android.settingslib.widget.help
+drawable ic_help_actionbar
+string help_feedback_label
