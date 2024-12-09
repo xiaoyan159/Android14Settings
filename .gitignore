@@ -16,3 +16,4 @@
 local.properties
 */build/
 */release/
+/SettingsLib/*/build/
