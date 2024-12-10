@@ -21,7 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "CariadSettings"
 include ':app'
-include ':CarSettings'
+//include ':CarSettings'
+include ':Settings'
 include ':Filter'
 include ':iconloaderlib'
 include ':WifiTrackerLib'
@@ -60,3 +61,9 @@ include ':SettingsLib:TopIntroPreference'
 include ':SettingsLib:TwoTargetPreference'
 include ':SettingsLib:UsageProgressBarPreference'
 include ':SettingsLib:Utils'
+
+
+//include ':car-admin-ui-lib'
+//include ':car-apps-common'
+//include ':car-qc-lib'
+include ':SettingsLib:search'

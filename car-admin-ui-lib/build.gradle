@@ -1,0 +1,51 @@
+/**
+ * Include this gradle file if you are building against this as a standalone gradle library project,
+ * as opposed to building it as part of the git-tree. This is typically the file you want to include
+ * if you create a new project in Android Studio. Besides, SetupDesign library is dependent with
+ * SetupCompat library, you should also include setupcompat library in project.
+ *
+ * For example, you can include the following in your settings.gradle file:
+ *      include ':setupdesign'
+ *      project(':setupdesign').projectDir = new File(PATH_TO_THIS_DIRECTORY)
+ *      include ':setupcompat'
+ *      project(':setupcompat').projectDir = new File(PATH_TO_THIS_DIRECTORY)
+ *
+ * And then you can include the :setupdesign project as one of your dependencies
+ *      dependencies {
+ *          implementation project(path: ':setupdesign')
+ *      }
+ */
+
+plugins {
+    alias(libs.plugins.android.library)
+    alias(libs.plugins.kotlin.android)
+}
+
+android {
+    compileSdk 34
+    namespace = "com.android.car.admin.ui"
+    defaultConfig {
+        minSdkVersion 31
+        targetSdkVersion 34
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard.flags'
+        }
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src/main/java']
+            res.srcDirs = ['src/main/res']
+        }
+    }
+}
+
+dependencies {
+    implementation project(':SettingsLib')
+    implementation files('./libs/modules-utils-preconditions.jar')
+}

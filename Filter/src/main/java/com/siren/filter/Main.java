@@ -22,6 +22,9 @@ public class Main {
                 "SettingsLib/RestrictedLockUtils/res",
                 "SettingsLib/SearchWidget/res",
                 "CarSettings/res",
+                "Settings/res",
+                "Settings/res-export",
+                "Settings/res-product",
         };
 
         for (String name : arr) {

@@ -25,6 +25,9 @@ concurrent-futures-ktx = "1.2.0"
 guava = "33.3.1-android"
 error_prone_annotations = "2.28.0"
 localbroadcastmanager = "1.0.0"
+javapoet = "1.13.0"
+navigation-fragment-ktx = "2.5.3"
+gson = "2.10.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -46,6 +49,7 @@ legacy-support-core-ui = { group = "androidx.legacy", name = "legacy-support-cor
 preference = {group = "androidx.preference", name = "preference", version.ref = "preference"}
 lottie = {group = "com.airbnb.android", name = "lottie", version.ref = "lottie"}
 
+# CarSettings依赖
 lifecycle-common-java8 = { group = "androidx.lifecycle", name = "lifecycle-common-java8", version.ref = "lifecycle-runtime" }
 lifecycle-extensions = { group = "androidx.lifecycle", name = "lifecycle-extensions", version.ref = "lifecycle-extensions" }
 car-ui-lib = { group = "com.android.car.ui", name = "car-ui-lib", version.ref = "car-ui-lib" }
@@ -54,6 +58,12 @@ concurrent-futures-ktx = { group = "androidx.concurrent", name = "concurrent-fut
 guava = {group = "com.google.guava", name = "guava", version.ref = "guava"}
 error_prone_annotations = {group = "com.google.errorprone", name = "error_prone_annotations", version.ref = "error_prone_annotations"}
 localbroadcastmanager = {group = "androidx.localbroadcastmanager", name = "localbroadcastmanager", version.ref = "localbroadcastmanager"}
+javapoet = {group = "com.squareup", name = "javapoet", version.ref = "javapoet"}
+
+# Settings依赖
+navigation-fragment-ktx = { group = "androidx.navigation", name = "navigation-fragment-ktx", version.ref = "navigation-fragment-ktx" }
+window-window-java = {group = "androidx.window", name = "window-java", version.ref = "window"}
+gson = {group = "com.google.code.gson", name = "gson", version.ref = "gson"}
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
