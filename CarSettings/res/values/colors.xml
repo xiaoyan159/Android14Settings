@@ -72,4 +72,9 @@
     <color name="user_disclaimer_text_color">@android:color/white</color>
     <!-- Background color of button. -->
     <color name="user_disclaimer_action_button_background_color">@*android:color/car_grey_868</color>
+    <color name="car_grey_400">@android:color/darker_gray</color>
+    <color name="car_grey_800">@android:color/darker_gray</color>
+    <color name="car_card_ripple_background">@android:color/darker_gray</color>
+    <color name="hero_button_background_color">@android:color/darker_gray</color>
+    <color name="secondary_text_color">@android:color/darker_gray</color>
 </resources>

@@ -48,16 +48,18 @@ android {
 
 dependencies {
 //    implementation "androidx.annotation:annotation:1.0.0"
-//    implementation files('../libs/localbroadcastmanager-1.1.0-alpha02.aar')
+    implementation libs.localbroadcastmanager
     implementation libs.room.runtime
     implementation libs.sqlite
     implementation files('../libs/zxing-core.jar')
     // Android14\out\soong\.intermediates\external\guava\guava\android_common\turbine-combined
-//    implementation files('../libs/guava.jar')
+//    implementation(files('../libs/guava.jar'))
+    implementation libs.guava
 
-//    implementation files('../libs/WifiTrackerLibRes.jar')
+    implementation project(':WifiTrackerLib')
     implementation project(':iconloaderlib')
     implementation project(':setupdesign')
+    implementation project(':setupcompat')
 
     implementation project(':SettingsLib:ActionBarShadow')
     implementation project(':SettingsLib:ActionButtonsPreference')
@@ -95,4 +97,12 @@ dependencies {
 
 
     implementation libs.preference
+    implementation libs.concurrent.futures.ktx
+    implementation files('../libs/core-all.jar')
+}
+
+configurations.configureEach {
+    exclude group: 'com.google.common.util.concurrent', module: 'listenablefuture'
+    exclude group: 'android.icu.*', module: 'core-all'
+    exclude group: 'com.google.common.util.concurrent.ListenableFuture', module: 'guava'
 }

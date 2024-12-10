@@ -50,4 +50,8 @@
     <attr name="preferenceStyle" format="reference" />
     <attr name="switchPreferenceStyle" format="reference" />
 
+    <!-- 自己添加的资源引用 -->
+    <attr name="textColorOnAccent" format="color" />
+    <attr name="colorAccentPrimaryVariant" format="color" />
+    <attr name="colorAccentPrimary" format="color" />
 </resources>

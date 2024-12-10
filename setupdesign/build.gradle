@@ -57,5 +57,5 @@ dependencies {
     implementation libs.recyclerview
     implementation libs.window.window
     implementation libs.material
-    implementation files('../libs/error_prone_annotations.jar')
+    implementation libs.error.prone.annotations
 }

@@ -216,5 +216,6 @@
     <dimen name="block_by_admin_icon_padding">@*android:dimen/car_padding_2</dimen>
 
     <dimen name="rounded_corner_radius">16dp</dimen>
+    <dimen name="hero_button_corner_radius">6dp</dimen>
 
 </resources>

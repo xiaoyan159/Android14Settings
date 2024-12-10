@@ -75,6 +75,7 @@ dependencies {
     implementation libs.car.ui.lib
     implementation files('../libs/car-apps-common.jar')
     implementation files('../libs/car-setup-wizard-lib-utils.jar')
+    implementation files('../libs/car-admin-ui-lib.jar')
     implementation(project(':WifiTrackerLib'))
     implementation(project(':SettingsLib'))
     implementation libs.constraintlayout.solver
