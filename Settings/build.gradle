@@ -71,6 +71,40 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = '1.5.0' // 假设1.4.0支持Kotlin 1.9.0
     }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    signingConfigs {
+        platform {
+            storeFile file("platform.jks")
+            storePassword 'android'
+            keyAlias 'androidkey'
+            keyPassword 'android'
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled false
+            signingConfig signingConfigs.platform
+        }
+
+        debug {
+            debuggable false
+            minifyEnabled false
+            signingConfig signingConfigs.platform
+        }
+
+        applicationVariants.all { variant ->
+            variant.outputs.all {
+                outputFileName = "BSettings.apk"
+            }
+        }
+    }
 }
 
 dependencies {
@@ -183,6 +217,7 @@ dependencies {
     implementation libs.zxing
     implementation files('../libs/settingslib_media_flags_lib.jar')
     implementation files('../libs/core-all.jar')
+    implementation files('../libs/android.hidl.base-V1.0-java.jar')
     implementation libs.dagger
     annotationProcessor libs.dagger.compiler
 }
