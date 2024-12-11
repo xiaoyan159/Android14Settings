@@ -1,0 +1,43 @@
+plugins {
+    alias(libs.plugins.android.library)
+    alias(libs.plugins.kotlin.android)
+}
+
+android {
+    namespace = "com.google.android.setupdesign.lottieloadinglayout"
+    compileSdk 34
+    defaultConfig {
+        minSdk 31
+        targetSdk 34
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    sourceSets {
+        main {
+            java.srcDirs = ['src']
+            manifest.srcFile 'AndroidManifest.xml'
+            res.srcDirs = ['res']
+        }
+    }
+    lint {
+        abortOnError false
+    }
+
+    tasks.withType(JavaCompile) {
+        options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+//    compileOnly files('../libs/framework.jar')
+    implementation libs.androidx.annotation.annotation
+    implementation libs.lottie
+    implementation project(':setupdesign')
+    implementation project(':setupcompat')
+}

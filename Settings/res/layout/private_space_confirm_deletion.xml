@@ -14,17 +14,20 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-
-<com.google.android.setupdesign.GlifLoadingLayout
+<FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/private_space_delete_confirm"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:icon="@drawable/ic_delete_accent"
-    app:sudUsePartnerHeavyTheme="true"
-    app:sudIllustrationType="default"
-    app:sudDescriptionText = "@string/private_space_confirm_deletion_summary"
-    app:sucHeaderText="@string/private_space_confirm_deletion_header">
-</com.google.android.setupdesign.GlifLoadingLayout>
+    android:layout_height="match_parent">
+
+    <com.google.android.setupdesign.GlifLoadingLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/private_space_delete_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:icon="@drawable/ic_delete_accent"
+        app:sudUsePartnerHeavyTheme="true"
+        app:sudDescriptionText="@string/private_space_confirm_deletion_summary"
+        app:sucHeaderText="@string/private_space_confirm_deletion_header" />
+</FrameLayout>

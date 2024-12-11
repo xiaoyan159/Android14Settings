@@ -1,6 +1,8 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.atomicfu)
+    alias(libs.plugins.protobuf)
 }
 
 //preBuild {
@@ -45,6 +47,7 @@ android {
         manifest.srcFile 'AndroidManifest.xml'
         java.srcDirs = ['src']
         res.srcDirs = ['res', 'res-export', 'res-product']
+        proto.srcDirs = ['protos']
     }
 
     buildTypes {
@@ -60,17 +63,26 @@ android {
     kotlinOptions {
         jvmTarget = '17'
     }
+
+    buildFeatures {
+        compose true
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion = '1.5.0' // 假设1.4.0支持Kotlin 1.9.0
+    }
 }
 
 dependencies {
+    compileOnly files('../libs/framework.jar')
     implementation libs.navigation.fragment.ktx
     implementation libs.window.window.java
     implementation libs.gson
     implementation libs.guava
 
     implementation files('../libs/BiometricsSharedLib.jar')
+    implementation files('../libs/BiometricsSharedLib-java.jar')
     implementation files('../libs/SystemUIUnfoldLib.jar')
-    implementation project(':WifiTrackerLib')
     implementation files('../libs/android.hardware.dumpstate-V1-java.jar')
     implementation files('../libs/android.hardware.dumpstate-V1.0-java.jar')
     implementation files('../libs/android.hardware.dumpstate-V1.1-java.jar')
@@ -78,12 +90,55 @@ dependencies {
     implementation files('../libs/net-utils-framework-common.jar')
     implementation files('../libs/notification_flags_lib.jar')
     implementation files('../libs/securebox.jar')
+
+    implementation files('../libs/FingerprintManagerInteractor.jar')
+    implementation files('../libs/MediaDrmSettingsFlagsLib.jar')
+    implementation files('../libs/Settings-change-ids.jar')
+    // SettingsLib的依赖在后面整体配置
+    implementation files('../libs/aconfig_settings_flags_lib.jar')
+    implementation files('../libs/accessibility_settings_flags_lib.jar')
+    implementation files('../libs/app-usage-event-protos-lite.jar')
+    implementation files('../libs/battery-event-protos-lite.jar')
+    implementation files('../libs/battery-usage-slot-protos-lite.jar')
     implementation files('./libs/contextualcards.aar')
+    implementation files('../libs/development_settings_flag_lib.jar')
+    implementation files('../libs/factory_reset_flags_lib.jar')
+    implementation files('../libs/fuelgauge-log-protos-lite.jar')
+    implementation files('../libs/fuelgauge-usage-state-protos-lite.jar')
+    implementation files('../libs/power-anomaly-event-protos-lite.jar')
+    implementation files('../libs/settings-contextual-card-protos-lite.jar')
+    implementation files('../libs/settings-log-bridge-protos-lite.jar')
+    implementation files('../libs/settings-logtags.jar')
+    implementation files('../libs/settings-telephony-protos-lite.jar')
+    implementation files('../libs/setupdesign-lottie-loading-layout.jar')
+
+    implementation files('../libs/statslog-settings.jar')
+    implementation files('../libs/settingslib_flags_lib.jar')
+    implementation files('../libs/wifi_aconfig_flags_lib.jar')
+    implementation files('../libs/android.view.accessibility.flags-aconfig-java.jar')
+    implementation files('../libs/telephony_flags_core_java_lib.jar')
+
+
+//    implementation files('../libs/SystemUISharedLib.jar')
+    implementation libs.androidx.appcompat
+    implementation libs.material
+    implementation libs.slice.builders
+    implementation libs.slice.core
+    implementation libs.slice.view
+    implementation libs.lottie
+//    implementation libs.compose.ui
+    implementation libs.compose.material3
+    implementation libs.material.icons.core
+    implementation libs.preference
+    implementation libs.room.runtime
+    annotationProcessor libs.room.compiler
+    implementation libs.atomicfu
 
     implementation(project(':SettingsLib'))
     implementation(project(':SettingsLib:search'))
     implementation project(':SettingsLib:ActionBarShadow')
     implementation project(':SettingsLib:ActionButtonsPreference')
+    implementation project(':SettingsLib:ActivityEmbedding')
     implementation project(':SettingsLib:AdaptiveIcon')
     implementation project(':SettingsLib:AppPreference')
     implementation project(':SettingsLib:BannerMessagePreference')
@@ -91,6 +146,7 @@ dependencies {
     implementation project(':SettingsLib:ButtonPreference')
     implementation project(':SettingsLib:CollapsingToolbarBaseActivity')
     implementation project(':SettingsLib:Color')
+    implementation project(':SettingsLib:DataStore')
     implementation project(':SettingsLib:DeviceStateRotationLock')
     implementation project(':SettingsLib:DisplayUtils')
     implementation project(':SettingsLib:EmergencyNumber')
@@ -113,4 +169,40 @@ dependencies {
     implementation project(':SettingsLib:TwoTargetPreference')
     implementation project(':SettingsLib:UsageProgressBarPreference')
     implementation project(':SettingsLib:Utils')
+
+    implementation project(':WifiTrackerLib')
+    implementation project(':setupdesign')
+    implementation project(':setupcompat')
+    implementation project(':iconloaderlib')
+//    implementation project(':lottie_loading_layout')
+    implementation project(':spa')
+    implementation project(':SettingsLib:SpaPrivileged')
+
+    implementation libs.protobuf.javalite
+    implementation libs.protoc
+    implementation libs.zxing
+    implementation files('../libs/settingslib_media_flags_lib.jar')
+    implementation files('../libs/core-all.jar')
+    implementation libs.dagger
+    annotationProcessor libs.dagger.compiler
+}
+protobuf {
+    protoc {
+        // 通用 artifact
+        artifact = 'com.google.protobuf:protoc:3.8.0'
+        // MacOS
+        if (org.gradle.internal.os.OperatingSystem.current().isMacOsX()) {
+            artifact = 'com.google.protobuf:protoc:3.8.0:osx-x86_64'
+        }
+    }
+    generateProtoTasks {
+        all().each { task ->
+            task.builtins {
+                remove java
+                java {
+                    option "lite"
+                }
+            }
+        }
+    }
 }

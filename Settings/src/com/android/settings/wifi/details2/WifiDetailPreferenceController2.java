@@ -56,6 +56,7 @@ import android.util.Log;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.annotation.VisibleForTesting;
 import androidx.core.text.BidiFormatter;
 import androidx.preference.Preference;
@@ -80,6 +81,7 @@ import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnPause;
 import com.android.settingslib.core.lifecycle.events.OnResume;
+import com.android.settingslib.search.SearchIndexableRaw;
 import com.android.settingslib.utils.StringUtil;
 import com.android.settingslib.widget.ActionButtonsPreference;
 import com.android.settingslib.widget.LayoutPreference;
@@ -193,6 +195,31 @@ public class WifiDetailPreferenceController2 extends AbstractPreferenceControlle
     private CarrierIdAsyncQueryHandler mCarrierIdAsyncQueryHandler;
     private static final int TOKEN_QUERY_CARRIER_ID_AND_UPDATE_SIM_SUMMARY = 1;
     private static final int COLUMN_CARRIER_NAME = 0;
+
+    @Override
+    public void updateNonIndexableKeys(List<String> keys) {
+        PreferenceControllerMixin.super.updateNonIndexableKeys(keys);
+    }
+
+    @Override
+    public void updateRawDataToIndex(List<SearchIndexableRaw> rawData) {
+        PreferenceControllerMixin.super.updateRawDataToIndex(rawData);
+    }
+
+    @Override
+    public void updateDynamicRawDataToIndex(List<SearchIndexableRaw> rawData) {
+        PreferenceControllerMixin.super.updateDynamicRawDataToIndex(rawData);
+    }
+
+    @Override
+    public void onForget(@NonNull WifiDialog2 dialog) {
+        WifiDialog2Listener.super.onForget(dialog);
+    }
+
+    @Override
+    public void onScan(@NonNull WifiDialog2 dialog, @NonNull String ssid) {
+        WifiDialog2Listener.super.onScan(dialog, ssid);
+    }
 
     private class CarrierIdAsyncQueryHandler extends AsyncQueryHandler {
 

@@ -29,6 +29,6 @@
             android:right="16dp"
             android:top="8dp"
             android:bottom="8dp" />
-        <solid android:color="?androidprv:attr/colorAccentPrimary" />
+        <solid android:color="?attr/colorAccentPrimary" />
     </shape>
 </inset>

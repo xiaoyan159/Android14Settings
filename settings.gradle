@@ -9,6 +9,7 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
+        maven { url 'https://jitpack.io' }
     }
 }
 dependencyResolutionManagement {
@@ -16,6 +17,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url 'https://jitpack.io' }
     }
 }
 
@@ -32,6 +34,7 @@ include ':setupdesign'
 include ':SettingsLib'
 include ':SettingsLib:ActionBarShadow'
 include ':SettingsLib:ActionButtonsPreference'
+include ':SettingsLib:ActivityEmbedding'
 include ':SettingsLib:AdaptiveIcon'
 include ':SettingsLib:AppPreference'
 include ':SettingsLib:BannerMessagePreference'
@@ -39,6 +42,7 @@ include ':SettingsLib:BarChartPreference'
 include ':SettingsLib:ButtonPreference'
 include ':SettingsLib:CollapsingToolbarBaseActivity'
 include ':SettingsLib:Color'
+include ':SettingsLib:DataStore'
 include ':SettingsLib:DeviceStateRotationLock'
 include ':SettingsLib:DisplayUtils'
 include ':SettingsLib:EmergencyNumber'
@@ -56,6 +60,8 @@ include ':SettingsLib:SelectorWithWidgetPreference'
 include ':SettingsLib:SettingsSpinner'
 include ':SettingsLib:SettingsTheme'
 include ':SettingsLib:SettingsTransition'
+include ':spa'
+include ':SettingsLib:SpaPrivileged'
 include ':SettingsLib:Tile'
 include ':SettingsLib:TopIntroPreference'
 include ':SettingsLib:TwoTargetPreference'
@@ -67,3 +73,4 @@ include ':SettingsLib:Utils'
 //include ':car-apps-common'
 //include ':car-qc-lib'
 include ':SettingsLib:search'
+include ':lottie_loading_layout'

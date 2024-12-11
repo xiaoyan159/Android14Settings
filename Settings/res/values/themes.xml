@@ -67,12 +67,12 @@
         <item name="sliceViewStyle">@style/Widget.SliceView.Settings</item>
 
         <item name="notification_importance_button_background_color_unselected">@android:color/transparent</item>
-        <item name="notification_importance_button_border_color_unselected">?androidprv:attr/materialColorOutlineVariant</item>
-        <item name="notification_importance_button_foreground_color_unselected">?androidprv:attr/materialColorOnSurfaceVariant</item>
+        <item name="notification_importance_button_border_color_unselected">?attr/materialColorOutlineVariant</item>
+        <item name="notification_importance_button_foreground_color_unselected">?attr/materialColorOnSurfaceVariant</item>
 
-        <item name="notification_importance_button_background_color_selected">?androidprv:attr/materialColorSecondaryContainer</item>
-        <item name="notification_importance_button_border_color_selected">?androidprv:attr/materialColorOnSecondaryContainer</item>
-        <item name="notification_importance_button_foreground_color_selected">?androidprv:attr/materialColorOnSecondaryContainer</item>
+        <item name="notification_importance_button_background_color_selected">?attr/materialColorSecondaryContainer</item>
+        <item name="notification_importance_button_border_color_selected">?attr/materialColorOnSecondaryContainer</item>
+        <item name="notification_importance_button_foreground_color_selected">?attr/materialColorOnSecondaryContainer</item>
     </style>
 
     <!-- Variant of the settings theme with no action bar. -->

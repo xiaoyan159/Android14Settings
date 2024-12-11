@@ -51,7 +51,7 @@
         android:letterSpacing="0"
         android:minHeight="20dp"
         android:fontFamily="@string/sudFontSecondaryText"
-        android:textColor="?androidprv:attr/materialColorOnSurfaceVariant"/>
+        android:textColor="?attr/materialColorOnSurfaceVariant"/>
 
     <!-- Toggle -->
     <com.google.android.material.materialswitch.MaterialSwitch

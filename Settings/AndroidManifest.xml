@@ -806,7 +806,7 @@
         <activity android:name=".network.SimOnboardingActivity"
             android:exported="false"
             android:permission="android.permission.WRITE_EMBEDDED_SUBSCRIPTIONS"
-            android:theme="@style/Theme.SpaLib.BottomSheetDialog"/>
+            android:theme="@style/Theme.Material3.DayNight.BottomSheetDialog"/>
 
         <activity android:name=".network.telephony.ToggleSubscriptionDialogActivity"
                   android:exported="false"
@@ -5128,7 +5128,7 @@
         <activity
             android:name="com.android.settings.network.WepNetworkDialogActivity"
             android:exported="true"
-            android:theme="@style/Theme.SpaLib.Dialog"
+            android:theme="@style/Theme.Material3.DayNight.Dialog"
             android:permission="android.permission.NETWORK_SETTINGS">
         </activity>
 

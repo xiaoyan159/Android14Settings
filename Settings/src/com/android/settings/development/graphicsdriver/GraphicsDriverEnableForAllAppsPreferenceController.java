@@ -40,7 +40,7 @@ import com.android.settingslib.core.lifecycle.events.OnStart;
 import com.android.settingslib.core.lifecycle.events.OnStop;
 import com.android.settingslib.development.DevelopmentSettingsEnabler;
 
-import dalvik.system.VMRuntime;
+//import dalvik.system.VMRuntime;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -218,15 +218,15 @@ public class GraphicsDriverEnableForAllAppsPreferenceController extends BasePref
     }
 
     private static String chooseAbi(ApplicationInfo ai) {
-        final String isa = VMRuntime.getCurrentInstructionSet();
-        if (ai.primaryCpuAbi != null
-                && isa.equals(VMRuntime.getInstructionSet(ai.primaryCpuAbi))) {
-            return ai.primaryCpuAbi;
-        }
-        if (ai.secondaryCpuAbi != null
-                && isa.equals(VMRuntime.getInstructionSet(ai.secondaryCpuAbi))) {
-            return ai.secondaryCpuAbi;
-        }
+//        final String isa = VMRuntime.getCurrentInstructionSet();
+//        if (ai.primaryCpuAbi != null
+//                && isa.equals(VMRuntime.getInstructionSet(ai.primaryCpuAbi))) {
+//            return ai.primaryCpuAbi;
+//        }
+//        if (ai.secondaryCpuAbi != null
+//                && isa.equals(VMRuntime.getInstructionSet(ai.secondaryCpuAbi))) {
+//            return ai.secondaryCpuAbi;
+//        }
         return null;
     }
 }

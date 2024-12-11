@@ -51,7 +51,7 @@ dependencies {
     implementation libs.localbroadcastmanager
     implementation libs.room.runtime
     implementation libs.sqlite
-    implementation files('../libs/zxing-core.jar')
+    implementation libs.zxing
     // Android14\out\soong\.intermediates\external\guava\guava\android_common\turbine-combined
 //    implementation(files('../libs/guava.jar'))
     implementation libs.guava

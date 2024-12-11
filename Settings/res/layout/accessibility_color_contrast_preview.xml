@@ -28,7 +28,7 @@
 
     <View
         android:id="@+id/preview_background"
-        android:background="?androidprv:attr/materialColorSurface"
+        android:background="?attr/materialColorSurface"
         android:layout_width="0dp"
         android:layout_height="0dp"
 
@@ -47,7 +47,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:textColor="?androidprv:attr/textColorPrimary"
+        android:textColor="?attr/textColorPrimary"
         android:text="@string/color_contrast_preview" />
 
     <View
@@ -83,7 +83,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="17dp"
-        android:textColor="?androidprv:attr/materialColorOnSurface"
+        android:textColor="?attr/materialColorOnSurface"
         android:textSize="12sp"
         app:layout_constraintStart_toEndOf="@+id/ic_group"
         app:layout_constraintTop_toTopOf="@+id/email_background"
@@ -93,7 +93,7 @@
         android:id="@+id/date"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="?androidprv:attr/materialColorOnSurfaceVariant"
+        android:textColor="?attr/materialColorOnSurfaceVariant"
         android:textSize="11sp"
         app:layout_constraintStart_toStartOf="@+id/sender_name"
         app:layout_constraintTop_toBottomOf="@+id/sender_name"
@@ -104,7 +104,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
-        android:textColor="?androidprv:attr/materialColorOnSurface"
+        android:textColor="?attr/materialColorOnSurface"
         android:background="@drawable/color_contrast_preview_tag_background"
         android:textSize="11sp"
         app:layout_constraintStart_toEndOf="@+id/sender_name"
@@ -130,7 +130,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="14dp"
         android:layout_marginTop="62dp"
-        android:textColor="?androidprv:attr/materialColorOnSurface"
+        android:textColor="?attr/materialColorOnSurface"
         android:textSize="16sp"
         app:layout_constraintStart_toStartOf="@+id/email_background"
         app:layout_constraintTop_toTopOf="@+id/email_background"
@@ -140,7 +140,7 @@
         android:id="@+id/email_body"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="?androidprv:attr/materialColorOnSurfaceVariant"
+        android:textColor="?attr/materialColorOnSurfaceVariant"
         android:textSize="12sp"
         android:paddingBottom="8dp"
         android:maxLines="2"
@@ -173,7 +173,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingRight="8dp"
-        android:textColor="?androidprv:attr/materialColorOnTertiaryContainer"
+        android:textColor="?attr/materialColorOnTertiaryContainer"
         android:textSize="12sp"
         app:layout_constraintStart_toEndOf="@+id/ic_article_filled"
         app:layout_constraintTop_toTopOf="@+id/attachment_background"

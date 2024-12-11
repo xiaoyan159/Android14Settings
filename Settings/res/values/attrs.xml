@@ -203,4 +203,37 @@
     <declare-styleable name="BackgroundPreference">
         <attr name="background" format="reference" />
     </declare-styleable>
+
+    <!-- 缺少元素补充 -->
+    <attr name="materialColorSurfaceBright" format="color" />
+    <attr name="materialColorSurfaceContainerHigh" format="color" />
+    <attr name="materialColorSurfaceContainer" format="color" />
+    <attr name="materialColorOutlineVariant" format="color" />
+    <attr name="materialColorOnSurfaceVariant" format="color" />
+    <attr name="materialColorSecondaryContainer" format="color" />
+    <attr name="materialColorOnSecondaryContainer" format="color" />
+    <attr name="materialColorPrimaryContainer" format="color" />
+    <attr name="materialColorOnPrimaryContainer" format="color" />
+    <attr name="materialColorPrimary" format="color" />
+    <attr name="materialColorOnSurface" format="color" />
+    <attr name="materialColorSurfaceContainerHighest" format="color" />
+    <attr name="materialColorSecondary" format="color" />
+    <attr name="materialColorTertiaryContainer" format="color" />
+    <attr name="materialColorSurfaceContainerLow" format="color" />
+    <attr name="materialColorOnTertiaryContainer" format="color" />
+    <attr name="materialColorOnPrimary" format="color" />
+    <attr name="materialColorSurface" format="color" />
+    <attr name="textColorPrimary" format="color" />
+
+    <attr name="titleItemStartPadding" format="dimension" />
+    <attr name="contentStartPadding" format="dimension" />
+    <attr name="contentEndPadding" format="dimension" />
+    <attr name="endItemStartPadding" format="dimension" />
+    <attr name="endItemEndPadding" format="dimension" />
+    <attr name="bottomDividerStartPadding" format="dimension" />
+    <attr name="bottomDividerEndPadding" format="dimension" />
+    <attr name="actionDividerHeight" format="dimension" />
+    <attr name="titleSize" format="dimension" />
+
+
 </resources>
