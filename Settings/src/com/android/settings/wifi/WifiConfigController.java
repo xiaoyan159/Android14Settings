@@ -911,7 +911,7 @@ public class WifiConfigController implements TextWatcher,
         if (TextUtils.isEmpty(ipAddr)) return R.string.wifi_ip_settings_invalid_ip_address;
 
         Inet4Address inetAddr = getIPv4Address(ipAddr);
-        if (inetAddr == null || inetAddr.equals(Inet4Address.ANY)) {
+        if (inetAddr == null /*|| inetAddr.equals(Inet4Address.ANY)*/) {
             return R.string.wifi_ip_settings_invalid_ip_address;
         }
         // Copy all fields into the builder first and set desired value later with builder.

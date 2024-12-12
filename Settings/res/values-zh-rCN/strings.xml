@@ -235,7 +235,7 @@
     <string name="share" msgid="8502235338607613795">"分享"</string>
     <string name="add" msgid="8335206931421683426">"添加"</string>
     <string name="remove" msgid="1028414219245072102">"移除"</string>
-    <string name="settings_label" msgid="943294133671632976">"设置"</string>
+    <string name="settings_label" msgid="943294133671632976">"Cariad设置"</string>
     <string name="settings_label_launcher" msgid="820982375501978609">"设置"</string>
     <string name="settings_shortcut" msgid="8548239727871847171">"设置快捷方式"</string>
     <string name="airplane_mode" msgid="3196085857882526817">"飞行模式"</string>

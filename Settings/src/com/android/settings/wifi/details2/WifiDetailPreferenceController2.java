@@ -213,12 +213,12 @@ public class WifiDetailPreferenceController2 extends AbstractPreferenceControlle
 
     @Override
     public void onForget(@NonNull WifiDialog2 dialog) {
-        WifiDialog2Listener.super.onForget(dialog);
+//        WifiDialog2Listener.super.onForget(dialog);
     }
 
     @Override
     public void onScan(@NonNull WifiDialog2 dialog, @NonNull String ssid) {
-        WifiDialog2Listener.super.onScan(dialog, ssid);
+//        WifiDialog2Listener.super.onScan(dialog, ssid);
     }
 
     private class CarrierIdAsyncQueryHandler extends AsyncQueryHandler {

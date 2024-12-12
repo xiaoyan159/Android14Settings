@@ -451,4 +451,19 @@ public class WifiNetworkDetailsFragment extends RestrictedDashboardFragment impl
                 ? getString(R.string.hotspot_battery_charging_summary, formatPercentage(percentage))
                 : formatPercentage(percentage));
     }
+
+    @Override
+    public int getHelpResource() {
+        return super.getHelpResource();
+    }
+
+    @Override
+    public void onForget(@NonNull WifiDialog2 dialog) {
+//        WifiDialog2.WifiDialog2Listener.super.onForget(dialog);
+    }
+
+    @Override
+    public void onScan(@NonNull WifiDialog2 dialog, @NonNull String ssid) {
+//        WifiDialog2.WifiDialog2Listener.super.onScan(dialog, ssid);
+    }
 }
