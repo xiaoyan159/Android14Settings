@@ -53,7 +53,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.core.content.ContextCompat;
 
 import com.android.server.accessibility.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.utils.AnnotationSpan;
 import com.android.settingslib.widget.LottieColorUtils;

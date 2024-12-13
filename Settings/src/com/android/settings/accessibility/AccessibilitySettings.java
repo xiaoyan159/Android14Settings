@@ -41,7 +41,7 @@ import androidx.preference.PreferenceCategory;
 import com.android.internal.accessibility.AccessibilityShortcutController;
 import com.android.internal.accessibility.util.AccessibilityUtils;
 import com.android.internal.content.PackageMonitor;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityUtil.AccessibilityServiceFragmentType;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.inputmethod.PhysicalKeyboardFragment;

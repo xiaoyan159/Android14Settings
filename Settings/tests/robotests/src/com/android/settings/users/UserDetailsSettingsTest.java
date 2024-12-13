@@ -52,7 +52,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SubSettings;
 import com.android.settings.testutils.shadow.ShadowDevicePolicyManager;

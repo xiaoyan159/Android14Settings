@@ -26,7 +26,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavType
 import androidx.navigation.navArgument
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.framework.common.SettingsPageProvider
 import com.android.settingslib.spa.widget.scaffold.RegularScaffold
 import com.android.settingslib.spaprivileged.model.app.toRoute

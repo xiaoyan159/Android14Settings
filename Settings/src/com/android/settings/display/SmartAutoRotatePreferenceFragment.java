@@ -28,7 +28,7 @@ import android.view.ViewGroup;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;

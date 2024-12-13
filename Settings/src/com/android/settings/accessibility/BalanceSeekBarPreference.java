@@ -25,7 +25,7 @@ import android.widget.ImageView;
 import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.SeekBarPreference;
 
 /** A slider preference that directly controls audio balance **/

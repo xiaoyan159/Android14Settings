@@ -42,7 +42,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.android.internal.util.MemInfoReader;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.Utils;
 import com.android.settings.core.SubSettingLauncher;

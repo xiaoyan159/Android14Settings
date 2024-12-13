@@ -29,7 +29,7 @@ import androidx.annotation.OpenForTesting
 import androidx.annotation.VisibleForTesting
 import androidx.fragment.app.viewModels
 import androidx.preference.Preference
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.dashboard.DashboardFragment
 import com.android.settings.datausage.lib.BillingCycleRepository
 import com.android.settings.datausage.lib.NetworkUsageData

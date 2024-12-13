@@ -66,7 +66,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.test.core.app.ApplicationProvider;
 
 import com.android.settings.AirplaneModeEnabler;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.datausage.DataUsagePreference;
 import com.android.settings.testutils.shadow.ShadowDataUsageUtils;
 import com.android.settings.testutils.shadow.ShadowFragment;

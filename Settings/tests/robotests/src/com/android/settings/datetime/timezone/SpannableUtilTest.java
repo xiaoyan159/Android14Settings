@@ -22,7 +22,7 @@ import android.icu.text.TimeZoneFormat;
 import android.text.Spannable;
 import android.text.SpannableStringBuilder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.datetime.ZoneGetter;
 
 import org.junit.Test;

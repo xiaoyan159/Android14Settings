@@ -31,7 +31,7 @@ import androidx.annotation.NonNull;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.Utils;
 
 import java.util.List;

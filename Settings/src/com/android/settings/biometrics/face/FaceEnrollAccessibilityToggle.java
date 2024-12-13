@@ -24,7 +24,7 @@ import android.widget.CompoundButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.material.materialswitch.MaterialSwitch;
 

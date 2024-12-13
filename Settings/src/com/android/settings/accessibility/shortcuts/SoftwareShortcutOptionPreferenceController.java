@@ -23,7 +23,7 @@ import android.provider.Settings;
 import android.view.View;
 
 import com.android.internal.accessibility.common.ShortcutConstants;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityButtonFragment;
 import com.android.settings.accessibility.FloatingMenuSizePreferenceController;
 import com.android.settings.core.SubSettingLauncher;

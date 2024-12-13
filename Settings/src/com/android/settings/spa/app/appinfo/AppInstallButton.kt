@@ -20,7 +20,7 @@ import android.content.Intent
 import android.content.pm.ApplicationInfo
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.FileDownload
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.AppStoreUtil
 import com.android.settingslib.spa.widget.button.ActionButton
 import com.android.settingslib.spaprivileged.model.app.userHandle

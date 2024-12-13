@@ -23,7 +23,7 @@ import android.content.Context;
 import android.os.UserHandle;
 import android.os.UserManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.SettingsShadowResources;
 import com.android.settings.testutils.shadow.ShadowDevicePolicyManager;
 import com.android.settings.testutils.shadow.ShadowUserManager;

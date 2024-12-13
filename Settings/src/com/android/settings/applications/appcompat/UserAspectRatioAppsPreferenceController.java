@@ -21,7 +21,7 @@ import android.os.Build;
 
 import androidx.annotation.NonNull;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 /**

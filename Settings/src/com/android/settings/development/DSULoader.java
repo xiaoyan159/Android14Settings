@@ -31,7 +31,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

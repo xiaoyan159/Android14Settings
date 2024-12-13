@@ -18,7 +18,7 @@ package com.android.settings.datetime.timezone;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class FixedOffsetPreferenceController extends BaseTimeZonePreferenceController {
 

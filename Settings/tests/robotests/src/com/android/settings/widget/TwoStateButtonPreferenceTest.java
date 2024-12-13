@@ -25,7 +25,7 @@ import android.content.Context;
 import android.view.View;
 import android.widget.Button;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

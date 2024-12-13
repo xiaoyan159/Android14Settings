@@ -30,7 +30,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.telephony.flags.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.network.CarrierConfigCache;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;

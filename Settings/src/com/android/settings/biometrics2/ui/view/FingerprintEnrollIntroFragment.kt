@@ -37,7 +37,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics2.ui.model.FingerprintEnrollIntroStatus
 import com.android.settings.biometrics2.ui.model.FingerprintEnrollable.FINGERPRINT_ENROLLABLE_ERROR_REACH_MAX
 import com.android.settings.biometrics2.ui.model.FingerprintEnrollable.FINGERPRINT_ENROLLABLE_OK

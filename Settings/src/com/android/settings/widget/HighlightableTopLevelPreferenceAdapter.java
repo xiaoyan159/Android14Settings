@@ -32,7 +32,7 @@ import androidx.preference.PreferenceViewHolder;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.window.embedding.ActivityEmbeddingController;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.homepage.SettingsHomepageActivity;
 

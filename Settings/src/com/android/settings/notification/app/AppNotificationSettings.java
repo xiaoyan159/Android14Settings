@@ -28,7 +28,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.AbstractPreferenceController;
 
 import java.util.ArrayList;

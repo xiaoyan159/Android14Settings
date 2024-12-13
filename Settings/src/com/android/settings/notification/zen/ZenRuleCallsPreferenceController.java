@@ -37,7 +37,7 @@ public class ZenRuleCallsPreferenceController extends AbstractZenCustomRulePrefe
     public ZenRuleCallsPreferenceController(Context context, String key, Lifecycle lifecycle) {
         super(context, key, lifecycle);
         mListValues = context.getResources().getStringArray(
-                com.android.settings.R.array.zen_mode_contacts_values);
+                com.cariad.cea.settings.R.array.zen_mode_contacts_values);
     }
 
     @Override

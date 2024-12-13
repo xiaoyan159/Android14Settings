@@ -35,7 +35,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.testutils.shadow.ShadowSettingsPreferenceFragment;
 import com.android.settings.widget.SettingsMainSwitchBar;

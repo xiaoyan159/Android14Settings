@@ -41,7 +41,7 @@ import android.util.Slog;
 
 import androidx.annotation.NonNull;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Takes an AlarmManager or JobScheduler csv string and parses it to get key:value pairs.

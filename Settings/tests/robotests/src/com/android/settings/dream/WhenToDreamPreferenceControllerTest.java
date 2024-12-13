@@ -32,7 +32,7 @@ import android.os.PowerManager;
 import androidx.preference.Preference;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.display.AmbientDisplayAlwaysOnPreferenceController;
 import com.android.settingslib.dream.DreamBackend;
 import com.android.settingslib.dream.DreamBackend.WhenToDream;

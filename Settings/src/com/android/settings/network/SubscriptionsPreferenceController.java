@@ -53,7 +53,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceGroup;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.network.telephony.DataConnectivityListener;
 import com.android.settings.network.telephony.MobileNetworkUtils;

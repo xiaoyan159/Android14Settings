@@ -22,7 +22,7 @@ import android.content.Context
 import android.content.pm.ApplicationInfo
 import android.text.format.DateUtils
 import androidx.compose.runtime.Composable
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.development.UsageStatsListModel.SpinnerItem.Companion.toSpinnerItem
 import com.android.settingslib.spa.widget.ui.SpinnerOption
 import com.android.settingslib.spaprivileged.model.app.AppEntry

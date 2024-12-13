@@ -30,7 +30,7 @@ import android.content.pm.ResolveInfo;
 import android.content.pm.ServiceInfo;
 import android.text.TextUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilitySettings;
 import com.android.settings.accessibility.AccessibilitySlicePreferenceController;
 import com.android.settings.search.SearchFeatureProvider;

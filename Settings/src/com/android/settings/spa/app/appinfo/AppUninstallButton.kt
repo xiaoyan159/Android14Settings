@@ -26,7 +26,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.vectorResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.specialaccess.deviceadmin.DeviceAdminAdd
 import com.android.settingslib.spa.widget.button.ActionButton
 import com.android.settingslib.spaprivileged.model.app.isActiveAdmin

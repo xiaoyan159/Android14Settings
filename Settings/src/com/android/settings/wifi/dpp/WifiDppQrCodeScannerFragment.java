@@ -55,7 +55,7 @@ import androidx.annotation.UiThread;
 import androidx.annotation.VisibleForTesting;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.qrcode.QrCamera;
 import com.android.settingslib.qrcode.QrDecorateView;

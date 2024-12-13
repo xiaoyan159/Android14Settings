@@ -47,7 +47,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SubSettings;
 import com.android.settings.applications.manageapplications.ManageApplications;

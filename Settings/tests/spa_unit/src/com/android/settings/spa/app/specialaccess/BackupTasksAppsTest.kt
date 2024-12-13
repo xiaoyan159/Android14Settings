@@ -22,7 +22,7 @@ import android.content.Context
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.google.common.truth.Truth.assertThat
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import org.junit.Test
 import org.junit.runner.RunWith
 

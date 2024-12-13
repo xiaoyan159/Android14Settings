@@ -39,7 +39,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import androidx.lifecycle.viewmodel.CreationExtras
 import androidx.lifecycle.viewmodel.MutableCreationExtras
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils
 import com.android.settings.biometrics.BiometricEnrollBase
 import com.android.settings.biometrics2.factory.BiometricsViewModelFactory

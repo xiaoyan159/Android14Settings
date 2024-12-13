@@ -32,7 +32,7 @@ import android.hardware.fingerprint.FingerprintManager;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.ActiveUnlockTestUtils;
 import com.android.settings.testutils.shadow.ShadowDeviceConfig;
 

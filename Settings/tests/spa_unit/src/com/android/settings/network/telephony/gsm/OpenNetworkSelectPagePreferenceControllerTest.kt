@@ -26,7 +26,7 @@ import androidx.preference.Preference
 import androidx.preference.PreferenceManager
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.google.common.truth.Truth.assertThat
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.emptyFlow

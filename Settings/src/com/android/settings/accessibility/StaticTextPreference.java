@@ -21,7 +21,7 @@ import android.content.Context;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A custom {@link android.widget.TextView} preference that removes the title and summary

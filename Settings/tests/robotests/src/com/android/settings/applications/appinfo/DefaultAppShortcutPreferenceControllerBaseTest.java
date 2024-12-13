@@ -32,7 +32,7 @@ import android.os.UserManager;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

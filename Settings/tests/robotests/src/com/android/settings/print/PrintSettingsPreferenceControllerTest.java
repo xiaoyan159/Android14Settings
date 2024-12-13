@@ -40,7 +40,7 @@ import android.printservice.PrintServiceInfo;
 
 import androidx.lifecycle.LifecycleOwner;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.RestrictedPreference;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.utils.StringUtil;

@@ -27,7 +27,7 @@ import android.widget.LinearLayout;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Preference that can enable accessibility shortcut and let users choose which shortcut type they

@@ -29,7 +29,7 @@ import android.os.PowerManager;
 import android.os.UserManager;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.bluetooth.CachedBluetoothDeviceManager;
 import com.android.settingslib.bluetooth.LocalBluetoothManager;

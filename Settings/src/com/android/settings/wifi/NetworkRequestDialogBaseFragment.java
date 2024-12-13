@@ -26,7 +26,7 @@ import android.net.wifi.WifiManager.NetworkRequestUserSelectionCallback;
 import androidx.annotation.NonNull;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 
 import java.util.List;

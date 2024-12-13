@@ -38,7 +38,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;
 
 import org.junit.Before;

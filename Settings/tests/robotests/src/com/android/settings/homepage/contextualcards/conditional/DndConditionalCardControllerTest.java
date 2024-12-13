@@ -27,7 +27,7 @@ import android.app.NotificationManager;
 import android.content.Context;
 import android.service.notification.ZenModeConfig;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.testutils.shadow.ShadowNotificationManager;
 

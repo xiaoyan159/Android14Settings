@@ -23,7 +23,7 @@ import android.view.View;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A preference with single target and a gear icon on the side.

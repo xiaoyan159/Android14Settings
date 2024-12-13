@@ -60,7 +60,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.test.core.app.ApplicationProvider;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.biometrics.BiometricEnrollBase;
 import com.android.settings.biometrics.BiometricUtils;

@@ -27,7 +27,7 @@ import android.os.UserHandle;
 import android.os.UserManager;
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.autofill.PasswordsPreferenceController;
 import com.android.settings.applications.credentials.CredentialManagerPreferenceController;
 import com.android.settings.applications.credentials.DefaultCombinedPreferenceController;

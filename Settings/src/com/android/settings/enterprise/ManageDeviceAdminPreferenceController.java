@@ -18,7 +18,7 @@ import static android.app.admin.DevicePolicyResources.Strings.Settings.NUMBER_OF
 import android.app.admin.DevicePolicyManager;
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.utils.StringUtil;

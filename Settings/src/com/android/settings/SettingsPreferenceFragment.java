@@ -54,6 +54,7 @@ import com.android.settingslib.core.instrumentation.Instrumentable;
 import com.android.settingslib.search.Indexable;
 import com.android.settingslib.widget.LayoutPreference;
 
+import com.cariad.cea.settings.R;
 import com.google.android.material.appbar.AppBarLayout;
 import com.google.android.setupcompat.util.WizardManagerHelper;
 

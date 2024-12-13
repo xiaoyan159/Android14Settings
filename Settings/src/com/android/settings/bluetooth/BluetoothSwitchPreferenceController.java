@@ -26,7 +26,7 @@ import android.view.View;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.location.BluetoothScanningFragment;
 import com.android.settings.overlay.FeatureFactory;

@@ -39,7 +39,7 @@ import androidx.loader.app.LoaderManager;
 import androidx.loader.content.AsyncTaskLoader;
 import androidx.loader.content.Loader;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.appops.AppOpsState.AppOpEntry;
 
 import java.util.List;

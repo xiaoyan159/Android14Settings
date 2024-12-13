@@ -39,7 +39,7 @@ import androidx.annotation.NonNull;
 
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.app.AlertActivity;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * This activity handles requests to toggle WiFi by collecting user

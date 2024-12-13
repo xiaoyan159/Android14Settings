@@ -32,7 +32,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.preference.Preference
 import androidx.preference.PreferenceCategory
 import androidx.preference.PreferenceGroup
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.dashboard.RestrictedDashboardFragment
 import com.android.settingslib.bluetooth.BluetoothCallback
 import com.android.settingslib.bluetooth.BluetoothDeviceFilter

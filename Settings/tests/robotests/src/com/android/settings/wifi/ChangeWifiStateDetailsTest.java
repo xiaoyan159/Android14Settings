@@ -25,7 +25,7 @@ import static org.mockito.Mockito.when;
 import android.content.Context;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 
 import org.junit.Before;

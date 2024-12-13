@@ -21,7 +21,7 @@ import android.content.pm.PackageManager;
 import android.nfc.NfcAdapter;
 import android.os.UserManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 /**

@@ -22,7 +22,7 @@ import static org.mockito.Mockito.when;
 
 import android.bluetooth.BluetoothDevice;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.SpacePreference;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.bluetooth.HearingAidInfo;

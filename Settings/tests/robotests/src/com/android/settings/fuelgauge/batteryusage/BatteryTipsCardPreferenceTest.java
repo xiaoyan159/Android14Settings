@@ -33,7 +33,7 @@ import android.content.Intent;
 import android.view.View;
 
 import com.android.settings.DisplaySettings;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.testutils.BatteryTestUtils;
 import com.android.settings.testutils.FakeFeatureFactory;

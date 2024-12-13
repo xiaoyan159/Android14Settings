@@ -36,7 +36,7 @@ import android.widget.Toolbar;
 
 import androidx.core.content.ContextCompat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SettingsBaseActivity;
 import com.android.settings.network.SubscriptionUtil;
 

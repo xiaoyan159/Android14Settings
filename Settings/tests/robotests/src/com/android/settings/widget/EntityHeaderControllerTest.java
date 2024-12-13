@@ -41,7 +41,7 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.LayoutPreference;
 
 import org.junit.Before;

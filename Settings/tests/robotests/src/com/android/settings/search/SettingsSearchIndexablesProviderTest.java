@@ -18,7 +18,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.provider.SearchIndexablesContract;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accounts.ManagedProfileSettings;
 import com.android.settings.dashboard.CategoryManager;
 import com.android.settings.homepage.TopLevelSettings;

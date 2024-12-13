@@ -26,7 +26,7 @@ import android.view.View;
 import androidx.annotation.Nullable;
 import androidx.annotation.StringRes;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Displays parental consent information for face authentication.

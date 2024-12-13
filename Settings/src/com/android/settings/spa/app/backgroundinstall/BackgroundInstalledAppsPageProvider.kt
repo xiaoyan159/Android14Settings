@@ -37,7 +37,7 @@ import androidx.compose.runtime.produceState
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.app.appinfo.AppInfoSettingsProvider
 import com.android.settings.spa.app.startUninstallActivity
 import com.android.settingslib.spa.framework.common.SettingsEntryBuilder

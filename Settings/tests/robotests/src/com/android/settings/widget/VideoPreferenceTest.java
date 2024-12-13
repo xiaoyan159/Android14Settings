@@ -36,7 +36,7 @@ import android.widget.ImageView;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowSettingsMediaPlayer;
 
 import org.junit.Before;

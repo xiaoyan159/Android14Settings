@@ -26,7 +26,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import androidx.preference.PreferenceViewHolder;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.SettingsMainSwitchBar.OnBeforeCheckedChangeListener;
 import com.android.settingslib.RestrictedPreferenceHelper;
 import com.android.settingslib.core.instrumentation.SettingsJankMonitor;

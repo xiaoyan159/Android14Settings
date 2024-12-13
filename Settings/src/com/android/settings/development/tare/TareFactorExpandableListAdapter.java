@@ -27,7 +27,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Creates the expandable list that will allow modifying individual factors.

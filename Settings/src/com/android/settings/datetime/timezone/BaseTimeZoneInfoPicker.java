@@ -26,7 +26,7 @@ import android.icu.util.Calendar;
 
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.datetime.timezone.model.TimeZoneData;
 
 import java.util.ArrayList;

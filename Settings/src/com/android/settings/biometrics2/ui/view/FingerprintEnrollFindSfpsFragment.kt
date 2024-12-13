@@ -33,7 +33,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import com.airbnb.lottie.LottieAnimationView
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics2.ui.model.EnrollmentProgress
 import com.android.settings.biometrics2.ui.model.EnrollmentStatusMessage
 import com.android.settings.biometrics2.ui.viewmodel.DeviceFoldedViewModel

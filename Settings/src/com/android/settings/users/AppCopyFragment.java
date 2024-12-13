@@ -29,7 +29,7 @@ import android.util.Log;
 
 import androidx.preference.PreferenceGroup;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.Utils;
 import com.android.settingslib.users.AppCopyHelper;

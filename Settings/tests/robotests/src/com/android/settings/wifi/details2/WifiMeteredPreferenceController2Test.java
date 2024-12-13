@@ -24,7 +24,7 @@ import android.content.Context;
 
 import androidx.preference.DropDownPreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.wifitrackerlib.WifiEntry;
 
 import org.junit.Before;

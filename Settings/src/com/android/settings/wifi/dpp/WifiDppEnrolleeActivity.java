@@ -24,7 +24,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.wifi.WifiRestrictionsCache;
 
 /**

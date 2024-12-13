@@ -36,7 +36,7 @@ import android.widget.RelativeLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.systemui.biometrics.UdfpsUtils;
 import com.android.systemui.biometrics.shared.model.UdfpsOverlayParams;
 

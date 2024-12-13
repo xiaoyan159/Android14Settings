@@ -40,6 +40,7 @@ import androidx.preference.PreferenceViewHolder;
 
 import com.android.settingslib.RestrictedLockUtils;
 import com.android.settingslib.RestrictedPreferenceHelper;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.List;

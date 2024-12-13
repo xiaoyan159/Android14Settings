@@ -19,7 +19,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.content.Intent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.combination.CombinedBiometricStatusPreferenceController;
 import com.android.settings.biometrics.face.FaceStatusPreferenceController;
 import com.android.settings.biometrics.fingerprint.FingerprintStatusPreferenceController;

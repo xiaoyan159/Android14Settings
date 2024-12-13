@@ -57,7 +57,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.profileselector.UserAdapter;
 import com.android.settingslib.PrimarySwitchPreference;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;

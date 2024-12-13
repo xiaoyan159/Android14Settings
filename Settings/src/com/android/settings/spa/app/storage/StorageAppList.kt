@@ -26,7 +26,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.app.appinfo.AppInfoSettingsProvider
 import com.android.settingslib.spa.framework.common.SettingsPageProvider
 import com.android.settingslib.spa.framework.util.filterItem

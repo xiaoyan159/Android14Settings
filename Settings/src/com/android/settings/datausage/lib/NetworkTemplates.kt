@@ -20,7 +20,7 @@ import android.content.Context
 import android.net.NetworkTemplate
 import android.telephony.SubscriptionManager
 import androidx.annotation.StringRes
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.datausage.DataUsageUtils
 
 interface INetworkTemplates {

@@ -83,7 +83,7 @@ public class BottomLabelLayout extends LinearLayout {
         setOrientation(stacked ? LinearLayout.VERTICAL : LinearLayout.HORIZONTAL);
         setGravity(stacked ? Gravity.START : Gravity.BOTTOM);
 
-        final View spacer = findViewById(com.android.settings.R.id.spacer);
+        final View spacer = findViewById(com.cariad.cea.settings.R.id.spacer);
         if (spacer != null) {
             spacer.setVisibility(stacked ? View.GONE : View.VISIBLE);
         }

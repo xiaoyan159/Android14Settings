@@ -22,7 +22,7 @@ import android.widget.ImageView;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.utils.ColorUtil;
 
 /** A preference with a Gear on the side and mutable Gear color. */

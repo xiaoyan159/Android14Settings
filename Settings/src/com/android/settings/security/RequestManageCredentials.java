@@ -51,7 +51,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton;
 

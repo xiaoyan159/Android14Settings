@@ -20,7 +20,7 @@ import android.accessibilityservice.AccessibilityServiceInfo;
 import android.content.DialogInterface;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.accessibility.AccessibilityUtils;
 
 /**

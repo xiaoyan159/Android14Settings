@@ -23,7 +23,7 @@ import android.os.UserHandle;
 import android.os.UserManager;
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.safetycenter.SafetyCenterManagerWrapper;

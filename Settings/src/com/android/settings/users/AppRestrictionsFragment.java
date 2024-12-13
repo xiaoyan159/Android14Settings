@@ -56,7 +56,7 @@ import androidx.preference.PreferenceViewHolder;
 import androidx.preference.SwitchPreferenceCompat;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.Utils;
 import com.android.settingslib.users.AppRestrictionsHelper;

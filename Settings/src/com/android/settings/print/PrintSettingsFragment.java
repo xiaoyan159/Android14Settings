@@ -53,7 +53,7 @@ import androidx.loader.content.Loader;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.Indexable;
 import com.android.settingslib.search.SearchIndexable;

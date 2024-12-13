@@ -23,7 +23,7 @@ import android.content.Context;
 import android.os.Parcel;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 
 import org.junit.Before;

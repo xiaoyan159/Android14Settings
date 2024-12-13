@@ -41,7 +41,7 @@ import androidx.fragment.app.FragmentManager;
 import com.android.internal.widget.DialogTitle;
 import com.android.internal.widget.LinearLayoutManager;
 import com.android.internal.widget.RecyclerView;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.drawer.Tile;
 

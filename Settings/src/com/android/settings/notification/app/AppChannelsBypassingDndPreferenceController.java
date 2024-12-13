@@ -35,7 +35,7 @@ import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppInfoBase;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.core.SubSettingLauncher;
@@ -225,7 +225,7 @@ public class AppChannelsBypassingDndPreferenceController extends NotificationPre
                         .setDestination(ChannelNotificationSettings.class.getName())
                         .setArguments(channelArgs)
                         .setUserHandle(UserHandle.of(mAppRow.userId))
-                        .setTitleRes(com.android.settings.R.string.notification_channel_title)
+                        .setTitleRes(R.string.notification_channel_title)
                         .setSourceMetricsCategory(SettingsEnums.DND_APPS_BYPASSING)
                         .launch();
                 return true;

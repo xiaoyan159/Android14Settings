@@ -27,7 +27,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.widget.SubtitleView;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settingslib.accessibility.AccessibilityUtils;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;

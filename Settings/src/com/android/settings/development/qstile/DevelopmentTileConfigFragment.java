@@ -23,7 +23,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.ServiceInfo;
 import android.os.SystemProperties;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.development.DevelopmentSettingsEnabler;

@@ -25,7 +25,7 @@ import android.graphics.Rect;
 import android.graphics.RectF;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.List;
 

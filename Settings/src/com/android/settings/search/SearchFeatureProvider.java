@@ -32,7 +32,7 @@ import android.widget.Toolbar;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.activityembedding.ActivityEmbeddingRulesController;
 import com.android.settings.overlay.FeatureFactory;

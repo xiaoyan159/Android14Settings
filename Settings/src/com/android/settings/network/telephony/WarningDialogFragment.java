@@ -30,7 +30,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Fragment to show a warning dialog. The caller should implement onConfirmListener. */
 public class WarningDialogFragment extends BaseDialogFragment

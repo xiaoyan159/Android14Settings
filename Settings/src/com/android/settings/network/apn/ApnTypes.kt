@@ -23,7 +23,7 @@ import android.widget.Toast
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.ui.text.intl.Locale
 import androidx.compose.ui.text.toLowerCase
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.widget.editor.SettingsDropdownCheckOption
 
 object ApnTypes {

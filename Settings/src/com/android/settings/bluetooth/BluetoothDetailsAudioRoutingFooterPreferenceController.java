@@ -18,7 +18,7 @@ package com.android.settings.bluetooth;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityFooterPreferenceController;
 
 /** Preference controller for footer in bluetooth details audio routing page. */

@@ -24,7 +24,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.AbstractPreferenceController;
 
 import java.util.ArrayList;
@@ -91,7 +91,7 @@ abstract class ZenCustomRuleSettingsBase extends ZenModeSettingsBase {
             Preference prefCategory = screen.findPreference(categoryKey);
             if (prefCategory != null) {
                 prefCategory.setTitle(mContext.getResources().getString(
-                        com.android.settings.R.string.zen_mode_custom_behavior_category_title,
+                        com.cariad.cea.settings.R.string.zen_mode_custom_behavior_category_title,
                         mRule.getName()));
             }
         }

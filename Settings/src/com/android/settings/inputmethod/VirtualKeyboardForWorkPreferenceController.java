@@ -18,7 +18,7 @@ package com.android.settings.inputmethod;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 public final class VirtualKeyboardForWorkPreferenceController

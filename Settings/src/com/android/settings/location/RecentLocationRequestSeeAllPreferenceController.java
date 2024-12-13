@@ -24,7 +24,7 @@ import android.os.UserManager;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.profileselector.ProfileSelectFragment;
 import com.android.settingslib.location.RecentLocationApps;
 import com.android.settingslib.widget.AppPreference;

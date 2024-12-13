@@ -31,7 +31,7 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.common.base.Strings;
 

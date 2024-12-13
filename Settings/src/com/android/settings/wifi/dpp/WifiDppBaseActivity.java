@@ -22,7 +22,7 @@ import android.os.Bundle;
 
 import androidx.fragment.app.FragmentManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.core.InstrumentedActivity;
 

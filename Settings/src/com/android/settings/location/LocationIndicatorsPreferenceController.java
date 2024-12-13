@@ -20,7 +20,7 @@ import android.content.Context;
 import android.content.pm.PackageManager;
 import android.provider.DeviceConfig;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.TogglePreferenceController;
 

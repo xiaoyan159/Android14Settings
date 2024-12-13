@@ -23,7 +23,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 
 public class SwipeDismissalDelegate extends ItemTouchHelper.Callback {

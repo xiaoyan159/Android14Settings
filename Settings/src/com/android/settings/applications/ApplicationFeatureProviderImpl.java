@@ -43,7 +43,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 
 import com.android.internal.telephony.SmsApplication;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.webview.WebViewUpdateServiceWrapper;
 
 import java.util.ArrayList;

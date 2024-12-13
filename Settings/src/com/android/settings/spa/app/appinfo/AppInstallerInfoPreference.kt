@@ -25,7 +25,7 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils
 import com.android.settings.applications.AppStoreUtil
 import com.android.settingslib.applications.AppUtils

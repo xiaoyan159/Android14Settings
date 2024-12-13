@@ -29,7 +29,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.SubscriptionUtil
 import com.android.settings.network.telephony.MobileNetworkUtils
 import com.android.settings.network.telephony.isSubscriptionEnabledFlow

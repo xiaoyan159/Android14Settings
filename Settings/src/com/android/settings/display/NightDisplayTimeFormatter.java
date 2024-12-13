@@ -19,7 +19,7 @@ package com.android.settings.display;
 import android.content.Context;
 import android.hardware.display.ColorDisplayManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.text.DateFormat;
 import java.time.LocalTime;

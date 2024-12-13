@@ -28,7 +28,7 @@ import android.nfc.NfcAdapter;
 import android.nfc.NfcManager;
 import android.os.UserManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowNfcAdapter;
 
 import org.junit.Before;

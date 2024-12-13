@@ -53,7 +53,7 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.utils.AndroidKeystoreAliasLoader;
 import com.android.settings.wifi.details2.WifiPrivacyPreferenceController2;

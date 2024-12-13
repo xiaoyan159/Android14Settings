@@ -26,7 +26,7 @@ import android.content.pm.PackageManager.PackageInfoFlags
 import android.os.DeadSystemRuntimeException
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spaprivileged.model.app.AppOpsController
 import com.google.common.truth.Truth.assertThat
 import kotlinx.coroutines.flow.first

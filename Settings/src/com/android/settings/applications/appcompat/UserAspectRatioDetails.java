@@ -43,7 +43,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.preference.Preference;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.applications.AppInfoBase;
 import com.android.settings.overlay.FeatureFactory;

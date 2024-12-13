@@ -35,7 +35,7 @@ import android.content.res.Resources;
 import android.os.IBinder;
 import android.os.RemoteException;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

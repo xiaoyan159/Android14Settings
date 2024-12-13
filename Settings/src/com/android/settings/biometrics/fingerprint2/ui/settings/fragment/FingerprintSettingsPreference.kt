@@ -21,7 +21,7 @@ import android.util.Log
 import android.view.View
 import androidx.lifecycle.lifecycleScope
 import androidx.preference.PreferenceViewHolder
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics.fingerprint2.lib.model.FingerprintData
 import com.android.settingslib.widget.TwoTargetPreference
 import kotlinx.coroutines.delay

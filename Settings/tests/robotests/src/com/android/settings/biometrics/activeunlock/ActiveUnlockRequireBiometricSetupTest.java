@@ -27,7 +27,7 @@ import static org.robolectric.RuntimeEnvironment.application;
 import android.app.settings.SettingsEnums;
 import android.content.ComponentName;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.BiometricEnrollActivity;
 
 import com.google.android.setupcompat.PartnerCustomizationLayout;

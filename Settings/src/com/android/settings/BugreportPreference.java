@@ -31,6 +31,7 @@ import androidx.appcompat.app.AlertDialog.Builder;
 
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.CustomDialogPreferenceCompat;
+import com.cariad.cea.settings.R;
 
 public class BugreportPreference extends CustomDialogPreferenceCompat {
 

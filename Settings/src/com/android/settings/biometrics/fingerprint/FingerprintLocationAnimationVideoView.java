@@ -31,7 +31,7 @@ import android.view.View;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A view containing a VideoView for showing the user how to enroll a fingerprint

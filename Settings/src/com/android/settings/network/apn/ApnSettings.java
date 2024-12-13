@@ -57,7 +57,7 @@ import android.widget.Toast;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceGroup;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.RestrictedSettingsFragment;
 import com.android.settings.flags.Flags;
 import com.android.settings.network.SubscriptionUtil;

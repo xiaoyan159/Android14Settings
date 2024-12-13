@@ -38,7 +38,7 @@ import android.view.TextureView;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.BiometricEnrollSidecar;
 import com.android.settings.core.InstrumentedPreferenceFragment;
 

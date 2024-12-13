@@ -22,7 +22,7 @@ import android.text.format.DateUtils;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.core.AbstractPreferenceController;

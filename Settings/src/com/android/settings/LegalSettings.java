@@ -21,6 +21,7 @@ import android.app.settings.SettingsEnums;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.SearchIndexable;
+import com.cariad.cea.settings.R;
 
 @SearchIndexable
 public class LegalSettings extends DashboardFragment {

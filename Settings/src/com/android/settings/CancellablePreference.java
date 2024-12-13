@@ -24,6 +24,8 @@ import android.widget.ImageView;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
+import com.cariad.cea.settings.R;
+
 public class CancellablePreference extends Preference implements OnClickListener {
 
     private boolean mCancellable;

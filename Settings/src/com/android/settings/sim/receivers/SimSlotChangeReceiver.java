@@ -28,7 +28,7 @@ import android.util.Log;
 
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.utils.ThreadUtils;
 
 import java.util.List;

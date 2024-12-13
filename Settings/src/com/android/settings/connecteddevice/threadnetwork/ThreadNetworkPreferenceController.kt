@@ -35,7 +35,7 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.preference.Preference
 import androidx.preference.PreferenceScreen
 import com.android.net.thread.platform.flags.Flags
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.TogglePreferenceController
 import java.util.concurrent.Executor
 

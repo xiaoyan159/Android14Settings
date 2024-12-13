@@ -21,7 +21,7 @@ import android.service.notification.ZenModeConfig.ScheduleInfo;
 import android.text.format.DateFormat;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

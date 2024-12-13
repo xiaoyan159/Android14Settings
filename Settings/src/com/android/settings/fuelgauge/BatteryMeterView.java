@@ -24,7 +24,7 @@ import android.widget.ImageView;
 import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settingslib.graph.ThemedBatteryDrawable;
 

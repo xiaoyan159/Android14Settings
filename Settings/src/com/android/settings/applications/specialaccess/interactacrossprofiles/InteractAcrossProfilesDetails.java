@@ -60,7 +60,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppInfoBase;
 import com.android.settings.applications.AppStoreUtil;
 import com.android.settings.widget.CardPreference;

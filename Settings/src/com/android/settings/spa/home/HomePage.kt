@@ -17,7 +17,7 @@
 package com.android.settings.spa.home
 
 import android.os.Bundle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.about.AboutPhonePageProvider
 import com.android.settings.spa.app.AppsMainPageProvider
 import com.android.settings.spa.network.NetworkAndInternetPageProvider

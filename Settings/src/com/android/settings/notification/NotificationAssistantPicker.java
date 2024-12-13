@@ -28,7 +28,7 @@ import android.service.notification.NotificationAssistantService;
 import android.text.TextUtils;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.defaultapps.DefaultAppPickerFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.applications.DefaultAppInfo;

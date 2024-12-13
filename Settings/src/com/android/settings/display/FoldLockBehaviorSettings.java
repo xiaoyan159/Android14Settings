@@ -25,7 +25,7 @@ import android.provider.Settings;
 import android.util.Log;
 
 import com.android.internal.foldables.FoldGracePeriodProvider;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.support.actionbar.HelpResourceProvider;
 import com.android.settings.utils.CandidateInfoExtra;
 import com.android.settings.widget.RadioButtonPickerFragment;

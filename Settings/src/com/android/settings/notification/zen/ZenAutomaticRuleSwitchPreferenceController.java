@@ -25,7 +25,7 @@ import androidx.fragment.app.Fragment;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.widget.MainSwitchPreference;
 

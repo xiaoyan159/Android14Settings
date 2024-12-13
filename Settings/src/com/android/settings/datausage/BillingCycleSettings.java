@@ -42,7 +42,7 @@ import androidx.fragment.app.Fragment;
 import androidx.preference.Preference;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settings.datausage.lib.NetworkTemplates;
 import com.android.settings.network.SubscriptionUtil;

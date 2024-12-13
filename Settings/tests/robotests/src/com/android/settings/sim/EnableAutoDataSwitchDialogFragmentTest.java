@@ -30,7 +30,7 @@ import android.os.UserManager;
 import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;
 
 import org.junit.After;

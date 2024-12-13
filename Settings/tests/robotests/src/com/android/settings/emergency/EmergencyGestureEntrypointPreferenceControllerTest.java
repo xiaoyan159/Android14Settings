@@ -29,7 +29,7 @@ import android.content.pm.ResolveInfo;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.SettingsShadowResources;
 
 import org.junit.After;

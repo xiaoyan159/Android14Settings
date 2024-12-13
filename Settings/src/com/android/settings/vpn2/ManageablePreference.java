@@ -27,7 +27,7 @@ import android.text.TextUtils;
 import android.text.style.ForegroundColorSpan;
 import android.util.AttributeSet;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.GearPreference;
 import com.android.settingslib.Utils;
 

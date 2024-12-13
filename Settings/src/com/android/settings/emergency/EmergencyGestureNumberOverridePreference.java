@@ -27,7 +27,7 @@ import android.widget.EditText;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.CustomDialogPreferenceCompat;
 import com.android.settingslib.emergencynumber.EmergencyNumberUtils;
 

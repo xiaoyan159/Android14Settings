@@ -19,7 +19,7 @@ package com.android.settings.network.apn
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.widget.editor.SettingsDropdownCheckBox
 
 @Composable

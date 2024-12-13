@@ -28,7 +28,7 @@ import androidx.compose.ui.test.performClick
 import androidx.core.os.bundleOf
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.framework.util.KEY_DESTINATION
 import com.google.common.truth.Truth
 import org.junit.Rule

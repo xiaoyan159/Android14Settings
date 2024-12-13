@@ -38,7 +38,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.RestrictedLockUtils;
 import com.android.settingslib.RestrictedLockUtilsInternal;
 import com.android.settingslib.applications.AppUtils;

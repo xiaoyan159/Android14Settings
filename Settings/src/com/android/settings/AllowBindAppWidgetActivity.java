@@ -36,6 +36,7 @@ import androidx.appcompat.app.AlertDialog;
 
 import com.android.internal.app.AlertActivity;
 import com.android.internal.app.AlertController;
+import com.cariad.cea.settings.R;
 
 /**
  * This activity is displayed when an app launches the BIND_APPWIDGET intent. This allows apps

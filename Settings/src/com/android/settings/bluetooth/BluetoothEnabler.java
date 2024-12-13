@@ -27,7 +27,7 @@ import android.widget.Toast;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.SwitchWidgetController;
 import com.android.settingslib.RestrictedLockUtils.EnforcedAdmin;
 import com.android.settingslib.WirelessUtils;

@@ -24,7 +24,7 @@ import androidx.compose.ui.platform.ComposeView
 import androidx.compose.ui.platform.ViewCompositionStrategy
 import androidx.preference.Preference
 import androidx.preference.PreferenceViewHolder
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.framework.theme.SettingsTheme
 
 open class ComposePreference @JvmOverloads constructor(

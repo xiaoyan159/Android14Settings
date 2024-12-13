@@ -22,7 +22,7 @@ import android.content.Context;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.widget.ActionButtonsPreference;

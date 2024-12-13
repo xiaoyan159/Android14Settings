@@ -24,7 +24,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.credentials.CredentialManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.autofill.PasswordsPreferenceController;
 import com.android.settings.applications.credentials.CredentialManagerPreferenceController;
 import com.android.settings.dashboard.DashboardFragment;

@@ -45,7 +45,7 @@ import android.provider.Settings;
 import androidx.preference.Preference;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.NotificationBackend;
 
 import org.junit.Before;

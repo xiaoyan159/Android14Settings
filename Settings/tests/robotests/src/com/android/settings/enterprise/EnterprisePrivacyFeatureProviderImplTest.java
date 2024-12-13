@@ -45,7 +45,7 @@ import android.os.UserManager;
 import android.provider.Settings;
 import android.text.SpannableStringBuilder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.common.collect.ImmutableList;
 

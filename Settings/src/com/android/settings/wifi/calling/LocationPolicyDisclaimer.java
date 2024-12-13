@@ -21,7 +21,7 @@ import android.os.PersistableBundle;
 import android.telephony.CarrierConfigManager;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Disclaimer item class for displaying location privacy policy UI on

@@ -28,7 +28,7 @@ import android.widget.TextView;
 import androidx.preference.PreferenceViewHolder;
 import androidx.preference.SwitchPreferenceCompat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.AnimatedImageView;
 
 public class SyncStateSwitchPreference extends SwitchPreferenceCompat {

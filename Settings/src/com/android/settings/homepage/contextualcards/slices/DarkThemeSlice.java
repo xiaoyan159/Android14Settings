@@ -40,7 +40,7 @@ import androidx.slice.Slice;
 import androidx.slice.builders.ListBuilder;
 import androidx.slice.builders.SliceAction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.slices.CustomSliceRegistry;

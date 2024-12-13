@@ -22,7 +22,7 @@ import android.graphics.drawable.Drawable
 import android.os.SystemProperties
 import androidx.annotation.DrawableRes
 import androidx.annotation.VisibleForTesting
-import com.android.settings.R
+import com.cariad.cea.settings.R
 
 
 

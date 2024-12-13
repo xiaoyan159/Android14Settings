@@ -33,7 +33,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.flags.Flags;
 import com.android.settings.network.MobileNetworkRepository;
 import com.android.settings.wifi.WifiPickerTrackerHelper;

@@ -27,7 +27,7 @@ import android.content.Context;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.AbstractPreferenceController;
 
 import org.junit.Before;

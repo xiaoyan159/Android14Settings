@@ -25,7 +25,7 @@ import androidx.lifecycle.Lifecycle;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.biometrics.combination.BiometricFingerprintStatusPreferenceController;
 import com.android.settings.privatespace.PrivateSpaceMaintainer;

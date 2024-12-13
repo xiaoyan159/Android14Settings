@@ -43,7 +43,7 @@ import androidx.test.filters.MediumTest;
 import androidx.test.rule.ActivityTestRule;
 import androidx.test.runner.AndroidJUnit4;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.setupcompat.PartnerCustomizationLayout;
 import com.google.android.setupcompat.template.FooterBarMixin;

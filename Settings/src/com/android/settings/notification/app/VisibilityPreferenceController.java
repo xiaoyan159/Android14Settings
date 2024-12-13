@@ -29,7 +29,7 @@ import android.service.notification.NotificationListenerService;
 import androidx.preference.Preference;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.RestrictedListPreference;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.notification.NotificationBackend;

@@ -28,7 +28,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SidecarFragment;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.network.SwitchToEuiccSubscriptionSidecar;

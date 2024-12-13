@@ -36,7 +36,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.ColorInt;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.systemui.biometrics.UdfpsUtils;
 import com.android.systemui.biometrics.shared.model.UdfpsOverlayParams;
 

@@ -31,7 +31,7 @@ import androidx.recyclerview.widget.RecyclerView.OnScrollListener;
 
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 
 import java.util.ArrayList;

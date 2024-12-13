@@ -29,7 +29,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.instrumentation.Instrumentable;
 
 public class SmartForwardingFragment extends PreferenceFragmentCompat

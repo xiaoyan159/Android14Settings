@@ -183,6 +183,6 @@ public class AmbientDisplayAlwaysOnPreferenceControllerTest {
 
         final CharSequence summary = mController.getSummary();
         assertThat(summary).isEqualTo(mContext.getString(
-                com.android.settings.R.string.aware_summary_when_bedtime_on));
+                com.cariad.cea.settings.R.string.aware_summary_when_bedtime_on));
     }
 }

@@ -19,7 +19,7 @@ import android.os.UserHandle;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.ApplicationFeatureProvider;
 import com.android.settings.applications.EnterpriseDefaultApps;
 import com.android.settings.core.PreferenceControllerMixin;

@@ -42,7 +42,7 @@ import androidx.annotation.VisibleForTesting;
 
 import com.android.internal.app.AlertActivity;
 import com.android.internal.app.AlertController;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * To display a dialog that asks the user whether to connect to a network that is not validated.

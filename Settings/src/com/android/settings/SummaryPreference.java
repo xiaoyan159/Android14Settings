@@ -24,6 +24,8 @@ import android.widget.TextView;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
+import com.cariad.cea.settings.R;
+
 /**
  * Provides a summary of a setting page in a preference.  Such as memory or data usage.
  */

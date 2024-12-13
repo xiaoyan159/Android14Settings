@@ -24,7 +24,7 @@ import androidx.compose.material.icons.outlined.Add
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.rememberCoroutineScope
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.manageapplications.CloneBackend
 import com.android.settings.overlay.FeatureFactory.Companion.featureFactory
 import com.android.settings.spa.app.appinfo.AppInfoSettingsProvider.getRoute

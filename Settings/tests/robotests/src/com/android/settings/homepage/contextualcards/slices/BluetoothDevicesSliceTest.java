@@ -45,7 +45,7 @@ import androidx.slice.SliceProvider;
 import androidx.slice.core.SliceQuery;
 import androidx.slice.widget.SliceLiveData;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.bluetooth.Utils;
 import com.android.settings.testutils.SliceTester;
 import com.android.settings.testutils.shadow.ShadowBluetoothAdapter;

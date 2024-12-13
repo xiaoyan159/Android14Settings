@@ -20,7 +20,7 @@ import android.content.Context;
 import android.telephony.CarrierConfigManager;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Disclaimer item class for displaying emergency call limitation UI on

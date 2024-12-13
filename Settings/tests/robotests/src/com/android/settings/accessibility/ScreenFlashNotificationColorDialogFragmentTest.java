@@ -42,7 +42,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.testing.FragmentScenario;
 import androidx.lifecycle.Lifecycle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeTimer;
 
 import org.junit.After;

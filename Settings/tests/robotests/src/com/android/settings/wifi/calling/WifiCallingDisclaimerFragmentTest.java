@@ -37,7 +37,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.RecyclerView.OnScrollListener;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowDisclaimerItemFactory;
 import com.android.settings.testutils.shadow.ShadowFragment;
 

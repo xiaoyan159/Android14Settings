@@ -30,7 +30,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.activityembedding.ActivityEmbeddingRulesController;
 import com.android.settings.activityembedding.ActivityEmbeddingUtils;
 import com.android.settings.core.BasePreferenceController;

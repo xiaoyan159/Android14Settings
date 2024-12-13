@@ -87,7 +87,7 @@ class BiometricSettingsProviderTest {
   }
 
   private fun setSupportFaceEnroll(toThis: Boolean) {
-    whenever(resources.getBoolean(com.android.settings.R.bool.config_suw_support_face_enroll))
+    whenever(resources.getBoolean(com.cariad.cea.settings.R.bool.config_suw_support_face_enroll))
       .thenReturn(toThis)
   }
 }

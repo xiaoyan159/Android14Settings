@@ -31,6 +31,8 @@ import android.util.Log;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
+import com.cariad.cea.settings.R;
+
 /**
  * UI for the remote bugreport dialog. Shows one of 3 possible dialogs:
  * <ul>

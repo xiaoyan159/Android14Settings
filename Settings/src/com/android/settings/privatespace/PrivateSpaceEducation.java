@@ -27,7 +27,7 @@ import android.view.ViewGroup;
 import androidx.annotation.Nullable;
 import androidx.navigation.fragment.NavHostFragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 
 import com.google.android.setupcompat.template.FooterBarMixin;

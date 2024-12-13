@@ -32,7 +32,7 @@ import android.widget.Toast;
 import androidx.annotation.IntDef;
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityDialogUtils.DialogEnums;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;

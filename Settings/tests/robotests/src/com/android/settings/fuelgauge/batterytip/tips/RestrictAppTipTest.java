@@ -32,7 +32,7 @@ import android.content.pm.PackageManager;
 import android.os.Parcel;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.fuelgauge.batterytip.AppInfo;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 import com.android.settingslib.utils.StringUtil;

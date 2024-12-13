@@ -26,7 +26,7 @@ import android.widget.TextView;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

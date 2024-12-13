@@ -21,7 +21,7 @@ import android.content.Context;
 import android.os.Bundle;
 import android.service.notification.ZenPolicy;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.AbstractPreferenceController;
 
 import java.util.ArrayList;

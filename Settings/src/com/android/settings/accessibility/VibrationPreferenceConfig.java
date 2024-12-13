@@ -35,7 +35,7 @@ import android.provider.Settings;
 import androidx.annotation.Nullable;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.AbstractPreferenceController;
 
 /**

@@ -51,7 +51,7 @@ import android.util.Log;
 
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.settings.HelpTrampoline;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 
 public class SimSelectNotification extends BroadcastReceiver {

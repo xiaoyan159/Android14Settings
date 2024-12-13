@@ -52,7 +52,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.internal.logging.UiEventLogger;
 import com.android.internal.util.ContrastColorUtil;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.Utils;
 
 import java.util.ArrayList;

@@ -27,7 +27,7 @@ import android.util.TypedValue;
 import androidx.window.embedding.ActivityEmbeddingController;
 import androidx.window.embedding.SplitController;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.setupcompat.util.WizardManagerHelper;
 

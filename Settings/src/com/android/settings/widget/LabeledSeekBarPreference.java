@@ -30,7 +30,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.PreferenceViewHolder;
 
 import com.android.internal.util.Preconditions;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 
 /**

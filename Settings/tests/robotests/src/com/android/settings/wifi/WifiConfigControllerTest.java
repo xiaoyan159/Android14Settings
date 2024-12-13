@@ -48,7 +48,7 @@ import android.widget.TextView;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.testutils.shadow.ShadowConnectivityManager;
 import com.android.settingslib.wifi.AccessPoint;

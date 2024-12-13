@@ -38,7 +38,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.internal.logging.InstanceId;
 import com.android.internal.logging.UiEventLogger;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class NotificationSbnViewHolder extends RecyclerView.ViewHolder {
     private static final String TAG = "SbnViewHolder";

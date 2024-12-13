@@ -133,7 +133,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_automatic_rule_app,
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_automatic_rule_app,
                 TEST_APP_NAME));
     }
 
@@ -145,7 +145,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_manual_end_time, placeholder));
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_manual_end_time, placeholder));
     }
 
     @Test
@@ -155,7 +155,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_manual_indefinite));
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_manual_indefinite));
     }
 
     @Test
@@ -170,7 +170,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_automatic_rule,
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_automatic_rule,
                 TEST_RULE_NAME));
     }
 
@@ -187,7 +187,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
 
         // manual rule end time is after automatic rule end time, so it is displayed
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_manual_indefinite));
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_manual_indefinite));
     }
 
     @Test
@@ -204,7 +204,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
 
         // automatic rule end time is after manual rule end time, so it is displayed
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_automatic_rule,
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_automatic_rule,
                 TEST_RULE_NAME));
     }
 
@@ -226,7 +226,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
 
         // automatic rule from app is displayed
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_automatic_rule,
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_automatic_rule,
                 TEST_RULE_NAME + "2"));
     }
 
@@ -248,7 +248,7 @@ public class ZenModeSettingsFooterPreferenceControllerTest {
 
         // active automatic rule with the latest end time will display
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_settings_dnd_automatic_rule,
+                com.cariad.cea.settings.R.string.zen_mode_settings_dnd_automatic_rule,
                 TEST_RULE_NAME + "2"));
     }
 

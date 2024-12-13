@@ -50,7 +50,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.widget.EntityHeaderController;
 import com.android.settingslib.widget.FooterPreference;

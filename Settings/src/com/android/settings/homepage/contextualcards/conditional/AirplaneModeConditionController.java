@@ -24,7 +24,7 @@ import android.content.IntentFilter;
 import android.net.ConnectivityManager;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settingslib.WirelessUtils;
 

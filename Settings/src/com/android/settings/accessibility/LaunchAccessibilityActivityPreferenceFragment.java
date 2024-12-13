@@ -40,7 +40,7 @@ import android.view.accessibility.AccessibilityManager;
 import androidx.annotation.Nullable;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityUtil.QuickSettingsTooltipType;
 
 import java.util.ArrayList;

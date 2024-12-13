@@ -29,7 +29,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
 import com.android.settings.LinkifyUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A preference with a title that can have linkable content on click.

@@ -20,7 +20,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 
 import com.android.settings.ProgressCategory;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A Bluetooth discovery progress category

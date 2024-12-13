@@ -30,7 +30,7 @@ import android.text.format.DateUtils;
 import android.util.Log;
 import android.util.SparseArray;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.io.File;
 import java.text.Collator;

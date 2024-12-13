@@ -29,7 +29,7 @@ import androidx.preference.DropDownPreference;
 import androidx.preference.Preference;
 import androidx.preference.Preference.OnPreferenceChangeListener;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.Utils;
 import com.android.settings.dashboard.DashboardFragment;

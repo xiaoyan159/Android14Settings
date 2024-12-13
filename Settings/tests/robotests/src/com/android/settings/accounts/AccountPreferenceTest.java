@@ -21,7 +21,7 @@ import static org.mockito.Mockito.verify;
 
 import android.accounts.Account;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

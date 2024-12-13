@@ -31,7 +31,7 @@ import androidx.slice.SliceMetadata;
 import androidx.slice.core.SliceAction;
 import androidx.slice.widget.EventInfo;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.homepage.contextualcards.logging.ContextualCardLogUtils;
 import com.android.settings.overlay.FeatureFactory;

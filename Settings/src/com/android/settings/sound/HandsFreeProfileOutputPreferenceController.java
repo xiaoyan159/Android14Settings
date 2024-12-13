@@ -25,7 +25,7 @@ import android.text.TextUtils;
 import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.Utils;
 import com.android.settingslib.bluetooth.HeadsetProfile;
 import com.android.settingslib.bluetooth.HearingAidProfile;

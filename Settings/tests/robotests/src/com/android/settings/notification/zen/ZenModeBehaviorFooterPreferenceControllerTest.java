@@ -41,7 +41,7 @@ import android.util.ArrayMap;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.zen.AbstractZenModePreferenceController.ZenModeConfigWrapper;
 import com.android.settings.notification.zen.ZenModeBehaviorFooterPreferenceController;
 import com.android.settingslib.core.lifecycle.Lifecycle;
@@ -149,7 +149,7 @@ public class ZenModeBehaviorFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_qs_set_behavior));
+                com.cariad.cea.settings.R.string.zen_mode_qs_set_behavior));
     }
 
     @Test
@@ -165,7 +165,7 @@ public class ZenModeBehaviorFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
+                com.cariad.cea.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
     }
 
     @Test
@@ -179,7 +179,7 @@ public class ZenModeBehaviorFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_qs_set_behavior));
+                com.cariad.cea.settings.R.string.zen_mode_qs_set_behavior));
     }
 
     @Test
@@ -195,7 +195,7 @@ public class ZenModeBehaviorFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
+                com.cariad.cea.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
     }
 
     @Test
@@ -215,7 +215,7 @@ public class ZenModeBehaviorFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
+                com.cariad.cea.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
     }
 
     @Test
@@ -235,6 +235,6 @@ public class ZenModeBehaviorFooterPreferenceControllerTest {
         mController.updateState(mockPref);
 
         verify(mockPref).setTitle(mContext.getString(
-                com.android.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
+                com.cariad.cea.settings.R.string.zen_mode_app_set_behavior, TEST_APP_NAME));
     }
 }

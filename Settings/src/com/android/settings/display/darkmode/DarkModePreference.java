@@ -20,7 +20,7 @@ import android.content.res.Configuration;
 import android.os.PowerManager;
 import android.util.AttributeSet;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.PrimarySwitchPreference;
 
 import java.time.LocalTime;

@@ -38,6 +38,8 @@ import android.view.View;
 import android.view.WindowManager.LayoutParams;
 import android.view.animation.AnimationUtils;
 
+import com.cariad.cea.settings.R;
+
 import java.util.Objects;
 
 public class FallbackHome extends Activity {

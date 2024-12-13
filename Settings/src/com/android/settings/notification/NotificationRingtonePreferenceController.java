@@ -19,7 +19,7 @@ package com.android.settings.notification;
 import android.content.Context;
 import android.media.RingtoneManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class NotificationRingtonePreferenceController extends RingtonePreferenceControllerBase {
 

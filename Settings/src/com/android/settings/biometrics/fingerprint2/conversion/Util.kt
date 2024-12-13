@@ -19,7 +19,7 @@ package com.android.settings.biometrics.fingerprint2.conversion
 import android.hardware.biometrics.BiometricFingerprintConstants.FINGERPRINT_ERROR_CANCELED
 import android.hardware.biometrics.BiometricFingerprintConstants.FINGERPRINT_ERROR_UNABLE_TO_PROCESS
 import android.hardware.fingerprint.FingerprintManager
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics.fingerprint2.lib.model.EnrollReason
 import com.android.settings.biometrics.fingerprint2.lib.model.FingerEnrollState
 

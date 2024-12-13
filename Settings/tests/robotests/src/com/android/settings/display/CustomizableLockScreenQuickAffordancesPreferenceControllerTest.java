@@ -41,7 +41,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.test.core.app.ApplicationProvider;
 import androidx.test.filters.SmallTest;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowThreadUtils;
 
 import org.junit.Before;

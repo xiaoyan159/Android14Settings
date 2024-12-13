@@ -40,7 +40,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog;
 
 import com.android.internal.telephony.flags.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 
 import java.util.ArrayList;

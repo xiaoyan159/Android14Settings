@@ -28,7 +28,7 @@ import androidx.annotation.DrawableRes;
 import androidx.annotation.Nullable;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.wifi.dpp.WifiDppUtils;
 import com.android.settingslib.RestrictedPreference;
 

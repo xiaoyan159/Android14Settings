@@ -18,7 +18,7 @@ package com.android.settings.dashboard.profileselector;
 
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.location.LocationServices;
 import com.android.settings.location.LocationServicesForWork;
 

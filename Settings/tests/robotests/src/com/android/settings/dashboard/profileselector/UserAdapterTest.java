@@ -32,7 +32,7 @@ import android.widget.TextView;
 import androidx.test.core.app.ApplicationProvider;
 
 import com.android.internal.widget.RecyclerView;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.collect.Lists;
 

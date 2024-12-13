@@ -27,7 +27,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import com.airbnb.lottie.LottieAnimationView
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics.fingerprint.FingerprintErrorDialog
 import com.android.settings.biometrics.fingerprint.FingerprintFindSensorAnimation
 import com.android.settings.biometrics.fingerprint2.ui.enrollment.viewmodel.FingerprintEnrollFindSensorViewModel

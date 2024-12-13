@@ -47,9 +47,9 @@ public class TimeoutToDockUserPreferenceController extends BasePreferenceControl
         mUserManager = context.getSystemService(UserManager.class);
 
         mEntries = mContext.getResources().getStringArray(
-                com.android.settings.R.array.switch_to_dock_user_when_docked_timeout_entries);
+                com.cariad.cea.settings.R.array.switch_to_dock_user_when_docked_timeout_entries);
         mValues = mContext.getResources().getStringArray(
-                com.android.settings.R.array.switch_to_dock_user_when_docked_timeout_values);
+                com.cariad.cea.settings.R.array.switch_to_dock_user_when_docked_timeout_values);
     }
 
     @Override

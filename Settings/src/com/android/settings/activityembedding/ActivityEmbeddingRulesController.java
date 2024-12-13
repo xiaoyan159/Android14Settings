@@ -34,7 +34,7 @@ import androidx.window.embedding.SplitPairRule;
 import androidx.window.embedding.SplitPlaceholderRule;
 import androidx.window.embedding.SplitRule;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SubSettings;

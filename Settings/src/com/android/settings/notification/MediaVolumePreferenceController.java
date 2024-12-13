@@ -30,7 +30,7 @@ import androidx.slice.builders.ListBuilder;
 import androidx.slice.builders.SliceAction;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.bluetooth.BluetoothBroadcastDialog;
 import com.android.settings.media.MediaOutputIndicatorWorker;

@@ -27,7 +27,7 @@ import androidx.test.core.app.ApplicationProvider;
 
 import com.android.internal.accessibility.common.ShortcutConstants;
 import com.android.internal.accessibility.util.ShortcutUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

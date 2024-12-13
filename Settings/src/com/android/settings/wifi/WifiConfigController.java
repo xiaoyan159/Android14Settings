@@ -69,7 +69,7 @@ import androidx.annotation.VisibleForTesting;
 import com.android.net.module.util.NetUtils;
 import com.android.net.module.util.ProxyUtils;
 import com.android.settings.ProxySelector;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.utils.AndroidKeystoreAliasLoader;
 import com.android.settings.wifi.dpp.WifiDppUtils;

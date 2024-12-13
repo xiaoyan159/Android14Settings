@@ -26,7 +26,7 @@ import android.os.PersistableBundle;
 import android.telephony.CarrierConfigManager;
 import android.telephony.TelephonyManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 
 /**

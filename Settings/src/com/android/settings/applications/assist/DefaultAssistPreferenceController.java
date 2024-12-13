@@ -31,7 +31,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.preference.Preference;
 
 import com.android.internal.app.AssistUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.defaultapps.DefaultAppPreferenceController;
 import com.android.settingslib.applications.DefaultAppInfo;
 

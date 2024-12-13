@@ -33,7 +33,7 @@ import android.view.contentcapture.ContentCaptureManager;
 
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.XmlTestUtils;
 import com.android.settings.testutils.shadow.ShadowDashboardFragment;
 import com.android.settings.testutils.shadow.ShadowDeviceConfig;

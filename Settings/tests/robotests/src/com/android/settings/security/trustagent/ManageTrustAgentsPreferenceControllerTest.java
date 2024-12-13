@@ -26,7 +26,7 @@ import android.content.Context;
 import androidx.preference.Preference;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.security.trustagent.TrustAgentManager.TrustAgentComponentInfo;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settingslib.utils.StringUtil;

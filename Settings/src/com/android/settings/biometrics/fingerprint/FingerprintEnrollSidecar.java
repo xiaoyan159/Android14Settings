@@ -28,7 +28,7 @@ import android.os.SystemClock;
 import android.util.Log;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.BiometricEnrollSidecar;
 import com.android.settings.biometrics.BiometricUtils;
 

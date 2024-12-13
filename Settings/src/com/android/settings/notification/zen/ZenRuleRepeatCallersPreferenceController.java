@@ -86,7 +86,7 @@ public class ZenRuleRepeatCallersPreferenceController extends
 
     private void setRepeatCallerSummary(Preference preference) {
         preference.setSummary(mContext.getString(
-                com.android.settings.R.string.zen_mode_repeat_callers_summary,
+                com.cariad.cea.settings.R.string.zen_mode_repeat_callers_summary,
                 mRepeatCallersThreshold));
     }
 }

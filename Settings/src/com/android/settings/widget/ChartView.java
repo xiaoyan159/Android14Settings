@@ -26,7 +26,7 @@ import android.view.ViewDebug;
 import android.widget.FrameLayout;
 
 import com.android.internal.util.Preconditions;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Container for two-dimensional chart, drawn with a combination of

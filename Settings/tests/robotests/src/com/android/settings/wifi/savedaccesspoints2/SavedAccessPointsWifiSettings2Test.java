@@ -32,7 +32,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowInteractionJankMonitor;
 import com.android.settingslib.core.AbstractPreferenceController;
 

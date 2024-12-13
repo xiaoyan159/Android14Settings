@@ -29,7 +29,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityStatsLogUtils;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;

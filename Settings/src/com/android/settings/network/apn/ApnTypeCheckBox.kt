@@ -22,7 +22,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.apn.ApnTypes.toApnType
 import com.android.settingslib.spa.widget.editor.SettingsDropdownCheckBox
 

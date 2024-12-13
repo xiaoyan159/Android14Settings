@@ -26,7 +26,7 @@ import android.safetycenter.SafetySourceData;
 import android.safetycenter.SafetySourceStatus;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.safetycenter.SafetyCenterManagerWrapper;
 
 /** Private Space safety source for the Safety Center */

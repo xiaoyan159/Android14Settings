@@ -32,7 +32,7 @@ import android.text.TextUtils;
 
 import androidx.preference.SwitchPreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 
 import org.junit.Before;

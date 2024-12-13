@@ -24,7 +24,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.CustomDialogPreferenceCompat;
 
 import java.util.ArrayList;

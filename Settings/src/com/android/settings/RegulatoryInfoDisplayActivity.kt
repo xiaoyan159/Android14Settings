@@ -15,7 +15,7 @@
  */
 
 package com.android.settings
-
+import com.cariad.cea.settings.R
 import android.app.Activity
 import android.os.Bundle
 import android.view.Gravity

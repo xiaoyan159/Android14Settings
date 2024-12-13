@@ -95,7 +95,7 @@ public class NotificationVolumePreferenceControllerTest {
     @Test
     public void isAvailable_whenVoiceCapable_shouldReturnTrue() {
         when(mResources.getBoolean(
-                com.android.settings.R.bool.config_show_notification_volume)).thenReturn(true);
+                com.cariad.cea.settings.R.bool.config_show_notification_volume)).thenReturn(true);
 
         NotificationVolumePreferenceController controller =
                 new NotificationVolumePreferenceController(mContext);
@@ -109,7 +109,7 @@ public class NotificationVolumePreferenceControllerTest {
     @Test
     public void isAvailable_notShowNotificationVolume_shouldReturnFalse() {
         when(mResources.getBoolean(
-                com.android.settings.R.bool.config_show_notification_volume)).thenReturn(false);
+                com.cariad.cea.settings.R.bool.config_show_notification_volume)).thenReturn(false);
 
         assertThat(mController.isAvailable()).isFalse();
     }
@@ -117,7 +117,7 @@ public class NotificationVolumePreferenceControllerTest {
     @Test
     public void isAvailable_notSingleVolume_notVoiceCapable_shouldReturnTrue() {
         when(mResources.getBoolean(
-                com.android.settings.R.bool.config_show_notification_volume)).thenReturn(true);
+                com.cariad.cea.settings.R.bool.config_show_notification_volume)).thenReturn(true);
         when(mHelper.isSingleVolume()).thenReturn(false);
         when(mTelephonyManager.isVoiceCapable()).thenReturn(false);
 
@@ -163,7 +163,7 @@ public class NotificationVolumePreferenceControllerTest {
     @Test
     public void ringerModeSilent_getAvailability_returnsDisabled() {
         when(mResources.getBoolean(
-                com.android.settings.R.bool.config_show_notification_volume)).thenReturn(true);
+                com.cariad.cea.settings.R.bool.config_show_notification_volume)).thenReturn(true);
         when(mHelper.isSingleVolume()).thenReturn(false);
 
         when(mAudioManager.getRingerModeInternal()).thenReturn(AudioManager.RINGER_MODE_SILENT);

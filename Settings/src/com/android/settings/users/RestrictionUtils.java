@@ -23,7 +23,7 @@ import android.os.Bundle;
 import android.os.UserHandle;
 import android.os.UserManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 

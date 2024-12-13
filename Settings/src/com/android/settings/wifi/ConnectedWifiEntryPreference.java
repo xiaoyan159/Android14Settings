@@ -21,7 +21,7 @@ import android.view.View;
 import androidx.fragment.app.Fragment;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.wifitrackerlib.WifiEntry;
 
 /**

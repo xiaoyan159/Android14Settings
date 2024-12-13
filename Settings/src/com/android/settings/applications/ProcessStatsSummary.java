@@ -30,7 +30,7 @@ import androidx.preference.Preference.OnPreferenceClickListener;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.SwitchPreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SummaryPreference;
 import com.android.settings.Utils;
 import com.android.settings.applications.ProcStatsData.MemInfo;

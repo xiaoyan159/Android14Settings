@@ -32,7 +32,7 @@ import android.os.UserHandle;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.testutils.shadow.ShadowAccountManager;
 import com.android.settings.testutils.shadow.ShadowContentResolver;

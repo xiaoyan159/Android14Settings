@@ -26,7 +26,7 @@ import android.text.TextUtils
 import android.util.Log
 import android.widget.ImeAwareEditText
 import androidx.appcompat.app.AlertDialog
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics.fingerprint2.lib.model.FingerprintData
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment
 import kotlin.coroutines.resume

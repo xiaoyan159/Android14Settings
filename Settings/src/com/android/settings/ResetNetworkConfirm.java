@@ -39,6 +39,7 @@ import androidx.appcompat.app.AlertDialog;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.network.ResetNetworkOperationBuilder;
 import com.android.settings.network.ResetNetworkRestrictionViewBuilder;
+import com.cariad.cea.settings.R;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

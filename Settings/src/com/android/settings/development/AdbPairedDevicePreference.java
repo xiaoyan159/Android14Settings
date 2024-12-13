@@ -24,7 +24,7 @@ import android.view.View;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * An AP preference for the currently connected AP

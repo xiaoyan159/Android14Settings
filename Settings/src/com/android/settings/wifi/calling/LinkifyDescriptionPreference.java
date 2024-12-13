@@ -30,7 +30,7 @@ import androidx.core.text.util.LinkifyCompat;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** A preference which supports linkify text as a description in the summary **/
 public class LinkifyDescriptionPreference extends Preference {

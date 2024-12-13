@@ -23,7 +23,7 @@ import android.os.UserManager;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.fuelgauge.PowerUsageFeatureProvider;
 import com.android.settings.overlay.FeatureFactory;

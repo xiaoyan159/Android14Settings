@@ -45,7 +45,7 @@ import androidx.core.graphics.drawable.DrawableCompat;
 import androidx.fragment.app.DialogFragment;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.Utils;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;

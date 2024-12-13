@@ -33,7 +33,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.net.wifi.WifiManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.SummaryUpdater.OnSummaryChangeListener;
 import com.android.settingslib.wifi.WifiStatusTracker;
 

@@ -22,7 +22,7 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
 import org.junit.Before;

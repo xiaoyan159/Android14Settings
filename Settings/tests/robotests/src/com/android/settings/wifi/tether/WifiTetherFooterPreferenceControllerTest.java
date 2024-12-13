@@ -30,7 +30,7 @@ import android.net.wifi.WifiManager;
 
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.FooterPreference;
 
 import org.junit.Before;

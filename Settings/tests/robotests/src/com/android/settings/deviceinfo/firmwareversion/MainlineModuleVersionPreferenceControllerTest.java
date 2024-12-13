@@ -68,7 +68,7 @@ public class MainlineModuleVersionPreferenceControllerTest {
         mPreference = new Preference(mContext);
         when(mContext.getPackageManager()).thenReturn(mPackageManager);
         when(mContext
-                 .getString(com.android.settings.R.string.config_mainline_module_update_package))
+                 .getString(com.cariad.cea.settings.R.string.config_mainline_module_update_package))
                 .thenReturn(MODULE_PACKAGE);
     }
 

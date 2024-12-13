@@ -55,7 +55,7 @@ import androidx.compose.ui.platform.LocalLifecycleOwner
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.SidecarFragment
 import com.android.settings.network.telephony.SubscriptionActionDialogActivity
 import com.android.settings.network.telephony.ToggleSubscriptionDialogActivity

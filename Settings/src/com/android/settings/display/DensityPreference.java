@@ -25,7 +25,7 @@ import android.view.Display;
 import android.view.View;
 import android.widget.EditText;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settingslib.CustomEditTextPreferenceCompat;
 import com.android.settingslib.display.DisplayDensityConfiguration;

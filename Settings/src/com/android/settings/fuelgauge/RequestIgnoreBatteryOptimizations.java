@@ -29,7 +29,7 @@ import android.util.Log;
 
 import com.android.internal.app.AlertActivity;
 import com.android.internal.app.AlertController;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class RequestIgnoreBatteryOptimizations extends AlertActivity
         implements DialogInterface.OnClickListener {

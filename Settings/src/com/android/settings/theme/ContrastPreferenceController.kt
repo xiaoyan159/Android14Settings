@@ -25,7 +25,7 @@ import android.os.UserHandle
 import android.text.TextUtils
 import androidx.preference.Preference
 import com.android.internal.annotations.VisibleForTesting
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.BasePreferenceController
 
 /**

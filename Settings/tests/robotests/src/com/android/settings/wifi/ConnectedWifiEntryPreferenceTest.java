@@ -25,7 +25,7 @@ import static org.mockito.Mockito.when;
 import android.content.Context;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.wifitrackerlib.WifiEntry;
 
 import org.junit.Before;

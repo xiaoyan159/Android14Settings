@@ -23,7 +23,7 @@ import android.graphics.drawable.Drawable;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.intentpicker.IntentPickerUtils;
 import com.android.settingslib.applications.AppUtils;
 import com.android.settingslib.applications.ApplicationsState.AppEntry;

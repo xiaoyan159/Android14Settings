@@ -22,7 +22,7 @@ import android.text.Html;
 
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Preference controller for accessibility button footer.

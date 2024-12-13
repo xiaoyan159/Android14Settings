@@ -33,7 +33,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.utils.StringUtil;
 
 import java.util.ArrayList;

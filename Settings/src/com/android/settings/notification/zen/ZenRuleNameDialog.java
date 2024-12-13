@@ -31,7 +31,7 @@ import android.widget.EditText;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 
 public class ZenRuleNameDialog extends InstrumentedDialogFragment {

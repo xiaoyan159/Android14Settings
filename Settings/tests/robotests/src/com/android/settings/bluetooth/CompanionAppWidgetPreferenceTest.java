@@ -26,7 +26,7 @@ import android.graphics.drawable.Drawable;
 import android.view.ContextThemeWrapper;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;
 
 import org.junit.Before;

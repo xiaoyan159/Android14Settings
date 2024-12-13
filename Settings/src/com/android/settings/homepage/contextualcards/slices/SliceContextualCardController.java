@@ -24,7 +24,7 @@ import android.text.TextUtils;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.homepage.contextualcards.ContextualCardController;
 import com.android.settings.homepage.contextualcards.ContextualCardFeatureProvider;

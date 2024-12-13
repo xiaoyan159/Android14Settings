@@ -39,7 +39,7 @@ import android.widget.ImageView;
 
 import androidx.lifecycle.ViewModelProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.setupcompat.template.FooterButton;
 

@@ -35,7 +35,7 @@ import android.os.UidBatteryConsumer;
 import android.os.UserBatteryConsumer;
 import android.os.UserManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.fuelgauge.BatteryUtils;
 import com.android.settings.fuelgauge.batteryusage.BatteryEntry.NameAndIcon;
 

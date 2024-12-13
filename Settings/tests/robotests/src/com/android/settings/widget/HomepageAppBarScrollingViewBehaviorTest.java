@@ -22,7 +22,7 @@ import android.content.Context;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.material.appbar.AppBarLayout;
 

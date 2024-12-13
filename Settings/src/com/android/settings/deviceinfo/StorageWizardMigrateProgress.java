@@ -29,7 +29,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import android.view.WindowManager;
 

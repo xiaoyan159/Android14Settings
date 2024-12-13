@@ -32,7 +32,7 @@ import android.widget.Button;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.ActionButtonsPreference;
 
 import org.junit.Ignore;

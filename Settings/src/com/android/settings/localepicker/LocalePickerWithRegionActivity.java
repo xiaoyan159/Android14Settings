@@ -28,7 +28,7 @@ import androidx.core.view.ViewCompat;
 
 import com.android.internal.app.LocalePickerWithRegion;
 import com.android.internal.app.LocaleStore;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SettingsBaseActivity;
 
 /** A activity to show the locale picker page. */

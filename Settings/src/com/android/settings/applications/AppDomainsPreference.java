@@ -21,7 +21,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.ListDialogPreference;
 
 public class AppDomainsPreference extends ListDialogPreference {

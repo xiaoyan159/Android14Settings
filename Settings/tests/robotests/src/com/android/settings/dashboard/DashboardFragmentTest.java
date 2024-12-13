@@ -53,7 +53,7 @@ import androidx.preference.SwitchPreferenceCompat;
 import androidx.test.core.app.ApplicationProvider;
 
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.slices.BlockingSlicePrefController;
 import com.android.settings.testutils.FakeFeatureFactory;

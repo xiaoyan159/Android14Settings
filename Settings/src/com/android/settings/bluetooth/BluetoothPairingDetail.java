@@ -26,7 +26,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.bluetooth.BluetoothDeviceFilter;
 import com.android.settingslib.search.Indexable;
 import com.android.settingslib.widget.FooterPreference;

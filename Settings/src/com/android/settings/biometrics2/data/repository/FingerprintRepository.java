@@ -30,7 +30,7 @@ import android.util.Log;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.ParentalControlsUtils;
 import com.android.settingslib.RestrictedLockUtilsInternal;
 

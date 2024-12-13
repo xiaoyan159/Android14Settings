@@ -36,7 +36,7 @@ import android.view.animation.Interpolator;
 
 import androidx.viewpager.widget.ViewPager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.Arrays;
 

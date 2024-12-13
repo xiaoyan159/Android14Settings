@@ -21,7 +21,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.NavHostFragment.Companion.findNavController
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.remoteauth.RemoteAuthEnrollBase
 import com.google.android.setupcompat.template.FooterButton
 import com.google.android.setupdesign.template.RequireScrollMixin

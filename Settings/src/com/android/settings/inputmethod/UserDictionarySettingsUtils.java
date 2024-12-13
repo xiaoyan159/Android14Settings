@@ -19,7 +19,7 @@ package com.android.settings.inputmethod;
 import android.content.Context;
 import android.text.TextUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 
 import java.util.Locale;

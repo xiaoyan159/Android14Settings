@@ -26,7 +26,7 @@ import static org.mockito.Mockito.spy;
 import android.content.Context;
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowDashboardFragment;
 
 import org.junit.Before;

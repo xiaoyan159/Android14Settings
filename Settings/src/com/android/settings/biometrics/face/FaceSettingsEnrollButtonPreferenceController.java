@@ -25,7 +25,7 @@ import android.widget.Button;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.password.ChooseLockSettingsHelper;
 import com.android.settingslib.widget.LayoutPreference;

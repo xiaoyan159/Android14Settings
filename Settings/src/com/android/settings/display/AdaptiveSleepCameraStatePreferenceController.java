@@ -31,7 +31,7 @@ import androidx.lifecycle.OnLifecycleEvent;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.BannerMessagePreference;
 
 /**

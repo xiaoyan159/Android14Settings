@@ -19,7 +19,7 @@ package com.android.settings.development.featureflags;
 import static com.google.common.truth.Truth.assertThat;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

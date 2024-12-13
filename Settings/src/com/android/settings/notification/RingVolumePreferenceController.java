@@ -29,7 +29,7 @@ import android.service.notification.NotificationListenerService;
 
 import androidx.lifecycle.OnLifecycleEvent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 
 /**

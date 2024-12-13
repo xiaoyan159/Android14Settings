@@ -16,7 +16,7 @@ package com.android.settings.applications.autofill;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.applications.credentials.DefaultCombinedPicker;
 

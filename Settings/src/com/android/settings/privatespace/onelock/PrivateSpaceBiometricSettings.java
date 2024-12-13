@@ -21,7 +21,7 @@ import android.content.Context;
 import android.os.UserHandle;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.combination.BiometricsSettingsBase;
 import com.android.settings.privatespace.PrivateSpaceMaintainer;
 

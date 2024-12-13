@@ -31,7 +31,7 @@ import android.telecom.TelecomManager;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.emergencynumber.EmergencyNumberUtils;
 
 /**

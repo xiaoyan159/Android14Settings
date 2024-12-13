@@ -27,7 +27,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.HearingDevicePairingFragment;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;

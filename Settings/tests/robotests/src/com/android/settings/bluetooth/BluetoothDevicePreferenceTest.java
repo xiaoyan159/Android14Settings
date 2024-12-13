@@ -35,7 +35,7 @@ import android.util.Pair;
 import android.view.ContextThemeWrapper;
 
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;

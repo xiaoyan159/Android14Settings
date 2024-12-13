@@ -48,7 +48,7 @@ import android.widget.CheckBox;
 import android.widget.TextView;
 
 import com.android.internal.widget.LockscreenCredential;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.password.ChooseLockPassword.ChooseLockPasswordFragment;
 import com.android.settings.password.ChooseLockPassword.IntentBuilder;
 import com.android.settings.testutils.shadow.SettingsShadowResources;

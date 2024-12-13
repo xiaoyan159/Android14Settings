@@ -43,7 +43,7 @@ import androidx.fragment.app.ListFragment;
 import androidx.loader.app.LoaderManager;
 import androidx.loader.content.Loader;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.core.instrumentation.Instrumentable;

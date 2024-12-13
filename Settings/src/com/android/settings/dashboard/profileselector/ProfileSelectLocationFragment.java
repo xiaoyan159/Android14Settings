@@ -20,7 +20,7 @@ import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.location.LocationPersonalSettings;
 import com.android.settings.location.LocationSwitchBarController;

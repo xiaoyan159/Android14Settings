@@ -38,7 +38,7 @@ import android.widget.Toast;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.wifi.dpp.WifiDppQrCodeScannerFragment;
 import com.android.settings.wifi.dpp.WifiDppUtils;

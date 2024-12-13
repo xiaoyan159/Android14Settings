@@ -37,7 +37,7 @@ import android.util.ArrayMap;
 import android.util.DebugUtils;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.fuelgauge.BatteryUtils;
 import com.android.settingslib.Utils;
 

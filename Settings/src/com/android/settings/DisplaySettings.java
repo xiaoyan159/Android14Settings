@@ -32,6 +32,7 @@ import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.core.AbstractPreferenceController;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.search.SearchIndexable;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.List;

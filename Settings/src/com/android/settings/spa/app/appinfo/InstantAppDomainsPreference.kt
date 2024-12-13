@@ -33,7 +33,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils
 import com.android.settingslib.spa.framework.theme.SettingsDimension
 import com.android.settingslib.spa.widget.preference.Preference

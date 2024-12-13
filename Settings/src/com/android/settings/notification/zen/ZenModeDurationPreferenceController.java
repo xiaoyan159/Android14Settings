@@ -19,7 +19,7 @@ package com.android.settings.notification.zen;
 import android.content.Context;
 import android.icu.text.MessageFormat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 

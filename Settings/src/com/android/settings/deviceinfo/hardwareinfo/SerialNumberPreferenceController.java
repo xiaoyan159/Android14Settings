@@ -19,7 +19,7 @@ package com.android.settings.deviceinfo.hardwareinfo;
 import android.content.Context;
 import android.os.Build;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 public class SerialNumberPreferenceController extends BasePreferenceController {

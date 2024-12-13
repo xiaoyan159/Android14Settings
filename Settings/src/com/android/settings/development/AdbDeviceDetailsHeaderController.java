@@ -22,7 +22,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.fragment.app.Fragment;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.widget.EntityHeaderController;
 import com.android.settingslib.core.AbstractPreferenceController;

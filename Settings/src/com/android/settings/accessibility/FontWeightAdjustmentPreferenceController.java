@@ -20,7 +20,7 @@ import android.content.Context;
 import android.graphics.fonts.FontStyle;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.TextReadingPreferenceFragment.EntryPoint;
 import com.android.settings.core.TogglePreferenceController;
 import com.android.settings.core.instrumentation.SettingsStatsLog;

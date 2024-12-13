@@ -20,7 +20,7 @@ import android.os.Bundle;
 import android.telephony.SubscriptionInfo;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SidecarFragment;
 import com.android.settings.network.SwitchToEuiccSubscriptionSidecar;
 import com.android.settings.network.UiccSlotUtil;

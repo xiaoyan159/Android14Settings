@@ -29,7 +29,7 @@ import android.os.UserManager;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.applications.DefaultAppInfo;
 import com.android.settingslib.widget.TwoTargetPreference;
 

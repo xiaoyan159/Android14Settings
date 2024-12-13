@@ -22,7 +22,7 @@ import android.os.Bundle;
 
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Activity for Bluetooth device picker dialog. The device picker logic

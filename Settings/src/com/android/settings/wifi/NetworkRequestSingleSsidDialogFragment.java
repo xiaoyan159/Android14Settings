@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * This is similar fragment with {@link NetworkRequestDialogFragment} but only for single SSID mode.

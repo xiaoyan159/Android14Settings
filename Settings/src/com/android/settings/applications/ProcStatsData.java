@@ -40,7 +40,7 @@ import com.android.internal.app.procstats.ProcessStats.ProcessDataCollection;
 import com.android.internal.app.procstats.ProcessStats.TotalMemoryUseCollection;
 import com.android.internal.app.procstats.ServiceState;
 import com.android.internal.util.MemInfoReader;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 
 import java.io.IOException;

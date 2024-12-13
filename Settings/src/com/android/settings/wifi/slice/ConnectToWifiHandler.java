@@ -24,7 +24,7 @@ import android.widget.Toast;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.slices.SliceBackgroundWorker;
 import com.android.settings.wifi.WifiDialogActivity;
 import com.android.wifitrackerlib.WifiEntry;

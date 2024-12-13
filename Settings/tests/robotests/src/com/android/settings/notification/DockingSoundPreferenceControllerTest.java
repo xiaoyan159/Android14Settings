@@ -69,7 +69,7 @@ public class DockingSoundPreferenceControllerTest {
         when(mSetting.getActivity()).thenReturn(mActivity);
         when(mActivity.getContentResolver()).thenReturn(mContentResolver);
         mPreference = new SwitchPreference(RuntimeEnvironment.application);
-        when(mActivity.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mActivity.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(true);
         mController = new DockingSoundPreferenceController(mContext, mSetting, null);
         when(mScreen.findPreference(mController.getPreferenceKey())).thenReturn(mPreference);
@@ -78,7 +78,7 @@ public class DockingSoundPreferenceControllerTest {
 
     @Test
     public void isAvailable_hasDockSettings_shouldReturnTrue() {
-        when(mContext.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(true);
 
         assertThat(mController.isAvailable()).isTrue();
@@ -86,7 +86,7 @@ public class DockingSoundPreferenceControllerTest {
 
     @Test
     public void isAvailable_noDockSettings_shouldReturnFalse() {
-        when(mContext.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(false);
 
         assertThat(mController.isAvailable()).isFalse();

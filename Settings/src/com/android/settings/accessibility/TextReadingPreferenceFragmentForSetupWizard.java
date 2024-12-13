@@ -30,7 +30,7 @@ import android.view.ViewGroup;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.Utils;
 
 import com.google.android.setupcompat.template.FooterBarMixin;

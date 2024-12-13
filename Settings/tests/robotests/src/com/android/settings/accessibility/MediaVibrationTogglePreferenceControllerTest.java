@@ -33,7 +33,7 @@ import androidx.test.core.app.ApplicationProvider;
 
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.testutils.shadow.SettingsShadowResources;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 
 import org.junit.After;

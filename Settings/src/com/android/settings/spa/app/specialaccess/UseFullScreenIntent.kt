@@ -19,7 +19,7 @@ package com.android.settings.spa.app.specialaccess
 import android.Manifest
 import android.app.AppOpsManager
 import android.content.Context
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spaprivileged.template.app.AppOpPermissionListModel
 import com.android.settingslib.spaprivileged.template.app.TogglePermissionAppListProvider
 

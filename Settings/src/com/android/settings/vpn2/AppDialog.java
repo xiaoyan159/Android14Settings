@@ -23,7 +23,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * UI for managing the connection controlled by an app.

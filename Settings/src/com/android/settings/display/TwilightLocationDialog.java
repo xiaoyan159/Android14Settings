@@ -21,7 +21,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 
 /*

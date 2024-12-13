@@ -23,7 +23,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.SubSettingLauncher
 import com.android.settings.datausage.lib.BillingCycleRepository
 import com.android.settings.network.mobileDataEnabledFlow

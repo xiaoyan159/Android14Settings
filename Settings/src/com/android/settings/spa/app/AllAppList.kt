@@ -22,7 +22,7 @@ import android.os.Bundle
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.State
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.app.appinfo.AppInfoSettingsProvider
 import com.android.settingslib.spa.framework.common.SettingsEntryBuilder
 import com.android.settingslib.spa.framework.common.SettingsPageProvider

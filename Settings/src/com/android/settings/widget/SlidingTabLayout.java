@@ -27,7 +27,7 @@ import android.widget.TextView;
 
 import androidx.viewpager.widget.PagerAdapter;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * To be used with ViewPager to provide a tab indicator component which give constant feedback as

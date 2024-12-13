@@ -26,7 +26,7 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A linear layout containing the left and right location indicators.

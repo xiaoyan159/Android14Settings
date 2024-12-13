@@ -38,7 +38,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.window.embedding.ActivityEmbeddingController;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.activityembedding.ActivityEmbeddingRulesController;
 import com.android.settings.activityembedding.ActivityEmbeddingUtils;

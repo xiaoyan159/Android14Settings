@@ -35,7 +35,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.lifecycle.LifecycleOwner;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.LayoutPreference;
 
 import com.google.android.setupcompat.template.FooterBarMixin;

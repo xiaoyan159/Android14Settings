@@ -26,7 +26,7 @@ import android.text.TextUtils;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 
 public class AmbientDisplayAlwaysOnPreferenceController extends TogglePreferenceController {

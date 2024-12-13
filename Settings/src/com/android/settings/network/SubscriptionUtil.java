@@ -44,7 +44,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
 import com.android.internal.telephony.MccTable;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.flags.Flags;
 import com.android.settings.network.helper.SelectableSubscriptions;
 import com.android.settings.network.helper.SubscriptionAnnotation;

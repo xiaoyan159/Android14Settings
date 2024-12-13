@@ -28,7 +28,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.bluetooth.LocalBluetoothManager;

@@ -21,7 +21,7 @@ import android.util.Log;
 
 import androidx.annotation.NonNull;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.privatespace.PrivateSpaceMaintainer;
 

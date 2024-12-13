@@ -22,7 +22,7 @@ import android.os.Bundle;
 import android.os.storage.VolumeInfo;
 import android.widget.Button;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowStorageManager;
 
 import org.junit.After;

@@ -26,7 +26,7 @@ import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.config.sysui.SystemUiDeviceConfigFlags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.appinfo.AppInfoDashboardFragment;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.dashboard.DashboardFragment;

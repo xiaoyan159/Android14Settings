@@ -31,7 +31,7 @@ import android.provider.Settings;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.display.AmbientDisplayAlwaysOnPreferenceController;
 import com.android.settings.display.AmbientDisplayNotificationsPreferenceController;

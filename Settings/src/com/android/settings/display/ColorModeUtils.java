@@ -26,7 +26,7 @@ import static android.hardware.display.ColorDisplayManager.VENDOR_COLOR_MODE_RAN
 import android.content.res.Resources;
 import android.util.ArrayMap;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.Map;
 

@@ -21,7 +21,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.NetworkPolicyManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 

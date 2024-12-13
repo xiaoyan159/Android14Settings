@@ -35,7 +35,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.test.core.app.ApplicationProvider;
 
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settingslib.core.AbstractPreferenceController;
 import com.android.settingslib.drawer.CategoryKey;

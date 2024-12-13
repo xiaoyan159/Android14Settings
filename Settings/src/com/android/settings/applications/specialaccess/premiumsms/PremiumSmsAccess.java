@@ -30,7 +30,7 @@ import androidx.preference.Preference.OnPreferenceChangeListener;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppStateBaseBridge.Callback;
 import com.android.settings.applications.AppStateSmsPremBridge;
 import com.android.settings.applications.AppStateSmsPremBridge.SmsState;

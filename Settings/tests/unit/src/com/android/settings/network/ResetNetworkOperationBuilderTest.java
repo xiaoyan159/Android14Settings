@@ -41,7 +41,7 @@ import android.telephony.TelephonyManager;
 import androidx.test.core.app.ApplicationProvider;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
-import com.android.settings.ResetNetworkRequest;
+import com.cariad.cea.settings.ResetNetworkRequest;
 
 import org.junit.Before;
 import org.junit.Test;

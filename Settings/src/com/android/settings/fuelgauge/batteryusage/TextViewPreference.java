@@ -24,7 +24,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** A preference for a single text view. */
 public class TextViewPreference extends Preference {

@@ -35,7 +35,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 
 public class PrivateVolumeFormat extends InstrumentedFragment {

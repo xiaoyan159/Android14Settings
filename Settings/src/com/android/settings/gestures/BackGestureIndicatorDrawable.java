@@ -32,7 +32,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** A drawable to animate the inset back gesture in both edges of the screen */
 public class BackGestureIndicatorDrawable extends Drawable {

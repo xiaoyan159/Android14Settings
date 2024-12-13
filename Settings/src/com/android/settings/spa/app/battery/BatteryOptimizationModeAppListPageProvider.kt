@@ -23,7 +23,7 @@ import android.os.Bundle
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
 import androidx.core.os.bundleOf
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils
 import com.android.settings.core.SubSettingLauncher
 import com.android.settings.fuelgauge.AdvancedPowerUsageDetail

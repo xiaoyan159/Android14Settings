@@ -22,7 +22,7 @@ import android.accessibilityservice.AccessibilityServiceInfo;
 import android.os.Bundle;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Fragment that only allowed hardware {@link UserShortcutType} for shortcut to open.

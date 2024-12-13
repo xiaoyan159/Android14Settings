@@ -35,7 +35,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.core.SettingsUIDeviceConfig;
 import com.android.settings.fuelgauge.BatteryMeterView;

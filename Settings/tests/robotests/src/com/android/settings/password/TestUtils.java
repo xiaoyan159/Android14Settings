@@ -26,7 +26,7 @@ import android.content.pm.PackageInfo;
 import android.content.pm.ServiceInfo;
 
 import com.android.security.SecureBox;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.robolectric.Robolectric;
 

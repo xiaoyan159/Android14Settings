@@ -29,7 +29,7 @@ import android.os.UserManager;
 
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.nfc.PaymentBackend.PaymentAppInfo;
 import com.android.settings.testutils.shadow.ShadowNfcAdapter;
 

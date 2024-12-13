@@ -118,6 +118,7 @@ import com.android.settings.dashboard.profileselector.ProfileSelectFragment.Prof
 import com.android.settings.password.ChooseLockSettingsHelper;
 import com.android.settingslib.widget.ActionBarShadowController;
 import com.android.settingslib.widget.AdaptiveIcon;
+import com.cariad.cea.settings.R;
 
 import java.util.Iterator;
 import java.util.List;

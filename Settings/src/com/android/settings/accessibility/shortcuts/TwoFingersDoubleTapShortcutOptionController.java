@@ -27,7 +27,7 @@ import androidx.preference.PreferenceScreen;
 
 import com.android.internal.accessibility.common.ShortcutConstants;
 import com.android.server.accessibility.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityUtil;
 
 import java.util.Set;

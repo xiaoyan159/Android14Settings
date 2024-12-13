@@ -20,7 +20,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.os.Parcel;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 
 /** Tip to suggest turn on smart battery if it is not on */

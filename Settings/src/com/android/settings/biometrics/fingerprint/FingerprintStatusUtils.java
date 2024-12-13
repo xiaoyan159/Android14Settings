@@ -21,7 +21,7 @@ import android.hardware.biometrics.BiometricAuthenticator;
 import android.hardware.fingerprint.FingerprintManager;
 import android.os.UserManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.biometrics.ParentalControlsUtils;
 import com.android.settingslib.RestrictedLockUtils.EnforcedAdmin;

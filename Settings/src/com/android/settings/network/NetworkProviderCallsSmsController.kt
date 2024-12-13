@@ -26,7 +26,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.LifecycleOwner
 import androidx.preference.PreferenceScreen
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.BasePreferenceController
 import com.android.settings.flags.Flags
 import com.android.settingslib.RestrictedPreference

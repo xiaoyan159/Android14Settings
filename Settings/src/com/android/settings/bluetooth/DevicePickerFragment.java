@@ -34,7 +34,7 @@ import android.view.MenuInflater;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.password.PasswordUtils;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.core.AbstractPreferenceController;

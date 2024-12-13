@@ -21,7 +21,7 @@ import static com.google.common.truth.Truth.assertThat;
 import android.content.Context;
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowUtils;
 
 import org.junit.After;

@@ -28,7 +28,7 @@ import android.media.AudioManager;
 import android.os.UserManager;
 import android.preference.SeekBarVolumizer;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.XmlTestUtils;
 import com.android.settings.testutils.shadow.ShadowAudioHelper;
 import com.android.settings.testutils.shadow.ShadowBluetoothAdapter;

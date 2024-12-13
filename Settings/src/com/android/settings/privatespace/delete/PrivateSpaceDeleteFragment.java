@@ -37,7 +37,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.navigation.fragment.NavHostFragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.password.ChooseLockSettingsHelper;
 import com.android.settings.privatespace.PrivateSpaceMaintainer;

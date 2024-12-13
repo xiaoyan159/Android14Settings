@@ -25,7 +25,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.testing.TestLifecycleOwner
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.google.common.truth.Truth.assertThat
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.flowOf

@@ -37,7 +37,7 @@ import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.fingerprint.FingerprintUpdater;
 import com.android.settings.biometrics.fingerprint.MessageDisplayController;
 import com.android.settings.biometrics2.ui.model.EnrollmentProgress;

@@ -25,7 +25,7 @@ import androidx.compose.material.icons.outlined.CloudUpload
 import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.testutils.delay
 import com.android.settingslib.spa.widget.button.ActionButton
 import com.google.common.truth.Truth.assertThat

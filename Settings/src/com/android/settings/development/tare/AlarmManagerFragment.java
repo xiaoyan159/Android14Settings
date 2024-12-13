@@ -27,7 +27,7 @@ import android.widget.ExpandableListView.OnChildClickListener;
 
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Creates the AlarmManager fragment to display all the AlarmManager factors

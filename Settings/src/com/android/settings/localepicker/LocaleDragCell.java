@@ -23,7 +23,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 class LocaleDragCell extends RelativeLayout {
     // We need to keep the label and the checkbox "in sync"

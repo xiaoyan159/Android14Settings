@@ -23,7 +23,7 @@ import android.content.Context;
 import android.provider.Settings;
 import android.view.accessibility.AccessibilityManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 /** Preference controller for autoclick (dwell timing). */

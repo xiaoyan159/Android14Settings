@@ -24,7 +24,7 @@ import android.view.View;
 import androidx.preference.CheckBoxPreference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Radio button preference with image at the bottom.

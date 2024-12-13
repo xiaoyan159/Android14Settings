@@ -29,7 +29,7 @@ import android.widget.TextView;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.datausage.ChartDataUsagePreference.DataUsageSummaryNode;
 import com.android.settings.datausage.lib.NetworkCycleChartData;
 import com.android.settings.datausage.lib.NetworkUsageData;

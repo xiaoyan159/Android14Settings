@@ -34,7 +34,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 import androidx.core.app.NotificationCompat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * BluetoothPairingService shows a notification if there is a pending bond request

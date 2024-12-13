@@ -31,7 +31,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ViewFlipper;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 
 public class StorageWizardInit extends StorageWizardBase {

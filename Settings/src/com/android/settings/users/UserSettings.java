@@ -68,7 +68,7 @@ import androidx.preference.PreferenceScreen;
 
 import com.android.internal.util.UserIcons;
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.Utils;

@@ -60,7 +60,7 @@ import com.android.internal.annotations.GuardedBy;
 import com.android.internal.net.LegacyVpnInfo;
 import com.android.internal.net.VpnConfig;
 import com.android.internal.net.VpnProfile;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.RestrictedDashboardFragment;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.widget.GearPreference;

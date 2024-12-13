@@ -20,7 +20,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.RadioGroup;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Dialog preference to set the Bluetooth A2DP config of sample rate

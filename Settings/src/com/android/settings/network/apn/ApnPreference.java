@@ -35,7 +35,7 @@ import android.widget.Toast;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.flags.Flags;
 import com.android.settings.spa.SpaActivity;
 

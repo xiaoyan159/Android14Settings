@@ -28,7 +28,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 
 /**

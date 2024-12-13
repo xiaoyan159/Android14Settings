@@ -31,7 +31,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settingslib.bluetooth.LocalBluetoothLeBroadcast;

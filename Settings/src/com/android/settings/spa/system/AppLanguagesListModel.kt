@@ -27,7 +27,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.AppLocaleUtil
 import com.android.settings.applications.appinfo.AppLocaleDetails
 import com.android.settings.localepicker.AppLocalePickerActivity

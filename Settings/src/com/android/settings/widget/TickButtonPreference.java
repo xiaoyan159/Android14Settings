@@ -24,7 +24,7 @@ import android.widget.ImageView;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** A preference with tick icon. */
 public class TickButtonPreference extends Preference {

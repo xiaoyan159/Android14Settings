@@ -32,7 +32,7 @@ import androidx.preference.PreferenceViewHolder;
 import androidx.test.core.app.ApplicationProvider;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.ResourcesUtils;
 
 import org.junit.Before;

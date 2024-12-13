@@ -18,7 +18,7 @@ package com.android.settings.spa.about
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.widget.ui.Category
 
 object BasicInfoCategory {

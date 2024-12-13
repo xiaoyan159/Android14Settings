@@ -52,6 +52,7 @@ import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.password.ChooseLockSettingsHelper;
 import com.android.settings.password.ConfirmLockPattern;
 import com.android.settingslib.development.DevelopmentSettingsEnabler;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

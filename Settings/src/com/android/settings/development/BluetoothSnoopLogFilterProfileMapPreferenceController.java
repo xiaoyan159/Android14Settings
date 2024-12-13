@@ -23,7 +23,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settingslib.development.DeveloperOptionsPreferenceController;
 

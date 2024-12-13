@@ -21,7 +21,7 @@ import android.content.res.Resources;
 import android.graphics.Canvas;
 import android.graphics.Rect;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.BiometricEnrollSidecar;
 
 import java.util.ArrayList;

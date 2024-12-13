@@ -26,7 +26,7 @@ import static org.mockito.Mockito.when;
 import android.content.Context;
 import android.media.AudioManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

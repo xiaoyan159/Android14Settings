@@ -24,7 +24,7 @@ import androidx.preference.PreferenceManager
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.android.dx.mockito.inline.extended.ExtendedMockito
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.BasePreferenceController
 import com.android.settings.network.SubscriptionInfoListViewModel
 import com.android.settings.network.SubscriptionUtil

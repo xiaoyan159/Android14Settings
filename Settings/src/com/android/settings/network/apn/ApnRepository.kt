@@ -24,7 +24,7 @@ import android.provider.Telephony
 import android.telephony.SubscriptionManager
 import android.telephony.TelephonyManager
 import android.util.Log
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.utils.ThreadUtils
 import java.util.Locale
 

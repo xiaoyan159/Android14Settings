@@ -61,7 +61,7 @@ import androidx.preference.Preference;
 
 import com.android.internal.widget.LockPatternUtils;
 import com.android.internal.widget.LockscreenCredential;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.BiometricEnrollBase;
 import com.android.settings.biometrics.BiometricUtils;
 import com.android.settings.password.ChooseLockGeneric.ChooseLockGenericFragment;

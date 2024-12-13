@@ -19,7 +19,7 @@ package com.android.settings.datausage.lib
 import android.content.Context
 import android.text.format.DateUtils
 import android.util.Range
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.datausage.DataUsageUtils
 
 /**

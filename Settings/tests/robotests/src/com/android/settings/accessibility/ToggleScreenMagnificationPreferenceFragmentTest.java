@@ -51,7 +51,7 @@ import androidx.test.core.app.ApplicationProvider;
 
 import com.android.server.accessibility.Flags;
 import com.android.settings.DialogCreatable;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.accessibility.AccessibilityDialogUtils.DialogType;
 import com.android.settings.testutils.shadow.ShadowStorageManager;

@@ -34,7 +34,7 @@ import android.content.Context;
 import android.hardware.usb.UsbManager;
 import android.os.UserHandle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.connecteddevice.DevicePreferenceCallback;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settingslib.testutils.DrawableTestHelper;

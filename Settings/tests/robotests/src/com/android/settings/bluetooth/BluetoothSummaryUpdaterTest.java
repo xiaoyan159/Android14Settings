@@ -29,7 +29,7 @@ import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowBluetoothAdapter;
 import com.android.settings.widget.SummaryUpdater.OnSummaryChangeListener;
 import com.android.settingslib.bluetooth.LocalBluetoothManager;

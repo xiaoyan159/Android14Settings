@@ -38,7 +38,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.bluetooth.BluetoothPairingDetail;
 import com.android.settings.bluetooth.HearingAidPairingDialogFragment;

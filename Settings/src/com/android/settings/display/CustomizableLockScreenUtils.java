@@ -28,7 +28,7 @@ import android.util.Log;
 import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.List;

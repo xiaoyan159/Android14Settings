@@ -23,7 +23,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.res.TypedArrayUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A settings preference with colored rounded rectangle background and an arrow icon on the right.

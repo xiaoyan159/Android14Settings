@@ -43,7 +43,7 @@ import androidx.fragment.app.FragmentActivity;
 
 import com.android.internal.accessibility.common.ShortcutConstants;
 import com.android.internal.accessibility.util.ShortcutUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SubSettings;
 import com.android.settings.accessibility.AccessibilityButtonFragment;

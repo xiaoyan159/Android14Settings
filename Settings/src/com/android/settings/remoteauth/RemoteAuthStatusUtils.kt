@@ -17,7 +17,7 @@
 package com.android.settings.remoteauth
 
 import android.content.Context
-import com.android.settings.R
+import com.cariad.cea.settings.R
 
 /**
  * Utilities for remoteauth details shared between Security Settings and Safety Center.

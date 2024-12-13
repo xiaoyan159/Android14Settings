@@ -24,6 +24,7 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 
 import com.android.settingslib.CustomDialogPreferenceCompat;
+import com.cariad.cea.settings.R;
 
 /**
  * Based on frameworks/base/core/java/android/preference/SeekBarDialogPreference.java

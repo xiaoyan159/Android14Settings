@@ -35,7 +35,7 @@ import androidx.preference.PreferenceViewHolder;
 import androidx.test.core.app.ApplicationProvider;
 import androidx.viewpager.widget.ViewPager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.display.PreviewPagerAdapter;
 
 import org.junit.Assume;

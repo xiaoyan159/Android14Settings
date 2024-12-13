@@ -20,7 +20,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * View holder for {@link BlobInfoListView}.

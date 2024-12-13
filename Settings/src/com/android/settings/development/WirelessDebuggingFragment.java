@@ -37,7 +37,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.dashboard.DashboardFragment;

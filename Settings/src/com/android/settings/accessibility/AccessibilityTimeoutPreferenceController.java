@@ -20,7 +20,7 @@ import android.content.ContentResolver;
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import com.google.common.primitives.Ints;

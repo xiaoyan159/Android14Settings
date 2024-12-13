@@ -28,7 +28,7 @@ import android.content.Context;
 import android.content.pm.PackageManager;
 import android.hardware.fingerprint.FingerprintManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowFingerprintManager;
 
 import com.google.android.setupcompat.PartnerCustomizationLayout;

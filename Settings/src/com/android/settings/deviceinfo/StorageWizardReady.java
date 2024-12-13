@@ -21,7 +21,7 @@ import android.os.storage.VolumeInfo;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class StorageWizardReady extends StorageWizardBase {
 

@@ -21,7 +21,7 @@ import android.widget.FrameLayout;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A {@link FrameLayout} with customizable aspect ratio.

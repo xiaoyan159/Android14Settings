@@ -29,7 +29,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.applications.PermissionsSummaryHelper;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnStart;

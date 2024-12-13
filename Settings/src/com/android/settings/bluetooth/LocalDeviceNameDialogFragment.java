@@ -24,7 +24,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.os.Bundle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Provides a dialog for changing the advertised name of the local bluetooth adapter. */
 public class LocalDeviceNameDialogFragment extends BluetoothNameDialogFragment {

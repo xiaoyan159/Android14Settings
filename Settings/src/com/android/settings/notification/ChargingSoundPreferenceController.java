@@ -21,7 +21,7 @@ import static com.android.settings.notification.SettingPref.TYPE_SECURE;
 import android.content.Context;
 import android.provider.Settings.Secure;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 

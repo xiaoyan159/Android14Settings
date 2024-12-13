@@ -235,7 +235,7 @@ public class SeekBarPreferenceTest {
     public static class TestFragment extends PreferenceFragmentCompat {
         @Override
         public void onCreatePreferences(Bundle savedInstanceState, String rootKey) {
-            addPreferencesFromResource(com.android.settings.R.xml.seekbar_preference);
+            addPreferencesFromResource(com.cariad.cea.settings.R.xml.seekbar_preference);
         }
     }
 }

@@ -60,6 +60,7 @@ import com.android.settings.network.ProxySubscriptionManager;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.network.telephony.MobileNetworkUtils;
 import com.android.settingslib.utils.StringUtil;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.List;

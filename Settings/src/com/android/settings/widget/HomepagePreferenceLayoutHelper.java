@@ -21,7 +21,7 @@ import android.view.View;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Helper for homepage preference to manage layout. */
 public class HomepagePreferenceLayoutHelper {

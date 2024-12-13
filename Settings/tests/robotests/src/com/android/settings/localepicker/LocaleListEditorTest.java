@@ -59,7 +59,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.android.internal.app.LocaleStore;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.flags.Flags;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settings.testutils.shadow.ShadowActivityManager;

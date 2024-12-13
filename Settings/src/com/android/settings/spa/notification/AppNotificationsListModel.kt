@@ -23,7 +23,7 @@ import android.icu.text.RelativeDateTimeFormatter
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.produceState
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.AppInfoBase
 import com.android.settings.notification.app.AppNotificationSettings
 import com.android.settings.spa.notification.SpinnerItem.Companion.toSpinnerItem

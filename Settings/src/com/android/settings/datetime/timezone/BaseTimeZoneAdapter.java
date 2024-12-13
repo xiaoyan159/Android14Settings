@@ -30,7 +30,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.annotation.WorkerThread;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.datetime.timezone.BaseTimeZonePicker.OnListItemClickListener;
 
 import java.util.ArrayList;

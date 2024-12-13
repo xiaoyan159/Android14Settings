@@ -25,7 +25,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.preference.EditTextPreference;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.widget.ValidatedEditTextPreference;
 import com.android.settings.wifi.WifiUtils;

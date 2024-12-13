@@ -39,7 +39,7 @@ import android.view.textservice.TextServicesManager;
 
 import androidx.lifecycle.LifecycleObserver;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.XmlTestUtils;
 import com.android.settingslib.core.AbstractPreferenceController;
 import com.android.settingslib.core.lifecycle.Lifecycle;

@@ -37,7 +37,7 @@ import android.os.UserManager;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowAccountManager;
 import com.android.settings.testutils.shadow.ShadowContentResolver;
 import com.android.settingslib.search.SearchIndexableRaw;

@@ -22,7 +22,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class NotificationHistoryViewHolder extends RecyclerView.ViewHolder {
 

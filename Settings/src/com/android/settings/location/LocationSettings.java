@@ -32,7 +32,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceGroup;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;

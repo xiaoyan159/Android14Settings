@@ -35,7 +35,7 @@ import androidx.preference.TwoStatePreference;
 
 import com.android.internal.telephony.flags.Flags;
 import com.android.internal.telephony.util.ArrayUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.ims.VolteQueryImsState;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnStart;

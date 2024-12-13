@@ -25,7 +25,7 @@ import android.os.UserHandle;
 import androidx.annotation.Nullable;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.security.OwnerInfoPreferenceController;

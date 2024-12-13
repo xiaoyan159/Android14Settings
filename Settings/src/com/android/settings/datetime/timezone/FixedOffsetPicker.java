@@ -19,7 +19,7 @@ package com.android.settings.datetime.timezone;
 import android.app.settings.SettingsEnums;
 import android.icu.util.TimeZone;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.datetime.timezone.model.TimeZoneData;
 
 import java.util.ArrayList;

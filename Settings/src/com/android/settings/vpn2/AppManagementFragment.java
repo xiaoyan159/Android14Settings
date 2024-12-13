@@ -42,7 +42,7 @@ import androidx.preference.Preference;
 
 import com.android.internal.net.VpnConfig;
 import com.android.internal.util.ArrayUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;

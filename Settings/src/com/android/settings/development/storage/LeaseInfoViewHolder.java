@@ -21,7 +21,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * View holder for {@link LeaseInfoListView}.

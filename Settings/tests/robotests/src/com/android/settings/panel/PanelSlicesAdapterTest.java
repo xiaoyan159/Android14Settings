@@ -45,7 +45,7 @@ import androidx.lifecycle.LiveData;
 import androidx.slice.Slice;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.panel.PanelSlicesAdapter.SliceRowViewHolder;
 import com.android.settings.testutils.FakeFeatureFactory;
 

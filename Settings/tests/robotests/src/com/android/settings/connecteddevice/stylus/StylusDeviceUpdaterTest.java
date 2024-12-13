@@ -35,7 +35,7 @@ import android.hardware.input.InputManager;
 import android.os.SystemClock;
 import android.view.InputDevice;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.connecteddevice.DevicePreferenceCallback;
 import com.android.settings.dashboard.DashboardFragment;

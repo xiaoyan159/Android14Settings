@@ -39,7 +39,7 @@ import androidx.preference.PreferenceManager;
 import androidx.preference.PreferenceScreen;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedPreferenceFragment;
 import com.android.settings.fuelgauge.batterytip.AppInfo;
 

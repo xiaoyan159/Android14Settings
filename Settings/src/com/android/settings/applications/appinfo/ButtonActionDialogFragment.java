@@ -25,7 +25,7 @@ import androidx.annotation.IntDef;
 import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 
 import java.lang.annotation.Retention;

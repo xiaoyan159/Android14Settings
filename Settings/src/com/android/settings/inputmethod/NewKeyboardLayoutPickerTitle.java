@@ -20,7 +20,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.os.Bundle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 

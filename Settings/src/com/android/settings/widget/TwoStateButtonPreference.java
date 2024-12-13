@@ -25,7 +25,7 @@ import android.widget.Button;
 import androidx.annotation.VisibleForTesting;
 import androidx.core.content.res.TypedArrayUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.LayoutPreference;
 
 /**

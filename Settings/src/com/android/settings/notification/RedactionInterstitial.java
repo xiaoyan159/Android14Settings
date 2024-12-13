@@ -39,7 +39,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.RestrictedRadioButton;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SettingsPreferenceFragment;

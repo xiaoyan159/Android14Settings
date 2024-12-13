@@ -34,7 +34,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settingslib.wifi.WifiPermissionChecker;

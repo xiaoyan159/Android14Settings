@@ -18,7 +18,7 @@ package com.android.settings.notification;
 
 import android.content.Intent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.notification.RedactionInterstitial.RedactionInterstitialFragment;
 

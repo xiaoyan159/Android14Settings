@@ -44,7 +44,7 @@ import android.view.inputmethod.InputMethodSubtype;
 import androidx.preference.PreferenceManager;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.profileselector.ProfileSelectFragment;
 import com.android.settings.testutils.shadow.ShadowInputMethodManagerWithMethodList;
 import com.android.settings.testutils.shadow.ShadowSecureSettings;

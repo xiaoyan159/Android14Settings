@@ -73,13 +73,13 @@ public class AutoLockSettingsFragmentTest {
                         Settings.Secure.PRIVATE_SPACE_AUTO_LOCK,
                         PRIVATE_SPACE_AUTO_LOCK_DEFAULT_VAL);
         when(mResources.getStringArray(
-                        com.android.settings.R.array.private_space_auto_lock_options))
+                        com.cariad.cea.settings.R.array.private_space_auto_lock_options))
                 .thenReturn(
                         new String[] {
                             "Every time device locks", "After 5 minutes of inactivity", "Never"
                         });
         when(mResources.getStringArray(
-                        com.android.settings.R.array.private_space_auto_lock_options_values))
+                        com.cariad.cea.settings.R.array.private_space_auto_lock_options_values))
                 .thenReturn(new String[] {"0", "1", "2"});
         doReturn(mResources).when(mContext).getResources();
     }

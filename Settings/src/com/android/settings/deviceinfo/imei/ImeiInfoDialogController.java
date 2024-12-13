@@ -26,7 +26,7 @@ import android.util.Log;
 import androidx.annotation.NonNull;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class ImeiInfoDialogController {
 

@@ -32,7 +32,7 @@ import androidx.lifecycle.LifecycleOwner;
 import androidx.preference.PreferenceManager;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowEntityHeaderController;
 import com.android.settings.widget.EntityHeaderController;
 import com.android.settingslib.core.lifecycle.Lifecycle;

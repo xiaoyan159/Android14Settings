@@ -21,7 +21,7 @@ import android.content.Context;
 import android.hardware.display.ColorDisplayManager;
 import android.hardware.display.NightDisplayListener;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.display.NightDisplaySettings;
 import com.android.settings.homepage.contextualcards.ContextualCard;

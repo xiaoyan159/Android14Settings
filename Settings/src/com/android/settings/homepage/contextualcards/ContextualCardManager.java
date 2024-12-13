@@ -38,7 +38,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.loader.app.LoaderManager;
 import androidx.loader.content.Loader;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.FeatureFlags;
 import com.android.settings.homepage.contextualcards.conditional.ConditionalCardController;
 import com.android.settings.homepage.contextualcards.logging.ContextualCardLogUtils;

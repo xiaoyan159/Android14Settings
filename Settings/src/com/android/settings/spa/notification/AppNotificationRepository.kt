@@ -31,7 +31,7 @@ import android.os.IUserManager
 import android.os.RemoteException
 import android.os.ServiceManager
 import android.util.Log
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.framework.util.formatString
 import com.android.settingslib.spaprivileged.model.app.IPackageManagers
 import com.android.settingslib.spaprivileged.model.app.PackageManagers

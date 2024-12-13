@@ -36,7 +36,7 @@ import androidx.slice.SliceProvider;
 import androidx.slice.core.SliceAction;
 import androidx.slice.widget.SliceLiveData;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowNotificationManager;
 import com.android.settings.testutils.shadow.ShadowRestrictedLockUtilsInternal;
 

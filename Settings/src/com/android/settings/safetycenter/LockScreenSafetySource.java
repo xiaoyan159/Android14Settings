@@ -30,7 +30,7 @@ import android.safetycenter.SafetySourceIssue;
 import android.safetycenter.SafetySourceStatus;
 import android.safetycenter.SafetySourceStatus.IconAction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.security.ScreenLockPreferenceDetailsUtils;
 import com.android.settingslib.RestrictedLockUtils;
 import com.android.settingslib.RestrictedLockUtilsInternal;

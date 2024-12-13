@@ -32,7 +32,7 @@ import android.platform.test.flag.junit.DeviceFlagsValueProvider;
 import android.platform.test.flag.junit.SetFlagsRule;
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.connecteddevice.fastpair.FastPairDeviceUpdater;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.core.PreferenceControllerListHelper;

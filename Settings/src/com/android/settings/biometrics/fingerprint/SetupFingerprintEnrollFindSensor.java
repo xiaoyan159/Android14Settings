@@ -29,7 +29,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.biometrics.BiometricUtils;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;

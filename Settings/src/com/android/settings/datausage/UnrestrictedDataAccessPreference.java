@@ -25,7 +25,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.appinfo.AppInfoDashboardFragment;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settingslib.RestrictedLockUtils.EnforcedAdmin;

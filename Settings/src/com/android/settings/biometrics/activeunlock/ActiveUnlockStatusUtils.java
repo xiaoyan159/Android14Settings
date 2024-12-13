@@ -33,7 +33,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.StringRes;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.core.BasePreferenceController.AvailabilityStatus;

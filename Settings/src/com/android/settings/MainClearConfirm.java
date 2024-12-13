@@ -49,6 +49,7 @@ import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.enterprise.ActionDisabledByAdminDialogHelper;
 import com.android.settingslib.RestrictedLockUtilsInternal;
 
+import com.cariad.cea.settings.R;
 import com.google.android.setupcompat.template.FooterBarMixin;
 import com.google.android.setupcompat.template.FooterButton;
 import com.google.android.setupcompat.template.FooterButton.ButtonType;

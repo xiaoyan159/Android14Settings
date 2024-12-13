@@ -52,7 +52,7 @@ import androidx.preference.PreferenceManager;
 import androidx.preference.PreferenceScreen;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityDialogUtils.DialogType;
 import com.android.settings.accessibility.AccessibilityUtil.QuickSettingsTooltipType;
 import com.android.settings.accessibility.AccessibilityUtil.UserShortcutType;

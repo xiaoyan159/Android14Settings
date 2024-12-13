@@ -24,7 +24,7 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Class to show a variety of dialogs for the Wireless debugging

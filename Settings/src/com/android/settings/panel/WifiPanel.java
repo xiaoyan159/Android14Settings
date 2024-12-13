@@ -21,7 +21,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SubSettings;
 import com.android.settings.network.NetworkProviderSettings;
 import com.android.settings.slices.CustomSliceRegistry;

@@ -24,7 +24,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Activity shows terms of service for a given DSU package */
 public class DSUTermsOfServiceActivity extends Activity {

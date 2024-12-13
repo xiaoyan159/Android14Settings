@@ -32,6 +32,7 @@ import androidx.preference.ListPreference;
 import androidx.preference.ListPreferenceDialogFragmentCompat;
 
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
+import com.cariad.cea.settings.R;
 
 public class CustomListPreference extends ListPreference {
 

@@ -32,7 +32,7 @@ import androidx.annotation.VisibleForTesting;
 
 import com.android.internal.telephony.CellNetworkScanResult;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.common.util.concurrent.FutureCallback;
 import com.google.common.util.concurrent.Futures;

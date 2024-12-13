@@ -32,7 +32,7 @@ import android.text.TextUtils;
 import androidx.annotation.Nullable;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.location.LocationSettings;

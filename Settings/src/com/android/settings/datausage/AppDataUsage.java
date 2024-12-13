@@ -39,7 +39,7 @@ import androidx.preference.Preference.OnPreferenceChangeListener;
 import androidx.recyclerview.widget.DefaultItemAnimator;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppInfoBase;
 import com.android.settings.datausage.lib.AppDataUsageDetailsRepository;
 import com.android.settings.datausage.lib.NetworkTemplates;

@@ -24,7 +24,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
 import com.android.internal.app.procstats.ProcessStats;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.applications.ProcStatsData.MemInfo;

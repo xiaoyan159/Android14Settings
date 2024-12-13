@@ -21,7 +21,7 @@ import android.os.Bundle;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SidecarFragment;
 import com.android.settings.network.EnableMultiSimSidecar;
 import com.android.settings.network.telephony.ConfirmDialogFragment;

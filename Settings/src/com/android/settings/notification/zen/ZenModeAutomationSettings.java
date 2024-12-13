@@ -29,7 +29,7 @@ import android.view.MenuItem;
 
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.utils.ManagedServiceSettings;
 import com.android.settings.utils.ZenServiceListing;

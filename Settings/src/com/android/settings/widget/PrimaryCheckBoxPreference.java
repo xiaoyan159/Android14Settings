@@ -24,7 +24,7 @@ import android.widget.CheckBox;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.TwoTargetPreference;
 
 /**

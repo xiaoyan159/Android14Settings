@@ -31,7 +31,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavType
 import androidx.navigation.navArgument
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.AppInfoBase
 import com.android.settings.applications.appinfo.AppInfoDashboardFragment
 import com.android.settings.flags.Flags

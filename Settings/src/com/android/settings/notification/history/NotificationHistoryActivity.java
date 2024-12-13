@@ -59,7 +59,7 @@ import com.android.internal.logging.UiEvent;
 import com.android.internal.logging.UiEventLogger;
 import com.android.internal.logging.UiEventLoggerImpl;
 import com.android.internal.widget.NotificationExpandButton;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.NotificationBackend;
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
 import com.android.settingslib.utils.StringUtil;

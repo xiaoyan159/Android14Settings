@@ -27,7 +27,7 @@ import android.net.wifi.WifiManager;
 import android.os.UserHandle;
 import android.os.UserManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.network.tether.TetherSettings;

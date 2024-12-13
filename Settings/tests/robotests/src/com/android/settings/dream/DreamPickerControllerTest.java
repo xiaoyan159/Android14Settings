@@ -27,7 +27,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.dream.DreamBackend;
 import com.android.settingslib.dream.DreamBackend.DreamInfo;
 import com.android.settingslib.widget.LayoutPreference;

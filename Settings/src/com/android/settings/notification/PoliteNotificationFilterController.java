@@ -27,7 +27,7 @@ import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 
 import com.android.server.notification.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.core.PreferenceControllerMixin;
 

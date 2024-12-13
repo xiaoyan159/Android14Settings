@@ -43,6 +43,7 @@ import androidx.appcompat.app.AlertDialog;
 import com.android.net.module.util.ProxyUtils;
 import com.android.settings.SettingsPreferenceFragment.SettingsDialogFragment;
 import com.android.settings.core.InstrumentedFragment;
+import com.cariad.cea.settings.R;
 
 import java.util.Arrays;
 

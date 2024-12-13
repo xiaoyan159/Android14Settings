@@ -28,7 +28,7 @@ import android.app.time.TimeZoneConfiguration;
 import android.content.Context;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 
 public class AutoTimeZonePreferenceController extends TogglePreferenceController {

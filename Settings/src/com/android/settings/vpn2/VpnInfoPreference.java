@@ -25,7 +25,7 @@ import android.view.View;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.HelpUtils;
 import com.android.settingslib.RestrictedPreference;
 

@@ -21,7 +21,7 @@ import android.content.pm.ApplicationInfo
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.AppStorageSettings
 import com.android.settings.applications.appinfo.AppInfoDashboardFragment
 import com.android.settingslib.spa.widget.preference.Preference

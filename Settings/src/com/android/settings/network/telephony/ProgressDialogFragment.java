@@ -26,7 +26,7 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.KeyEvent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Fragment to show a progress dialog. */
 public class ProgressDialogFragment extends DialogFragment {

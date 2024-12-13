@@ -25,7 +25,7 @@ import android.widget.ImageView;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 

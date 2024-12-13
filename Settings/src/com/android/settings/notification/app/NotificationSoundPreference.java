@@ -26,7 +26,7 @@ import android.os.AsyncTask;
 import android.util.AttributeSet;
 
 import android.util.Log;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.RingtonePreference;
 
 public class NotificationSoundPreference extends RingtonePreference {

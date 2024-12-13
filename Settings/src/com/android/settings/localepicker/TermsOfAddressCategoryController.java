@@ -27,7 +27,7 @@ import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.app.LocaleStore;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.PreferenceCategoryController;
 
 import java.util.Arrays;

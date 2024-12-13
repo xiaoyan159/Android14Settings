@@ -23,7 +23,7 @@ import android.content.DialogInterface
 import android.os.Bundle
 import android.util.Log
 import androidx.fragment.app.Fragment
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics.fingerprint2.lib.model.FingerEnrollState
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment
 import kotlin.coroutines.resume

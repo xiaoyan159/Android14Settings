@@ -21,7 +21,7 @@ import android.media.AudioManager;
 import android.media.Spatializer;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 /**

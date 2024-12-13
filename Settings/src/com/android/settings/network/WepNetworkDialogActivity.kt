@@ -24,7 +24,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextAlign
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.SubSettingLauncher
 import com.android.settings.wifi.ConfigureWifiSettings
 import com.android.settingslib.spa.SpaBaseDialogActivity

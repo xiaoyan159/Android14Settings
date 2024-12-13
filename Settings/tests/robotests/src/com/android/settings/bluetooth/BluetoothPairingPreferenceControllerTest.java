@@ -29,7 +29,7 @@ import android.content.Intent;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settingslib.testutils.DrawableTestHelper;
 

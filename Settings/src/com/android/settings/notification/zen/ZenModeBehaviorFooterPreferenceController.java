@@ -24,7 +24,7 @@ import android.service.notification.ZenModeConfig;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 
 public class ZenModeBehaviorFooterPreferenceController extends AbstractZenModePreferenceController {

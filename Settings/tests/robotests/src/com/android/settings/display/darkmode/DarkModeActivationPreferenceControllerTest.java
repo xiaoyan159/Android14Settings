@@ -34,7 +34,7 @@ import android.os.PowerManager;
 
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settingslib.widget.MainSwitchPreference;
 

@@ -18,7 +18,7 @@ package com.android.settings.accessibility;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Preference controller for footer in hearing device page. */
 public class HearingDeviceFooterPreferenceController extends

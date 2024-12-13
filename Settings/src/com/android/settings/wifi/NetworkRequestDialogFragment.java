@@ -47,7 +47,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog;
 import androidx.preference.internal.PreferenceImageView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.Utils;
 import com.android.wifitrackerlib.WifiEntry;

@@ -24,7 +24,7 @@ import android.graphics.drawable.Drawable;
 import android.os.UserHandle;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.RadioButtonPickerFragment;
 import com.android.settingslib.widget.CandidateInfo;
 

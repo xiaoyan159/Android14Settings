@@ -31,6 +31,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog;
 
 import com.android.settingslib.HelpUtils;
+import com.cariad.cea.settings.R;
 
 final class ActionDisabledByAppOpsHelper {
 

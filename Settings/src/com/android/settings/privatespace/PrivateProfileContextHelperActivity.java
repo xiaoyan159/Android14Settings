@@ -37,7 +37,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.FragmentActivity;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.overlay.FeatureFactory;
 

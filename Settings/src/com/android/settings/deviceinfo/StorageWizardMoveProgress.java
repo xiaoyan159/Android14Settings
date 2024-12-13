@@ -29,7 +29,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class StorageWizardMoveProgress extends StorageWizardBase {
     private static final String TAG = "StorageWizardMoveProgress";

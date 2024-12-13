@@ -51,7 +51,7 @@ import androidx.preference.ListPreference;
 import androidx.preference.MultiSelectListPreference;
 import androidx.preference.SwitchPreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.ProxySubscriptionManager;
 import com.android.settings.network.apn.ApnEditor.ApnData;
 

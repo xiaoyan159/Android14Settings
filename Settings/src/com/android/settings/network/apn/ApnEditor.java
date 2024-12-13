@@ -51,7 +51,7 @@ import androidx.preference.Preference.OnPreferenceChangeListener;
 import androidx.preference.TwoStatePreference;
 
 import com.android.internal.util.ArrayUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settings.network.ProxySubscriptionManager;

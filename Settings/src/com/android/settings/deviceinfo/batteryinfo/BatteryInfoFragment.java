@@ -19,7 +19,7 @@ package com.android.settings.deviceinfo.batteryinfo;
 import android.app.settings.SettingsEnums;
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.search.BaseSearchIndexProvider;

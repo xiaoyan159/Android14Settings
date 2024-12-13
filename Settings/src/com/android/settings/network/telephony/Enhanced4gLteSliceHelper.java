@@ -37,7 +37,7 @@ import androidx.slice.builders.ListBuilder;
 import androidx.slice.builders.ListBuilder.RowBuilder;
 import androidx.slice.builders.SliceAction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.network.ims.VolteQueryImsState;
 import com.android.settings.slices.CustomSliceRegistry;

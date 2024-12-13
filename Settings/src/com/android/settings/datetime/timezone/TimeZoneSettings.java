@@ -34,7 +34,7 @@ import android.view.MenuItem;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceCategory;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.datetime.timezone.model.FilteredCountryTimeZones;

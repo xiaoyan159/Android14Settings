@@ -26,7 +26,7 @@ import android.app.Application;
 import androidx.preference.PreferenceScreen;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.IllustrationPreference;
 
 import org.junit.Before;

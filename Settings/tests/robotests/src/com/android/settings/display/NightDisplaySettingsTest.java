@@ -19,7 +19,7 @@ import static com.google.common.truth.Truth.assertThat;
 
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.drawer.CategoryKey;
 
 import org.junit.Test;

@@ -111,7 +111,7 @@ public class OwnerInfoPreferenceController extends AbstractPreferenceController
                 mOwnerInfoPref.setSummary(isOwnerInfoEnabled()
                     ? getOwnerInfo()
                     : mContext.getString(
-                        com.android.settings.R.string.owner_info_settings_summary));
+                        com.cariad.cea.settings.R.string.owner_info_settings_summary));
             }
         }
     }

@@ -24,7 +24,7 @@ import android.annotation.StringRes;
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.utils.StringUtil;
 
 import java.lang.annotation.Retention;

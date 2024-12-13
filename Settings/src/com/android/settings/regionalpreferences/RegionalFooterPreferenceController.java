@@ -23,7 +23,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settingslib.HelpUtils;
 import com.android.settingslib.widget.FooterPreference;

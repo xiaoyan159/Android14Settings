@@ -36,7 +36,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.wifi.NetworkRequestErrorDialogFragment.ERROR_DIALOG_TYPE;
 
 import java.util.List;

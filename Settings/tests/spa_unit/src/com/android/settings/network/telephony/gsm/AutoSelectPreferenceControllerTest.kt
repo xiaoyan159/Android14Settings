@@ -34,7 +34,7 @@ import androidx.core.os.persistableBundleOf
 import androidx.preference.PreferenceManager
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Settings.NetworkSelectActivity
 import com.android.settings.spa.preference.ComposePreference
 import com.google.common.truth.Truth.assertThat

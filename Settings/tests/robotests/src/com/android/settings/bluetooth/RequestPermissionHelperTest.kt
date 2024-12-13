@@ -17,7 +17,7 @@
 package com.android.settings.bluetooth
 
 import androidx.activity.ComponentActivity
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat
 import com.google.common.truth.Truth.assertThat
 import org.junit.After

@@ -19,7 +19,7 @@ package com.android.settings.regionalpreferences;
 import android.app.settings.SettingsEnums;
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** A controller for handling all first day of week preferences. */
 public class FirstDayOfWeekItemListController extends

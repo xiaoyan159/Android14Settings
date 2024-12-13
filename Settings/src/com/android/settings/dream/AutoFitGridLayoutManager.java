@@ -21,7 +21,7 @@ import android.content.Context;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Grid layout manager that calculates the number of columns for the screen size. */
 public final class AutoFitGridLayoutManager extends GridLayoutManager {

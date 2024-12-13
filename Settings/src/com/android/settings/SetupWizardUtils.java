@@ -24,6 +24,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.sysprop.SetupWizardProperties;
 
+import com.cariad.cea.settings.R;
 import com.google.android.setupcompat.util.WizardManagerHelper;
 import com.google.android.setupdesign.util.ThemeHelper;
 

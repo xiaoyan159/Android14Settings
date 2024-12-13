@@ -26,7 +26,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settingslib.net.DataUsageController;
 

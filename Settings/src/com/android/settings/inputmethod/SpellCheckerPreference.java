@@ -30,7 +30,7 @@ import androidx.appcompat.app.AlertDialog.Builder;
 import androidx.preference.PreferenceViewHolder;
 
 import com.android.settings.CustomListPreference;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Spell checker service preference.

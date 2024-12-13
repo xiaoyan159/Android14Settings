@@ -20,7 +20,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.navigation.fragment.NavHostFragment.Companion.findNavController
 import com.airbnb.lottie.LottieAnimationView
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.remoteauth.RemoteAuthEnrollBase
 import com.android.settingslib.widget.LottieColorUtils
 import com.google.android.setupcompat.template.FooterButton

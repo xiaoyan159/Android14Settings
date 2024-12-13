@@ -21,7 +21,7 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * To show a dialog to indicate tethering is unsupported by carrier.

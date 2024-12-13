@@ -23,7 +23,7 @@ import android.os.Bundle
 import android.provider.Telephony
 import android.telephony.CarrierConfigManager
 import android.util.Log
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.apn.ApnTypes.getPreSelectedApnType
 
 private const val TAG = "ApnStatus"

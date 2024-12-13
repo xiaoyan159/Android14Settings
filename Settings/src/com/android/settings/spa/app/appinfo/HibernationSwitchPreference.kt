@@ -34,7 +34,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils.PROPERTY_APP_HIBERNATION_ENABLED
 import com.android.settings.Utils.PROPERTY_HIBERNATION_TARGETS_PRE_S_APPS
 import com.android.settings.flags.Flags

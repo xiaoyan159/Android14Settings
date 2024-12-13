@@ -43,7 +43,7 @@ import android.widget.Spinner;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;
 

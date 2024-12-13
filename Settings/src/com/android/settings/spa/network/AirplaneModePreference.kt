@@ -28,7 +28,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.android.settings.AirplaneModeEnabler
 import com.android.settings.AirplaneModeEnabler.OnAirplaneModeChangedListener
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.widget.preference.SwitchPreference
 import com.android.settingslib.spa.widget.preference.SwitchPreferenceModel
 import com.android.settingslib.spa.widget.ui.SettingsIcon

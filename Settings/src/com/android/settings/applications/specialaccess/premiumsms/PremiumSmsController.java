@@ -18,7 +18,7 @@ package com.android.settings.applications.specialaccess.premiumsms;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 public class PremiumSmsController extends BasePreferenceController {

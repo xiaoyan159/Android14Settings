@@ -40,7 +40,7 @@ import androidx.compose.ui.test.performClick
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.android.dx.mockito.inline.extended.ExtendedMockito
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils
 import com.android.settingslib.spa.testutils.delay
 import com.android.settingslib.spa.testutils.waitUntilExists

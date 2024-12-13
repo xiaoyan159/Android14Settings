@@ -26,7 +26,7 @@ import android.widget.RadioButton;
 import androidx.annotation.ColorInt;
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.Arrays;
 import java.util.List;

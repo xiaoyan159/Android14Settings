@@ -65,7 +65,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.net.module.util.Inet4AddressUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.network.SubscriptionUtil;

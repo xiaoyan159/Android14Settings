@@ -23,7 +23,7 @@ import static com.android.settings.applications.manageapplications.AppFilterRegi
 
 import static com.google.common.truth.Truth.assertThat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppStateUsageBridge;
 import com.android.settingslib.applications.ApplicationsState;
 

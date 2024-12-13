@@ -20,7 +20,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 
 import com.android.internal.view.RotationPolicy;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.widget.SettingsMainSwitchPreferenceController;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;

@@ -29,7 +29,7 @@ import android.content.Context;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 
 import org.junit.Before;

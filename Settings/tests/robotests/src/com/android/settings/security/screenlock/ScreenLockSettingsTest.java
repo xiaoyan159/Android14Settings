@@ -22,7 +22,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.security.OwnerInfoPreferenceController;
 import com.android.settingslib.core.AbstractPreferenceController;
 

@@ -47,7 +47,7 @@ import androidx.slice.widget.RowContent;
 import androidx.slice.widget.SliceContent;
 import androidx.slice.widget.SliceLiveData;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.ims.MockWifiCallingQueryImsState;
 import com.android.settings.slices.CustomSliceRegistry;
 import com.android.settings.slices.SettingsSliceProvider;

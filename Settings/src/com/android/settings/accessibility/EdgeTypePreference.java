@@ -25,7 +25,7 @@ import android.view.accessibility.CaptioningManager.CaptionStyle;
 import android.widget.TextView;
 
 import com.android.internal.widget.SubtitleView;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Grid preference that allows the user to pick a captioning edge type.

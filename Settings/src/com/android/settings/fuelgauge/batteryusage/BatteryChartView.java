@@ -51,7 +51,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.widget.AppCompatImageView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.Utils;
 
 import java.util.ArrayList;

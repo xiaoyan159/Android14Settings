@@ -49,7 +49,7 @@ import com.android.internal.compat.CompatibilityChangeInfo;
 import com.android.internal.compat.IOverrideValidator;
 import com.android.internal.compat.IPlatformCompat;
 import com.android.internal.compat.OverrideAllowedState;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Rule;

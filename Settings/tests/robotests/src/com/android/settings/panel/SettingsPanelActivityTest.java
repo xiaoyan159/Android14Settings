@@ -41,7 +41,7 @@ import androidx.core.view.WindowInsetsControllerCompat;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settingslib.core.lifecycle.HideNonSystemOverlayMixin;
 

@@ -42,7 +42,7 @@ import androidx.test.core.app.ApplicationProvider;
 import androidx.test.filters.SmallTest;
 import androidx.test.runner.AndroidJUnit4;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.applications.StorageStatsSource;
 
 import org.junit.Before;

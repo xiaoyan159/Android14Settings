@@ -44,7 +44,7 @@ public class DockAudioMediaPreferenceController extends SettingPrefController {
             @Override
             public boolean isApplicable(Context context) {
                 return isLeDesk() && context.getResources().getBoolean(
-                    com.android.settings.R.bool.has_dock_settings);
+                    com.cariad.cea.settings.R.bool.has_dock_settings);
             }
 
             @Override
@@ -52,10 +52,10 @@ public class DockAudioMediaPreferenceController extends SettingPrefController {
                 switch(value) {
                     case DOCK_AUDIO_MEDIA_DISABLED:
                         return res.getString(
-                            com.android.settings.R.string.dock_audio_media_disabled);
+                            com.cariad.cea.settings.R.string.dock_audio_media_disabled);
                     case DOCK_AUDIO_MEDIA_ENABLED:
                         return res.getString(
-                            com.android.settings.R.string.dock_audio_media_enabled);
+                            com.cariad.cea.settings.R.string.dock_audio_media_enabled);
                     default:
                         throw new IllegalArgumentException();
                 }

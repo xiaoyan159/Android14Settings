@@ -45,7 +45,7 @@ import android.widget.CompoundButton;
 
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityUtil.QuickSettingsTooltipType;
 import com.android.settings.accessibility.shortcuts.EditShortcutsPreferenceFragment;
 import com.android.settingslib.accessibility.AccessibilityUtils;

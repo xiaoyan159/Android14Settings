@@ -44,7 +44,7 @@ import androidx.lifecycle.repeatOnLifecycle
 import com.airbnb.lottie.LottieAnimationView
 import com.airbnb.lottie.LottieComposition
 import com.airbnb.lottie.LottieCompositionFactory
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics2.ui.model.EnrollmentProgress
 import com.android.settings.biometrics2.ui.model.EnrollmentStatusMessage
 import com.android.settings.biometrics2.ui.viewmodel.DeviceRotationViewModel

@@ -35,7 +35,7 @@ import androidx.test.platform.app.InstrumentationRegistry;
 import androidx.test.runner.lifecycle.ActivityLifecycleMonitorRegistry;
 import androidx.test.runner.lifecycle.Stage;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings.NetworkProviderSettingsActivity;
 import com.android.settings.fuelgauge.batterysaver.BatterySaverButtonPreferenceControllerComponentTest;
 import com.android.settings.network.NetworkProviderSettings;

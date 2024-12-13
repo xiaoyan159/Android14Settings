@@ -22,7 +22,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.os.PowerManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.fuelgauge.BatterySaverReceiver;
 import com.android.settings.fuelgauge.batterysaver.BatterySaverSettings;

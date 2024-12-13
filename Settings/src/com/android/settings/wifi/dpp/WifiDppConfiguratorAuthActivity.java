@@ -30,7 +30,7 @@ import androidx.activity.result.ActivityResult;
 import androidx.activity.result.contract.ActivityResultContracts;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedActivity;
 
 /**

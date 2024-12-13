@@ -29,7 +29,7 @@ import android.content.ContentResolver;
 import android.content.Context;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.SettingsShadowResources;
 
 import org.junit.Before;

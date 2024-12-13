@@ -25,7 +25,7 @@ import android.bluetooth.le.ScanFilter
 import android.content.Context
 import android.content.res.Resources
 import androidx.preference.Preference
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.testutils.shadow.ShadowBluetoothAdapter
 import com.android.settingslib.bluetooth.BluetoothDeviceFilter
 import com.android.settingslib.bluetooth.CachedBluetoothDevice

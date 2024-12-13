@@ -28,7 +28,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.material.button.MaterialButton;
 

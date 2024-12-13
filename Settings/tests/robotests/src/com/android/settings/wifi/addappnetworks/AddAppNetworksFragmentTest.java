@@ -41,7 +41,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.wifitrackerlib.WifiEntry;
 import com.android.wifitrackerlib.WifiPickerTracker;

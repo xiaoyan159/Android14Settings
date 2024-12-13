@@ -20,7 +20,7 @@ import android.app.admin.DevicePolicyManager;
 import android.content.Context;
 import android.hardware.fingerprint.FingerprintManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 
 import com.google.android.setupcompat.template.FooterButton;

@@ -37,7 +37,7 @@ import androidx.slice.builders.SliceAction;
 import androidx.slice.widget.SliceLiveData;
 import androidx.slice.widget.SliceView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.homepage.contextualcards.slices.SliceFullCardRendererHelper.SliceViewHolder;
 import com.android.settings.intelligence.ContextualCardProto;

@@ -20,7 +20,7 @@ import android.content.Context;
 import android.content.pm.PackageInfo;
 import android.text.BidiFormatter;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class AppVersionPreferenceController extends AppInfoPreferenceControllerBase {
 

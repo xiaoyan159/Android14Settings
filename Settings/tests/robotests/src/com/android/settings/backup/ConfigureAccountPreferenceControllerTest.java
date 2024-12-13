@@ -23,7 +23,7 @@ import android.content.Intent;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import org.junit.After;

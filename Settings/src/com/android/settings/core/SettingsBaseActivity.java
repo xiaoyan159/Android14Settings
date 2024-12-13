@@ -39,7 +39,7 @@ import androidx.annotation.Nullable;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.SubSettings;
 import com.android.settings.core.CategoryMixin.CategoryHandler;

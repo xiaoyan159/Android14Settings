@@ -24,7 +24,7 @@ import android.util.Log;
 
 import androidx.annotation.NonNull;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** This dialog activity advise the user to have connectivity if the eSIM uses a RAC. */
 public class EuiccRacConnectivityDialogActivity extends SubscriptionActionDialogActivity

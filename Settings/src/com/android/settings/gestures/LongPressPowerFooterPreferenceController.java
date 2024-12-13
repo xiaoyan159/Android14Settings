@@ -26,7 +26,7 @@ import androidx.lifecycle.OnLifecycleEvent;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 /** Configures the behaviour of long press power footer. */

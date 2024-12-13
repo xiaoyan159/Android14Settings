@@ -29,6 +29,7 @@ import androidx.preference.Preference;
 
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.flags.Flags;
+import com.cariad.cea.settings.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -61,7 +62,7 @@ public class MainlineModuleVersionPreferenceController extends BasePreferenceCon
         mPackageManager = mContext.getPackageManager();
         if (Flags.mainlineModuleExplicitIntent()) {
             String packageName = mContext
-                    .getString(com.android.settings.R.string.config_mainline_module_update_package);
+                    .getString(R.string.config_mainline_module_update_package);
             MODULE_UPDATE_INTENT.setPackage(packageName);
             MODULE_UPDATE_V2_INTENT.setPackage(packageName);
         }

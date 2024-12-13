@@ -31,7 +31,7 @@ import android.widget.Button;
 
 import androidx.fragment.app.DialogFragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 

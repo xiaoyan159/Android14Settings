@@ -64,7 +64,7 @@ public class BootSoundPreferenceController extends AbstractPreferenceController
 
     @Override
     public boolean isAvailable() {
-        return mContext.getResources().getBoolean(com.android.settings.R.bool.has_boot_sounds);
+        return mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_boot_sounds);
     }
 
 }

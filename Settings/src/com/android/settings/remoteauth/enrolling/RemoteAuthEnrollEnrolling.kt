@@ -30,7 +30,7 @@ import androidx.navigation.fragment.NavHostFragment.Companion.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.remoteauth.RemoteAuthEnrollBase
 
 import com.google.android.setupcompat.template.FooterButton

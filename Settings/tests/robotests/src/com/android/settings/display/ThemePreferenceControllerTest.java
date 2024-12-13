@@ -38,7 +38,7 @@ import android.content.pm.PackageManager.NameNotFoundException;
 
 import androidx.preference.ListPreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 
 import org.junit.Before;

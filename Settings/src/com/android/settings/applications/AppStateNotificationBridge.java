@@ -26,7 +26,7 @@ import android.util.ArrayMap;
 import android.util.Log;
 import android.widget.CompoundButton;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.notification.NotificationBackend;
 import com.android.settingslib.applications.ApplicationsState;

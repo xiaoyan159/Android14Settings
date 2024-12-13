@@ -21,7 +21,7 @@ import android.print.PrintJob;
 import android.print.PrintJobInfo;
 import android.text.format.DateUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.text.DateFormat;
 

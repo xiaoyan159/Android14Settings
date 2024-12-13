@@ -30,7 +30,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.preference.ComposePreferenceController
 import com.android.settingslib.spa.framework.compose.OverridableFlow
 import com.android.settingslib.spa.widget.dialog.AlertDialogButton

@@ -26,7 +26,7 @@ import android.telephony.SubscriptionManager;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.wifi.WifiPickerTrackerHelper;

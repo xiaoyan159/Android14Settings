@@ -41,7 +41,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.vectorResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.SubscriptionInfoListViewModel
 import com.android.settings.network.telephony.MobileNetworkUtils
 import com.android.settings.wifi.WifiPickerTrackerHelper

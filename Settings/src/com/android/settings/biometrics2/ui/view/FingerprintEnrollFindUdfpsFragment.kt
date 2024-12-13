@@ -24,7 +24,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.ViewModelProvider
 import com.airbnb.lottie.LottieAnimationView
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics2.ui.viewmodel.FingerprintEnrollFindSensorViewModel
 import com.google.android.setupcompat.template.FooterBarMixin
 import com.google.android.setupcompat.template.FooterButton

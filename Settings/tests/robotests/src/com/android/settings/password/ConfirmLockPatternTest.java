@@ -50,7 +50,7 @@ import androidx.test.core.app.ApplicationProvider;
 
 import com.android.internal.widget.LockPatternUtils;
 import com.android.internal.widget.LockPatternView;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowDevicePolicyManager;
 import com.android.settings.testutils.shadow.ShadowLockPatternUtils;
 import com.android.settings.testutils.shadow.ShadowUserManager;

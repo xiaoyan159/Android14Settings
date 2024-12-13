@@ -19,7 +19,7 @@ package com.android.settings.network;
 import android.content.Context;
 import android.text.BidiFormatter;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.activityembedding.ActivityEmbeddingUtils;
 import com.android.settings.core.BasePreferenceController;

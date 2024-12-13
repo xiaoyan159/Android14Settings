@@ -32,7 +32,7 @@ import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * The view for a single entry in a conversation. This is a simplified version of

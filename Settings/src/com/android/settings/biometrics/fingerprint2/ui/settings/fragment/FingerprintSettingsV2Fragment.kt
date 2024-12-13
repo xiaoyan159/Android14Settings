@@ -36,7 +36,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.preference.Preference
 import androidx.preference.PreferenceCategory
 import com.android.internal.widget.LockPatternUtils
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils.SETTINGS_PACKAGE_NAME
 import com.android.settings.biometrics.BiometricEnrollBase
 import com.android.settings.biometrics.BiometricEnrollBase.CONFIRM_REQUEST

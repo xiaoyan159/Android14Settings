@@ -42,7 +42,7 @@ import androidx.core.view.ViewCompat;
 
 import com.android.internal.app.LocalePickerWithRegion;
 import com.android.internal.app.LocaleStore;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppLocaleUtil;
 import com.android.settings.applications.appinfo.AppLocaleDetails;
 import com.android.settings.core.SettingsBaseActivity;

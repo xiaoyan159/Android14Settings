@@ -36,7 +36,7 @@ import android.view.View;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.defaultapps.DefaultAppPickerFragment;
 import com.android.settingslib.applications.DefaultAppInfo;
 import com.android.settingslib.development.DevelopmentSettingsEnabler;

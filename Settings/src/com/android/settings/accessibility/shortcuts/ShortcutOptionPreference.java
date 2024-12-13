@@ -31,7 +31,7 @@ import androidx.annotation.RawRes;
 import androidx.preference.CheckBoxPreference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.LottieColorUtils;
 
 import com.airbnb.lottie.LottieAnimationView;

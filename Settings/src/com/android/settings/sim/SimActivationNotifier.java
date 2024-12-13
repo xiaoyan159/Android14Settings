@@ -35,7 +35,7 @@ import android.util.Log;
 
 import androidx.core.app.TaskStackBuilder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.network.SubscriptionUtil;
 

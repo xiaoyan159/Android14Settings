@@ -19,7 +19,7 @@ package com.android.settings.accessibility;
 import androidx.annotation.ColorInt;
 import androidx.annotation.StringRes;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 enum ScreenFlashNotificationColor {
     BLUE(0x4D0000FE, R.string.screen_flash_color_blue),

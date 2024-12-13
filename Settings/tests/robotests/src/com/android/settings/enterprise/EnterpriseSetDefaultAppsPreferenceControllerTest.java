@@ -35,7 +35,7 @@ import android.os.UserHandle;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.EnterpriseDefaultApps;
 import com.android.settings.applications.UserAppInfo;
 import com.android.settings.testutils.FakeFeatureFactory;

@@ -24,7 +24,7 @@ import android.os.Messenger;
 import android.os.RemoteException;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class UserDictionaryAddWordActivity extends Activity {
 

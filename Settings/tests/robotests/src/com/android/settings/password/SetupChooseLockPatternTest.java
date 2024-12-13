@@ -38,7 +38,7 @@ import com.android.internal.widget.LockPatternUtils;
 import com.android.internal.widget.LockPatternView;
 import com.android.internal.widget.LockPatternView.Cell;
 import com.android.internal.widget.LockPatternView.DisplayMode;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupRedactionInterstitial;
 import com.android.settings.password.ChooseLockPattern.ChooseLockPatternFragment;
 import com.android.settings.password.ChooseLockPattern.IntentBuilder;

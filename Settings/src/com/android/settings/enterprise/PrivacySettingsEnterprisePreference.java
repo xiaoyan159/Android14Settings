@@ -19,7 +19,7 @@ package com.android.settings.enterprise;
 import android.content.Context;
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.PreferenceCategoryController;
 import com.android.settingslib.core.AbstractPreferenceController;
 

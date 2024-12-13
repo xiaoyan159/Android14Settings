@@ -147,7 +147,7 @@ public class OwnerInfoPreferenceControllerTest {
         mController.updateSummary();
 
         verify(mPreference).setSummary(mContext.getString(
-                com.android.settings.R.string.owner_info_settings_summary));
+                com.cariad.cea.settings.R.string.owner_info_settings_summary));
     }
 
     @Test

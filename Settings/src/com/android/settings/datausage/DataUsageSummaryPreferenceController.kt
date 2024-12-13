@@ -26,7 +26,7 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import androidx.preference.PreferenceScreen
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.datausage.lib.DataUsageLib.getMobileTemplate
 import com.android.settings.datausage.lib.INetworkCycleDataRepository
 import com.android.settings.datausage.lib.NetworkCycleDataRepository

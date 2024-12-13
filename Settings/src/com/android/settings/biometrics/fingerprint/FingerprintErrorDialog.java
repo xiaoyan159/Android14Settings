@@ -33,7 +33,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 
 /** Fingerprint error dialog, will be shown when an error occurs during fingerprint enrollment. */

@@ -20,7 +20,7 @@ import android.content.Context;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 /**
  * Controller that used to show nfc detection point guidance

@@ -39,7 +39,7 @@ import androidx.preference.Preference;
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.app.AlertActivity;
 import com.android.internal.app.AlertController;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 
 import java.util.List;

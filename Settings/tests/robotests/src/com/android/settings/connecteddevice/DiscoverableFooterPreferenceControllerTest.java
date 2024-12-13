@@ -31,7 +31,7 @@ import android.content.pm.PackageManager;
 import android.text.BidiFormatter;
 import android.text.TextUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.bluetooth.AlwaysDiscoverable;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.testutils.shadow.ShadowBluetoothAdapter;

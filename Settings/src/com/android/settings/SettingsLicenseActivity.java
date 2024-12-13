@@ -31,6 +31,7 @@ import androidx.loader.app.LoaderManager;
 import androidx.loader.content.Loader;
 
 import com.android.settingslib.license.LicenseHtmlLoaderCompat;
+import com.cariad.cea.settings.R;
 
 import java.io.File;
 

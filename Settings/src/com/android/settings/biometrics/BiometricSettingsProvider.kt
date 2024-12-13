@@ -69,7 +69,7 @@ class BiometricSettingsProvider : ContentProvider() {
         val faceEnabled =
           requireContext()
             .resources
-            .getBoolean(com.android.settings.R.bool.config_suw_support_face_enroll)
+            .getBoolean(com.cariad.cea.settings.R.bool.config_suw_support_face_enroll)
         bundle.putBoolean(SUW_FACE_ENABLED, faceEnabled)
       }
     }

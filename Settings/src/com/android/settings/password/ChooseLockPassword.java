@@ -88,7 +88,7 @@ import com.android.internal.widget.LockPatternUtils;
 import com.android.internal.widget.LockscreenCredential;
 import com.android.internal.widget.PasswordValidationError;
 import com.android.internal.widget.TextViewInputDisabler;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.Utils;

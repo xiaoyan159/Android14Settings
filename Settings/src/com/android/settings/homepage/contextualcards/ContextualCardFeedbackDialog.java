@@ -24,7 +24,7 @@ import android.util.Log;
 
 import com.android.internal.app.AlertActivity;
 import com.android.internal.app.AlertController;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class ContextualCardFeedbackDialog extends AlertActivity implements
         DialogInterface.OnClickListener {

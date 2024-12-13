@@ -25,7 +25,7 @@ import android.os.Bundle;
 import android.os.UserManager;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.deviceinfo.BluetoothAddressPreferenceController;

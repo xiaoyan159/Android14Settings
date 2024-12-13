@@ -23,7 +23,7 @@ import android.util.Log;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.Utils;
 import com.android.settings.bluetooth.BluetoothDeviceRenamePreferenceController;

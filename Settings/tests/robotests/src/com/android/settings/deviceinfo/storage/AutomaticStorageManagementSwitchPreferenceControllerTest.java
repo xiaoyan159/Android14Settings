@@ -42,7 +42,7 @@ import androidx.preference.PreferenceScreen;
 
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
 import com.android.internal.os.RoSystemProperties;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.deletionhelper.ActivationWarningFragment;
 import com.android.settings.testutils.FakeFeatureFactory;

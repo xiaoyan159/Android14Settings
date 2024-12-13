@@ -23,7 +23,7 @@ import android.view.accessibility.AccessibilityEvent;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.core.SubSettingLauncher;

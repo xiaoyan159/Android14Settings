@@ -37,7 +37,7 @@ import android.text.SpannableStringBuilder;
 import android.text.style.ClickableSpan;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.vpn2.VpnUtils;
 import com.android.settingslib.utils.WorkPolicyUtils;
 

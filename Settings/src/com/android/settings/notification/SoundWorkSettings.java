@@ -33,7 +33,7 @@ import android.text.TextUtils;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.RingtonePreference;
 import com.android.settings.core.OnActivityResultListener;
 import com.android.settings.dashboard.DashboardFragment;

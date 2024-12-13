@@ -20,7 +20,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.LinearLayout;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class MessageBubbleBackground extends LinearLayout {
     private final  int mSnapWidthPixels;

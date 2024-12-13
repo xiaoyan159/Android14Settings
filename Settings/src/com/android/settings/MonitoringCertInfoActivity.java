@@ -34,6 +34,7 @@ import androidx.appcompat.app.AlertDialog;
 
 import com.android.settingslib.RestrictedLockUtils;
 import com.android.settingslib.utils.StringUtil;
+import com.cariad.cea.settings.R;
 
 import java.util.HashMap;
 import java.util.Locale;

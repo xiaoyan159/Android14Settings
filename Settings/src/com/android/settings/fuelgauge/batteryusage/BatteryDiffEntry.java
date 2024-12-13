@@ -30,7 +30,7 @@ import android.util.Pair;
 import androidx.annotation.GuardedBy;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.fuelgauge.BatteryUtils;
 import com.android.settings.fuelgauge.batteryusage.BatteryEntry.NameAndIcon;
 import com.android.settingslib.utils.StringUtil;

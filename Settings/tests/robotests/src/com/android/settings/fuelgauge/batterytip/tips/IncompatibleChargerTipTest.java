@@ -27,7 +27,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settings.widget.CardPreference;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;

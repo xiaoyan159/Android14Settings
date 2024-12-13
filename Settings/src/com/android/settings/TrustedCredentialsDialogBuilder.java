@@ -36,6 +36,7 @@ import androidx.appcompat.app.AlertDialog;
 import com.android.internal.widget.LockPatternUtils;
 import com.android.settings.TrustedCredentialsFragment.CertHolder;
 import com.android.settingslib.RestrictedLockUtils;
+import com.cariad.cea.settings.R;
 
 import java.security.cert.X509Certificate;
 import java.util.ArrayList;

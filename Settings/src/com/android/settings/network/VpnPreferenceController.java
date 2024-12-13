@@ -38,7 +38,7 @@ import androidx.preference.PreferenceScreen;
 import com.android.internal.net.LegacyVpnInfo;
 import com.android.internal.net.VpnConfig;
 import com.android.internal.net.VpnProfile;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.vpn2.VpnInfoPreference;

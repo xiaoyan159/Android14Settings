@@ -22,7 +22,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 
 public class InputMethodAndSubtypeEnabler extends DashboardFragment {

@@ -38,7 +38,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.core.content.ContextCompat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.Locale;
 

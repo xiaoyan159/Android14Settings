@@ -35,7 +35,7 @@ import android.widget.TextView;
 import androidx.annotation.DrawableRes;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * UI container for the accessibility quick settings tooltip.

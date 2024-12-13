@@ -30,7 +30,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settingslib.fuelgauge.PowerAllowlistBackend;
 

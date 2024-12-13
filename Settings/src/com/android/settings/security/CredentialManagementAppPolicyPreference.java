@@ -30,7 +30,7 @@ import androidx.preference.PreferenceViewHolder;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

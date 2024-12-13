@@ -26,7 +26,7 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
 public abstract class EmptyTextSettings extends SettingsPreferenceFragment {

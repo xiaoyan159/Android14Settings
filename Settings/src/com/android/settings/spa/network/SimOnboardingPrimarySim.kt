@@ -28,7 +28,7 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.SimOnboardingService
 import com.android.settingslib.spa.framework.theme.SettingsDimension
 import com.android.settingslib.spa.widget.preference.ListPreference

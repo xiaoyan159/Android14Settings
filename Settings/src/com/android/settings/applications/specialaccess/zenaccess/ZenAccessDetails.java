@@ -23,7 +23,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AlertDialog;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppInfoWithHeader;
 
 import java.util.Set;

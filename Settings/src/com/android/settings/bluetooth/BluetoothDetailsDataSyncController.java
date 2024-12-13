@@ -29,7 +29,7 @@ import androidx.preference.SwitchPreferenceCompat;
 import androidx.preference.TwoStatePreference;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 

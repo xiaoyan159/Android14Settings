@@ -22,7 +22,7 @@ import android.provider.Settings;
 
 import androidx.annotation.IntDef;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.common.primitives.Ints;
 

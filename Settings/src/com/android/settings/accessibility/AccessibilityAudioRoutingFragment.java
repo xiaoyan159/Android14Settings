@@ -20,7 +20,7 @@ import static android.os.UserManager.DISALLOW_CONFIG_BLUETOOTH;
 
 import android.app.settings.SettingsEnums;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.RestrictedDashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 

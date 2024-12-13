@@ -28,7 +28,7 @@ import android.os.UserManager;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowApplicationPackageManager;
 import com.android.settings.testutils.shadow.ShadowCrossProfileApps;
 import com.android.settings.testutils.shadow.ShadowUserManager;

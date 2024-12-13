@@ -28,7 +28,7 @@ import android.content.pm.PackageManager;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.appinfo.AppInfoDashboardFragment;
 import com.android.settings.core.BasePreferenceController;
 

@@ -25,7 +25,7 @@ import android.widget.Toast;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Preference in a list that represents a mainline module that has a licenses file.

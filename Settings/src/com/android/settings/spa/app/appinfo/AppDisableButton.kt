@@ -23,7 +23,7 @@ import androidx.compose.material.icons.outlined.HideSource
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.Utils
 import com.android.settings.overlay.FeatureFactory.Companion.featureFactory
 import com.android.settingslib.spa.widget.button.ActionButton

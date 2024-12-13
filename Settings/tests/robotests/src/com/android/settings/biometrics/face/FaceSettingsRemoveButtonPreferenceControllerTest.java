@@ -25,7 +25,7 @@ import android.content.Context;
 import android.content.pm.PackageManager;
 import android.hardware.face.FaceManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.biometrics.face.FaceSettingsRemoveButtonPreferenceController.ConfirmRemoveDialog;
 import com.android.settings.testutils.shadow.ShadowUserManager;

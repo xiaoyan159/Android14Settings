@@ -25,7 +25,7 @@ import android.content.ContentResolver;
 import android.content.Context;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.zen.ZenModeBackend;
 import com.android.settings.notification.zen.ZenModeDurationPreferenceController;
 import com.android.settingslib.core.lifecycle.Lifecycle;

@@ -42,7 +42,7 @@ import android.util.Log;
 import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.OnLifecycleEvent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.bluetooth.Utils;
 import com.android.settingslib.bluetooth.A2dpProfile;
 import com.android.settingslib.bluetooth.BluetoothUtils;

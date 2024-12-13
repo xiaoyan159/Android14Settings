@@ -21,7 +21,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.Apps
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.app.backgroundinstall.BackgroundInstalledAppsPageProvider
 import com.android.settings.spa.app.specialaccess.SpecialAppAccessPageProvider
 import com.android.settingslib.spa.framework.common.SettingsEntry

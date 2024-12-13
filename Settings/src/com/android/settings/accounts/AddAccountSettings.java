@@ -34,7 +34,7 @@ import android.os.UserManager;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.Utils;
 import com.android.settings.password.ChooseLockSettingsHelper;

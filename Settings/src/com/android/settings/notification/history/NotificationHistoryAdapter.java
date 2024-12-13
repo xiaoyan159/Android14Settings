@@ -37,7 +37,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.internal.logging.UiEventLogger;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.List;

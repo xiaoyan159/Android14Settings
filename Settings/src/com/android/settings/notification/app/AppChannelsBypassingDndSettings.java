@@ -21,7 +21,7 @@ import android.content.Context;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.NotificationBackend;
 import com.android.settingslib.core.AbstractPreferenceController;
 

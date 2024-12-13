@@ -58,7 +58,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.OnLifecycleEvent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settingslib.Utils;
 import com.android.settingslib.core.lifecycle.Lifecycle;

@@ -22,7 +22,7 @@ import android.content.Context;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.NotificationBackend;
 import com.android.settingslib.core.AbstractPreferenceController;
 import com.android.settingslib.widget.FooterPreference;
@@ -36,7 +36,7 @@ public class ZenCustomRuleMessagesSettings extends ZenCustomRuleSettingsBase {
 
     @Override
     protected int getPreferenceScreenResId() {
-        return com.android.settings.R.xml.zen_mode_custom_rule_messages_settings;
+        return com.cariad.cea.settings.R.xml.zen_mode_custom_rule_messages_settings;
     }
 
     @Override

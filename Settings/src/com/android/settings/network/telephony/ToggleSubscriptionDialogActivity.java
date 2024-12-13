@@ -29,7 +29,7 @@ import android.util.Log;
 import android.view.View;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SidecarFragment;
 import com.android.settings.network.EnableMultiSimSidecar;
 import com.android.settings.network.SubscriptionUtil;

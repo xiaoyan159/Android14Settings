@@ -29,7 +29,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.deviceinfo.storage.StorageUtils.UnmountTask;
 import com.android.settings.search.actionbar.SearchMenuController;

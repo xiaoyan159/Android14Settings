@@ -44,7 +44,7 @@ import android.widget.TextView;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.fuelgauge.BatteryMeterView;
 import com.android.settingslib.bluetooth.BluetoothUtils;

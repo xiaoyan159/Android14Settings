@@ -25,7 +25,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.LinearLayout;
 import android.widget.ScrollView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Arrays;

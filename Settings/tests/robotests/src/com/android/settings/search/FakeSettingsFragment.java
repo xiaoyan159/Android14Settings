@@ -62,7 +62,7 @@ public class FakeSettingsFragment extends DashboardFragment {
 
     @Override
     protected int getPreferenceScreenResId() {
-        return com.android.settings.R.xml.display_settings;
+        return com.cariad.cea.settings.R.xml.display_settings;
     }
 
     @Override
@@ -102,7 +102,7 @@ public class FakeSettingsFragment extends DashboardFragment {
                     final ArrayList<SearchIndexableResource> result = new ArrayList<>();
 
                     final SearchIndexableResource sir = new SearchIndexableResource(context);
-                    sir.xmlResId = com.android.settings.R.xml.display_settings;
+                    sir.xmlResId = com.cariad.cea.settings.R.xml.display_settings;
                     result.add(sir);
                     return result;
                 }

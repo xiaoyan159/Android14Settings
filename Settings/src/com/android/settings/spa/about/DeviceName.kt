@@ -22,7 +22,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.deviceinfo.DeviceNamePreferenceController
 import com.android.settingslib.spa.widget.dialog.AlertDialogButton
 import com.android.settingslib.spa.widget.dialog.rememberAlertDialogPresenter

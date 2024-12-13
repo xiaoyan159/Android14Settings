@@ -29,7 +29,7 @@ import android.platform.test.flag.junit.DeviceFlagsValueProvider;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.XmlTestUtils;
 
 import org.junit.Before;

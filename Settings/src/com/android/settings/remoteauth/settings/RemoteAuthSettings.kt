@@ -27,7 +27,7 @@ import androidx.lifecycle.repeatOnLifecycle
 import androidx.navigation.fragment.NavHostFragment.Companion.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import kotlinx.coroutines.launch
 
 class RemoteAuthSettings : Fragment(R.layout.remote_auth_settings) {

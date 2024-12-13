@@ -54,7 +54,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.BiometricEnrollBase;
 import com.android.settings.password.ChooseLockSettingsHelper;
 import com.android.settings.testutils.FakeFeatureFactory;

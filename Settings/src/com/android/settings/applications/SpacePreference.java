@@ -24,7 +24,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A blank preference that has a specified height by android:layout_height.  It can be used

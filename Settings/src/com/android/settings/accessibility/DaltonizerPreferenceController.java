@@ -19,7 +19,7 @@ package com.android.settings.accessibility;
 import android.content.Context;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 /** Controller that shows and updates the color correction summary. */

@@ -32,7 +32,7 @@ import androidx.compose.ui.test.performClick
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.android.dx.mockito.inline.extended.ExtendedMockito
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.fuelgauge.AdvancedPowerUsageDetail
 import com.android.settings.fuelgauge.batteryusage.BatteryChartPreferenceController
 import com.android.settings.fuelgauge.batteryusage.BatteryDiffEntry

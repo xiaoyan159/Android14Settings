@@ -29,7 +29,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A preference with custom background.

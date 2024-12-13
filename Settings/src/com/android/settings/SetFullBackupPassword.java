@@ -30,6 +30,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.cariad.cea.settings.R;
+
 public class SetFullBackupPassword extends Activity {
     static final String TAG = "SetFullBackupPassword";
 

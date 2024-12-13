@@ -28,7 +28,7 @@ import android.util.Log;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.datetime.timezone.BaseTimeZoneAdapter.AdapterItem;
 import com.android.settings.datetime.timezone.model.FilteredCountryTimeZones;

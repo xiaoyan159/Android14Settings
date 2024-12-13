@@ -25,7 +25,7 @@ import android.app.NotificationManager.Policy;
 import android.content.Context;
 import android.provider.SearchIndexableResource;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.zen.ZenModeSettings;
 
 import org.junit.Before;

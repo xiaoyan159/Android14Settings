@@ -26,7 +26,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.inputmethod.UserDictionaryAddWordContents.LocaleRenderer;
 

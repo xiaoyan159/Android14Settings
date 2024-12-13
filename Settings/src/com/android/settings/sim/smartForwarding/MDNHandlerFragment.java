@@ -31,7 +31,7 @@ import android.widget.Button;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.instrumentation.Instrumentable;
 
 public class MDNHandlerFragment extends Fragment implements Instrumentable {

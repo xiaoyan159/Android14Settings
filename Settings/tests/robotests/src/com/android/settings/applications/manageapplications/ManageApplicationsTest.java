@@ -53,7 +53,7 @@ import android.widget.SearchView;
 import androidx.fragment.app.FragmentActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowAppUtils;
 import com.android.settings.testutils.shadow.ShadowUserManager;
 import com.android.settings.widget.LoadingViewController;

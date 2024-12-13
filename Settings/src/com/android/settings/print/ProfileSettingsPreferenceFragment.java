@@ -26,7 +26,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.RestrictedDashboardFragment;
 import com.android.settings.dashboard.profileselector.UserAdapter;
 

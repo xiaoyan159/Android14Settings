@@ -32,7 +32,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog.Builder;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.MobileDataEnabledListener;
 import com.android.settings.network.ProxySubscriptionManager;
 import com.android.settings.network.SubscriptionUtil;

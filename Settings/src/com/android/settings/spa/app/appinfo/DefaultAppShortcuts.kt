@@ -19,7 +19,7 @@ package com.android.settings.spa.app.appinfo
 import android.app.role.RoleManager
 import android.content.pm.ApplicationInfo
 import androidx.compose.runtime.Composable
-import com.android.settings.R
+import com.cariad.cea.settings.R
 
 @Composable
 fun DefaultAppShortcuts(app: ApplicationInfo) {

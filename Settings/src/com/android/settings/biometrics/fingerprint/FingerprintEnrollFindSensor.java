@@ -34,7 +34,7 @@ import android.view.accessibility.AccessibilityManager;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.biometrics.BiometricEnrollBase;
 import com.android.settings.biometrics.BiometricEnrollSidecar;

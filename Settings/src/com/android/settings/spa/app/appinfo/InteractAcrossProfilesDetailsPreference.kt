@@ -24,7 +24,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.appinfo.AppInfoDashboardFragment
 import com.android.settings.applications.specialaccess.interactacrossprofiles.InteractAcrossProfilesDetails
 import com.android.settingslib.spa.widget.preference.Preference

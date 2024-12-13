@@ -28,7 +28,7 @@ import androidx.compose.ui.test.onRoot
 import androidx.compose.ui.test.performClick
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.testutils.delay
 import com.android.settingslib.spaprivileged.model.app.userHandle
 import com.google.common.truth.Truth.assertThat

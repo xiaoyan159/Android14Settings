@@ -21,7 +21,7 @@ import android.content.Context
 class SfpsRestToUnlockFeatureImpl : SfpsRestToUnlockFeature {
     override fun getDescriptionForSfps(context: Context) : String {
         return context.getString(
-            com.android.settings.R
+            com.cariad.cea.settings.R
                 .string.security_settings_fingerprint_enroll_finish_v2_add_fingerprint_message
         )
     }

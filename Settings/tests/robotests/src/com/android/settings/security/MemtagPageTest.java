@@ -21,7 +21,7 @@ import static com.google.common.truth.Truth.assertThat;
 import android.app.settings.SettingsEnums;
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

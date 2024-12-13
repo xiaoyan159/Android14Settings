@@ -27,7 +27,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.SimOnboardingService
 import com.android.settings.sim.SimDialogActivity
 import com.android.settingslib.spa.framework.theme.SettingsDimension

@@ -28,7 +28,7 @@ import android.os.UserHandle;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.widget.EntityHeaderController;
 import com.android.settingslib.accounts.AuthenticatorHelper;

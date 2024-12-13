@@ -22,7 +22,7 @@ import android.icu.text.ListFormatter
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.applications.PermissionsSummaryHelper
 import com.android.settingslib.spa.framework.util.formatString
 import com.android.settingslib.spaprivileged.framework.common.asUser

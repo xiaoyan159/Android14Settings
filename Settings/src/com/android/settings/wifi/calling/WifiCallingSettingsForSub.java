@@ -51,7 +51,7 @@ import com.android.ims.ImsConfig;
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.telephony.Phone;
 import com.android.internal.telephony.flags.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.Utils;

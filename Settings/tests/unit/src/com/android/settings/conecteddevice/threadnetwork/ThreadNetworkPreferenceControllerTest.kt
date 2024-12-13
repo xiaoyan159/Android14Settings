@@ -34,7 +34,7 @@ import androidx.preference.SwitchPreference
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.android.net.thread.platform.flags.Flags
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.BasePreferenceController.AVAILABLE
 import com.android.settings.core.BasePreferenceController.CONDITIONALLY_UNAVAILABLE
 import com.android.settings.core.BasePreferenceController.DISABLED_DEPENDENT_SETTING

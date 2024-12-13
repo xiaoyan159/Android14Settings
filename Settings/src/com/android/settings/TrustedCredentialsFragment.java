@@ -68,6 +68,7 @@ import com.android.internal.app.UnlaunchableAppActivity;
 import com.android.internal.widget.LockPatternUtils;
 import com.android.settings.TrustedCredentialsSettings.Tab;
 import com.android.settingslib.core.lifecycle.ObservableFragment;
+import com.cariad.cea.settings.R;
 
 import java.security.cert.CertificateEncodingException;
 import java.security.cert.X509Certificate;

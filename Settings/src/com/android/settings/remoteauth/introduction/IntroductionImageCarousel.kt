@@ -34,7 +34,7 @@ import androidx.viewpager2.widget.ViewPager2
 
 import com.airbnb.lottie.LottieAnimationView
 
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.widget.LottieColorUtils
 
 class IntroductionImageCarousel : ConstraintLayout {

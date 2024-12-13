@@ -34,7 +34,7 @@ import androidx.core.view.ViewCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.datetime.timezone.model.TimeZoneData;
 import com.android.settings.datetime.timezone.model.TimeZoneDataLoader;

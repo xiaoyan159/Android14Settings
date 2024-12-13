@@ -22,7 +22,7 @@ import android.net.wifi.WifiManager;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.List;
 

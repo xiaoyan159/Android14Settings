@@ -35,7 +35,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.applications.appcompat.UserAspectRatioManager
 import com.android.settingslib.spa.framework.common.SettingsEntryBuilder
 import com.android.settingslib.spa.framework.common.SettingsPageProvider

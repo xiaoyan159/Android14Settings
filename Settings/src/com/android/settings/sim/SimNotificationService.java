@@ -25,7 +25,7 @@ import android.content.Context;
 import android.os.PersistableBundle;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** A JobService sends SIM notifications. */
 public class SimNotificationService extends JobService {

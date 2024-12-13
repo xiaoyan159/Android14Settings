@@ -24,7 +24,7 @@ import android.telephony.PreciseDataConnectionState;
 import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.network.GlobalSettingsChangeListener;

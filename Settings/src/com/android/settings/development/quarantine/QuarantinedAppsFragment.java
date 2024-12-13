@@ -27,7 +27,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.SearchView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.applications.AppIconCacheManager;

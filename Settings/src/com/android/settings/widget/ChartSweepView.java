@@ -36,7 +36,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 import com.android.internal.util.Preconditions;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Sweep across a {@link ChartView} at a specific {@link ChartAxis} value, which

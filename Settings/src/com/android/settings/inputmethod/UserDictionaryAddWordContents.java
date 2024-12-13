@@ -26,7 +26,7 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 
 import java.util.ArrayList;

@@ -25,7 +25,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceGroup;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppInfoBase;
 import com.android.settings.applications.intentpicker.AppLaunchSettings;
 import com.android.settings.core.BasePreferenceController;

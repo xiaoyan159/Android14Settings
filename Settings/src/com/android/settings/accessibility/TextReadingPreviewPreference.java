@@ -28,7 +28,7 @@ import androidx.viewpager.widget.ViewPager;
 
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.util.Preconditions;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.display.PreviewPagerAdapter;
 import com.android.settings.widget.DotsPageIndicator;
 

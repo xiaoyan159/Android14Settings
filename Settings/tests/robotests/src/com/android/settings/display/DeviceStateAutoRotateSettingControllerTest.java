@@ -30,7 +30,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceManager;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowDeviceStateRotationLockSettingsManager;
 import com.android.settings.testutils.shadow.ShadowRotationPolicy;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;

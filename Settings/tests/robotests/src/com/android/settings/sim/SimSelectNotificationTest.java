@@ -62,7 +62,7 @@ import android.util.DisplayMetrics;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;
 

@@ -29,7 +29,7 @@ import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import com.android.internal.widget.LockPatternUtils
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.SetupWizardUtils
 import com.android.settings.Utils.SETTINGS_PACKAGE_NAME
 import com.android.settings.biometrics.BiometricEnrollBase

@@ -20,7 +20,7 @@ import android.content.Context;
 import android.media.AudioManager;
 import android.text.TextUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 
 public class CallVolumePreferenceController extends VolumeSeekBarPreferenceController {

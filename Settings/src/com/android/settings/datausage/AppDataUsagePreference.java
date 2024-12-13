@@ -20,7 +20,7 @@ import android.widget.ProgressBar;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.AppItem;
 import com.android.settingslib.net.UidDetail;
 import com.android.settingslib.net.UidDetailProvider;
@@ -43,7 +43,7 @@ public class AppDataUsagePreference extends AppPreference {
         mPercent = percent;
 
         if (item.restricted && item.total <= 0) {
-            setSummary(com.android.settings.R.string.data_usage_app_restricted);
+            setSummary(R.string.data_usage_app_restricted);
         } else {
             setSummary(DataUsageUtils.formatDataUsage(context, item.total));
         }

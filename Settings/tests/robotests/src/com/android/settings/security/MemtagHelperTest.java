@@ -20,7 +20,7 @@ import static com.google.common.truth.Truth.assertThat;
 
 import android.os.SystemProperties;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import org.junit.Test;

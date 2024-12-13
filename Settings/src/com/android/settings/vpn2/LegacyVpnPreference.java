@@ -25,7 +25,7 @@ import android.view.View;
 import androidx.preference.Preference;
 
 import com.android.internal.net.VpnProfile;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * {@link androidx.preference.Preference} tracks the underlying legacy vpn profile and

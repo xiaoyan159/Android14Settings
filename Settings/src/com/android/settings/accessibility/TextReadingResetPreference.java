@@ -23,7 +23,7 @@ import android.view.View;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * The preference which is used for resetting the status of all preferences in the display size

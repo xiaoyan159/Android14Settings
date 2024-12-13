@@ -35,7 +35,7 @@ import android.view.ViewGroup;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityUtil.QuickSettingsTooltipType;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.widget.SeekBarPreference;

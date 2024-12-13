@@ -25,7 +25,7 @@ import android.os.UserHandle;
 import androidx.lifecycle.Lifecycle;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class FaceProfileStatusPreferenceController extends FaceStatusPreferenceController {
 

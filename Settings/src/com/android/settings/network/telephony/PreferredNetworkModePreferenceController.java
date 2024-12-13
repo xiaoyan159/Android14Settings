@@ -26,7 +26,7 @@ import android.util.Log;
 import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.CarrierConfigCache;
 import com.android.settings.network.telephony.TelephonyConstants.TelephonyManagerConstants;
 

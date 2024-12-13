@@ -35,7 +35,7 @@ import android.widget.Toast;
 import androidx.annotation.VisibleForTesting;
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.deviceinfo.storage.StorageEntry;
 import com.android.settings.deviceinfo.storage.StorageRenameFragment;

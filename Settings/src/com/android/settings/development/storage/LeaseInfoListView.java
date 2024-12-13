@@ -42,7 +42,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog;
 
 import com.android.internal.util.CollectionUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.io.IOException;
 import java.util.List;

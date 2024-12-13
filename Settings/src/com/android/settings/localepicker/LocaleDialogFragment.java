@@ -38,7 +38,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AlertDialog;
 
 import com.android.internal.app.LocaleStore;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;

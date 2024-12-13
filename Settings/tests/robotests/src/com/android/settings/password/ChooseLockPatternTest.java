@@ -32,7 +32,7 @@ import android.view.View;
 
 import com.android.internal.widget.LockPatternUtils;
 import com.android.internal.widget.LockscreenCredential;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.password.ChooseLockPattern.ChooseLockPatternFragment;
 import com.android.settings.password.ChooseLockPattern.IntentBuilder;
 import com.android.settings.testutils.shadow.ShadowUtils;

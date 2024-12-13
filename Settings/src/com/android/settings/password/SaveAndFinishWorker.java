@@ -30,7 +30,7 @@ import androidx.fragment.app.Fragment;
 import com.android.internal.widget.LockPatternUtils;
 import com.android.internal.widget.LockscreenCredential;
 import com.android.internal.widget.VerifyCredentialResponse;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.safetycenter.LockScreenSafetySource;
 
 /**

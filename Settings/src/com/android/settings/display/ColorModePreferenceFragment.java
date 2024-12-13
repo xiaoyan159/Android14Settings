@@ -41,7 +41,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.widget.RadioButtonPickerFragment;
 import com.android.settingslib.search.SearchIndexable;

@@ -35,7 +35,7 @@ import androidx.loader.app.LoaderManager;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.ItemTouchHelper;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.homepage.contextualcards.slices.BluetoothUpdateWorker;
 import com.android.settings.homepage.contextualcards.slices.SwipeDismissalDelegate;

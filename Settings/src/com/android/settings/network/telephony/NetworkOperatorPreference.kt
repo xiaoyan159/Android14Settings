@@ -31,7 +31,7 @@ import android.util.Log
 import androidx.annotation.OpenForTesting
 import androidx.preference.Preference
 import com.android.internal.telephony.OperatorInfo
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.telephony.CellInfoUtil.getNetworkTitle
 import com.android.settings.network.telephony.CellInfoUtil.getOperatorNumeric
 import java.util.Objects

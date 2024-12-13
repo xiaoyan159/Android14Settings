@@ -18,7 +18,7 @@ package com.android.settings.deviceinfo.legal;
 
 import android.app.settings.SettingsEnums;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 
 public class ModuleLicensesDashboard extends DashboardFragment {

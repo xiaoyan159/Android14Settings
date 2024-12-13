@@ -27,7 +27,7 @@ import android.view.View;
 import androidx.slice.Slice;
 import androidx.slice.widget.SliceView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

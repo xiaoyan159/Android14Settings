@@ -21,7 +21,7 @@ import android.content.Context;
 import android.debug.PairDevice;
 import android.os.Bundle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settingslib.core.AbstractPreferenceController;
 

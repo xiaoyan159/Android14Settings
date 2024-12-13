@@ -34,7 +34,7 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.os.Build;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.CardContentProvider;
 import com.android.settings.homepage.contextualcards.CardDatabaseHelper;
 import com.android.settings.homepage.contextualcards.ContextualCard;

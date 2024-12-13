@@ -22,7 +22,7 @@ import android.util.AttributeSet;
 import androidx.preference.ListPreference;
 
 import com.android.internal.app.LocalePicker;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.List;
 

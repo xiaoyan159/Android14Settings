@@ -18,7 +18,7 @@ package com.android.settings.wifi;
 import android.content.Intent;
 
 import com.android.settings.ButtonBarHandler;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.network.NetworkProviderSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;

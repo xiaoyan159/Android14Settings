@@ -32,7 +32,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.test.core.app.ApplicationProvider;
 
 import com.android.server.accessibility.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityUtil;
 
 import org.junit.Before;

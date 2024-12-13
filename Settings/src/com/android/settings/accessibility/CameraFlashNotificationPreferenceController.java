@@ -22,7 +22,7 @@ import static com.android.settings.accessibility.AccessibilityUtil.State.ON;
 import android.content.Context;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 import com.android.settings.overlay.FeatureFactory;
 

@@ -56,7 +56,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.preference.internal.PreferenceImageView;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.InstrumentedFragment;
 import com.android.settings.overlay.FeatureFactory;

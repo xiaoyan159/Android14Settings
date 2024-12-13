@@ -26,7 +26,7 @@ import android.widget.ImageView;
 import androidx.preference.PreferenceViewHolder;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -71,7 +71,7 @@ public class ShortcutOptionPreferenceTest {
     @Test
     public void bindViewHolder_imageRawResIdSet_shouldShowImageView() {
         mShortcutOptionPreference.setIntroImageRawResId(
-                com.android.settings.R.raw.accessibility_color_inversion_banner);
+                com.cariad.cea.settings.R.raw.accessibility_color_inversion_banner);
 
         mShortcutOptionPreference.onBindViewHolder(mViewHolder);
 

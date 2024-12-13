@@ -27,7 +27,7 @@ import android.os.VibrationAttributes;
 import android.os.Vibrator;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.SettingsMainSwitchPreferenceController;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnStart;

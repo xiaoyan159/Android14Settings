@@ -26,7 +26,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.Indexable;
 import com.android.settingslib.search.SearchIndexable;

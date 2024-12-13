@@ -34,7 +34,7 @@ import android.content.Context;
 import android.net.Uri;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.slices.CustomSliceRegistry;
 import com.android.settings.testutils.FakeFeatureFactory;
 

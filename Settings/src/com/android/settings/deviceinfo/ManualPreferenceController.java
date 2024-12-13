@@ -18,7 +18,7 @@ package com.android.settings.deviceinfo;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settingslib.core.AbstractPreferenceController;
 

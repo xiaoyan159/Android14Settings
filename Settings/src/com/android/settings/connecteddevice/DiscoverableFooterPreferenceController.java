@@ -28,7 +28,7 @@ import android.text.TextUtils;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.bluetooth.AlwaysDiscoverable;
 import com.android.settings.bluetooth.Utils;
 import com.android.settings.core.BasePreferenceController;

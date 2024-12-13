@@ -37,7 +37,7 @@ import android.util.Log;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.fuelgauge.BatteryOptimizeUtils;
 import com.android.settings.fuelgauge.datasaver.DynamicDenylistManager;
 

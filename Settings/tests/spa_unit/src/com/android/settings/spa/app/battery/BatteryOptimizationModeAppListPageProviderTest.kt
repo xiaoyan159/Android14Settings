@@ -29,7 +29,7 @@ import androidx.compose.ui.test.performClick
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.android.settings.DisplaySettings
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.SettingsActivity
 import com.android.settings.fuelgauge.AdvancedPowerUsageDetail
 import com.android.settings.spa.app.battery.BatteryOptimizationModeAppList

@@ -20,7 +20,7 @@ import static com.google.common.truth.Truth.assertThat;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.slices.FakePreferenceController;
 import com.android.settingslib.core.AbstractPreferenceController;
 

@@ -40,7 +40,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.FragmentActivity;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.lifecycle.HideNonSystemOverlayMixin;
 
 import com.google.android.setupcompat.template.FooterBarMixin;

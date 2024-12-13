@@ -80,7 +80,7 @@ public class EncryptionAndCredentialTest {
     public static class TestFragment extends PreferenceFragmentCompat {
         @Override
         public void onCreatePreferences(Bundle savedInstanceState, String rootKey) {
-            addPreferencesFromResource(com.android.settings.R.xml.encryption_and_credential);
+            addPreferencesFromResource(com.cariad.cea.settings.R.xml.encryption_and_credential);
         }
     }
 }

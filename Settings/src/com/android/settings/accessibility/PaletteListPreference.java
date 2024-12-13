@@ -38,7 +38,7 @@ import androidx.core.text.TextUtilsCompat;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.common.primitives.Floats;
 import com.google.common.primitives.Ints;

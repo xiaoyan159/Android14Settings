@@ -39,7 +39,7 @@ import androidx.preference.TwoStatePreference;
 import com.android.internal.compat.CompatibilityChangeConfig;
 import com.android.internal.compat.CompatibilityChangeInfo;
 import com.android.internal.compat.IPlatformCompat;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 
 import java.util.ArrayList;

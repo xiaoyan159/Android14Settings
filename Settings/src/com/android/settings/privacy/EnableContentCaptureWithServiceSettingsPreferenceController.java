@@ -28,7 +28,7 @@ import android.util.Log;
 import androidx.annotation.NonNull;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 import com.android.settings.dashboard.profileselector.ProfileSelectDialog;
 import com.android.settings.utils.ContentCaptureUtils;

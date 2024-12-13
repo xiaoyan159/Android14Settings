@@ -24,7 +24,7 @@ import android.os.storage.VolumeInfo;
 import android.text.TextUtils;
 import android.view.View;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 
 public class StorageWizardFormatSlow extends StorageWizardBase {

@@ -23,6 +23,8 @@ import android.view.View;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
+import com.cariad.cea.settings.R;
+
 /**
  * A category with a progress spinner
  */

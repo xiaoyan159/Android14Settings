@@ -19,7 +19,7 @@ package com.android.settings.notification;
 import android.content.Context;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import androidx.preference.ListPreference;

@@ -55,7 +55,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.internal.accessibility.dialog.AccessibilityTarget;
 import com.android.internal.accessibility.dialog.AccessibilityTargetHelper;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.accessibility.AccessibilitySetupWizardUtils;
 import com.android.settings.accessibility.Flags;

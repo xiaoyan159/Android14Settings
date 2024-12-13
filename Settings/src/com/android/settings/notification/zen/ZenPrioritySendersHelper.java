@@ -34,7 +34,7 @@ import android.view.View;
 
 import androidx.preference.PreferenceCategory;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.notification.NotificationBackend;
 import com.android.settings.notification.app.ConversationListSettings;
@@ -105,18 +105,18 @@ public class ZenPrioritySendersHelper {
         mPreferenceCategory = preferenceCategory;
         if (mPreferenceCategory.getPreferenceCount() == 0) {
             makeSelectorPreference(KEY_STARRED,
-                    com.android.settings.R.string.zen_mode_from_starred, mIsMessages);
+                    com.cariad.cea.settings.R.string.zen_mode_from_starred, mIsMessages);
             makeSelectorPreference(KEY_CONTACTS,
-                    com.android.settings.R.string.zen_mode_from_contacts, mIsMessages);
+                    com.cariad.cea.settings.R.string.zen_mode_from_contacts, mIsMessages);
             if (mIsMessages) {
                 makeSelectorPreference(KEY_IMPORTANT,
-                        com.android.settings.R.string.zen_mode_from_important_conversations, true);
+                        com.cariad.cea.settings.R.string.zen_mode_from_important_conversations, true);
                 updateChannelCounts();
             }
             makeSelectorPreference(KEY_ANY,
-                    com.android.settings.R.string.zen_mode_from_anyone, mIsMessages);
+                    com.cariad.cea.settings.R.string.zen_mode_from_anyone, mIsMessages);
             makeSelectorPreference(KEY_NONE,
-                    com.android.settings.R.string.zen_mode_none_messages, mIsMessages);
+                    com.cariad.cea.settings.R.string.zen_mode_none_messages, mIsMessages);
             updateSummaries();
         }
     }

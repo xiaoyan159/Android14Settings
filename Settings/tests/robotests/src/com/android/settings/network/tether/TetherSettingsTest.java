@@ -53,8 +53,8 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.preference.Preference;
 import androidx.preference.SwitchPreference;
 
-import com.android.settings.R;
-import com.android.settings.RestrictedSettingsFragment;
+import com.cariad.cea.settings.R;
+import com.cariad.cea.settings.RestrictedSettingsFragment;
 import com.android.settings.wifi.tether.WifiTetherPreferenceController;
 import com.android.settingslib.RestrictedSwitchPreference;
 

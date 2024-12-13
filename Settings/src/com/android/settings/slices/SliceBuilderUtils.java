@@ -43,7 +43,7 @@ import androidx.slice.builders.ListBuilder.InputRangeBuilder;
 import androidx.slice.builders.ListBuilder.RowBuilder;
 import androidx.slice.builders.SliceAction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SubSettings;
 import com.android.settings.Utils;

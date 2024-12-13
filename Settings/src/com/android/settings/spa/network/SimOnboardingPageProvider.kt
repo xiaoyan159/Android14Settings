@@ -32,7 +32,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.network.SimOnboardingActivity
 import com.android.settings.network.SimOnboardingActivity.Companion.CallbackType
 import com.android.settings.network.SimOnboardingService

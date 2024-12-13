@@ -50,7 +50,7 @@ public class SettingsMainSwitchPreferenceTest {
         mPreference = new SettingsMainSwitchPreference(context);
         ReflectionHelpers.setField(mPreference, "mEnforcedAdmin", mEnforcedAdmin);
         ReflectionHelpers.setField(mPreference, "mMainSwitchBar", switchBar);
-        final View rootView = View.inflate(context, com.android.settings.R.layout.preference_widget_main_switch,
+        final View rootView = View.inflate(context, com.cariad.cea.settings.R.layout.preference_widget_main_switch,
                 null /* parent */);
         mHolder = PreferenceViewHolder.createInstanceForTests(rootView);
     }

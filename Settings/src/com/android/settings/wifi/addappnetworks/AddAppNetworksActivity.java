@@ -37,7 +37,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.lifecycle.HideNonSystemOverlayMixin;
 import com.android.settingslib.wifi.WifiEnterpriseRestrictionUtils;
 

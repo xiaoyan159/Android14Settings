@@ -21,7 +21,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.Info
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.framework.common.SettingsEntryBuilder
 import com.android.settingslib.spa.framework.common.SettingsPageProvider
 import com.android.settingslib.spa.framework.common.SpaEnvironmentFactory

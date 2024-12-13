@@ -33,7 +33,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settingslib.core.AbstractPreferenceController;

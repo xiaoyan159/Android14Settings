@@ -25,6 +25,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
 import com.android.settings.network.telephony.MobileNetworkUtils;
+import com.cariad.cea.settings.R;
 
 public class TestingSettings extends SettingsPreferenceFragment {
 

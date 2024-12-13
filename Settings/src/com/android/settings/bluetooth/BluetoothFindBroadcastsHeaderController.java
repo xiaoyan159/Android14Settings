@@ -27,7 +27,7 @@ import android.widget.TextView;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.bluetooth.BluetoothBroadcastUtils;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.bluetooth.LocalBluetoothLeBroadcastAssistant;

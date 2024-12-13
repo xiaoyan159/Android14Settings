@@ -37,7 +37,7 @@ import android.content.Context;
 
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.notification.zen.ZenFooterPreferenceController;
 import com.android.settings.notification.zen.ZenModeBackend;
 import com.android.settingslib.core.lifecycle.Lifecycle;

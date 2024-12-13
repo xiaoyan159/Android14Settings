@@ -36,7 +36,7 @@ import android.view.inputmethod.InputMethodInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.Arrays;
 import java.util.Comparator;

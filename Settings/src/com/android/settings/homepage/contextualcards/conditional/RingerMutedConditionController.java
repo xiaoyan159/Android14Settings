@@ -20,7 +20,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.media.AudioManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 
 import java.util.Objects;

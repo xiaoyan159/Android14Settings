@@ -26,7 +26,7 @@ import android.icu.util.TimeZone;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import java.time.Instant;

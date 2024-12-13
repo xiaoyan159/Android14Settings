@@ -50,7 +50,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.applications.AppInfoBase;
 import com.android.settings.dashboard.DashboardFragment;

@@ -16,7 +16,7 @@
 
 package com.android.settings.support.actionbar;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public interface HelpResourceProvider {
     /**

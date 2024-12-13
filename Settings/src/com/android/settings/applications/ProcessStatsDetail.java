@@ -50,7 +50,7 @@ import androidx.preference.PreferenceCategory;
 
 import com.android.settings.CancellablePreference;
 import com.android.settings.CancellablePreference.OnCancelListener;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.SummaryPreference;
 import com.android.settings.applications.ProcStatsEntry.Service;

@@ -41,7 +41,7 @@ import android.util.Log;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.wifi.dpp.WifiDppUtils;

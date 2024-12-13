@@ -26,7 +26,7 @@ import android.hardware.display.ColorDisplayManager;
 import android.os.UserHandle;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 
 import java.net.URISyntaxException;

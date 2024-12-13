@@ -24,7 +24,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 
 import com.android.internal.app.LocaleHelper;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settingslib.core.AbstractPreferenceController;
 

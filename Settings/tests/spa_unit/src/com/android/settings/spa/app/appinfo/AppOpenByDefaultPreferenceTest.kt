@@ -34,7 +34,7 @@ import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.onRoot
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.testutils.mockAsUser
 import com.android.settingslib.spaprivileged.framework.common.domainVerificationManager
 import org.junit.Before

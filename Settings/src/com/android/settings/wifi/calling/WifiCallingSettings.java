@@ -35,7 +35,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
 import com.android.internal.util.CollectionUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.network.ActiveSubscriptionsListener;
 import com.android.settings.network.SubscriptionUtil;

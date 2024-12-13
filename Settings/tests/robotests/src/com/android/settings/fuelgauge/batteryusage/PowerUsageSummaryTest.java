@@ -42,7 +42,7 @@ import androidx.loader.content.Loader;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.fuelgauge.BatteryBroadcastReceiver;
 import com.android.settings.fuelgauge.BatteryInfo;

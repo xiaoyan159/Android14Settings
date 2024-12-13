@@ -39,7 +39,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 
 import com.android.internal.content.PackageMonitor;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.applications.DefaultAppInfo;
 import com.android.settingslib.utils.ThreadUtils;
 import com.android.settingslib.widget.CandidateInfo;

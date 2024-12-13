@@ -35,7 +35,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentManager;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settings.utils.AnnotationSpan;

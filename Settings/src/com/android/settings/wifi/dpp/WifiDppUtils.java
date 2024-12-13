@@ -34,7 +34,7 @@ import android.security.keystore.KeyGenParameterSpec;
 import android.security.keystore.KeyProperties;
 import android.text.TextUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settingslib.wifi.AccessPoint;
 import com.android.wifitrackerlib.WifiEntry;

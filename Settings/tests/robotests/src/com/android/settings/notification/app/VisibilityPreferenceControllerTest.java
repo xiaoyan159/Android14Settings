@@ -46,7 +46,7 @@ import android.os.UserManager;
 import android.provider.Settings;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.RestrictedListPreference;
+import com.cariad.cea.settings.RestrictedListPreference;
 import com.android.settings.notification.NotificationBackend;
 import com.android.settings.testutils.shadow.ShadowRestrictionUtils;
 import com.android.settingslib.RestrictedLockUtils;

@@ -74,6 +74,7 @@ import com.android.settingslib.RestrictedLockUtilsInternal;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 import com.android.settingslib.development.DevelopmentSettingsEnabler;
 
+import com.cariad.cea.settings.R;
 import com.google.android.setupcompat.template.FooterBarMixin;
 import com.google.android.setupcompat.template.FooterButton;
 import com.google.android.setupcompat.template.FooterButton.ButtonType;

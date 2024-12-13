@@ -21,7 +21,7 @@ import static com.android.settings.notification.SettingPref.TYPE_SYSTEM;
 import android.content.Context;
 import android.provider.Settings.System;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 

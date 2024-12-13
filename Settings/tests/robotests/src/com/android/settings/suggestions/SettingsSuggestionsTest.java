@@ -25,7 +25,7 @@ import android.content.pm.ActivityInfo;
 import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.biometrics.fingerprint.FingerprintEnrollSuggestionActivity;
 import com.android.settings.biometrics.fingerprint.FingerprintSuggestionActivity;

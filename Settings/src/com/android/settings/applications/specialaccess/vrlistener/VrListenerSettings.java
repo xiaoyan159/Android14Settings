@@ -22,7 +22,7 @@ import android.service.vr.VrListenerService;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.utils.ManagedServiceSettings;

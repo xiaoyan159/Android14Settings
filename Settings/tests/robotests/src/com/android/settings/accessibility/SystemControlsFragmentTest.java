@@ -23,7 +23,7 @@ import android.content.Context;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.XmlTestUtils;
 import com.android.settings.testutils.shadow.ShadowKeyCharacterMap;
 

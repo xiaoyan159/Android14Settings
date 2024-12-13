@@ -20,7 +20,7 @@ import android.os.SystemProperties;
 import android.text.TextUtils;
 
 import com.android.internal.os.Zygote;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import java.util.Arrays;

@@ -34,7 +34,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog.Builder;
 
 import com.android.settings.CustomListPreference;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * ListPreference contain the entry summary.

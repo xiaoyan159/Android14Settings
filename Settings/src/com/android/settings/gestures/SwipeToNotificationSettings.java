@@ -20,7 +20,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.dashboard.suggestions.SuggestionFeatureProvider;
 import com.android.settings.overlay.FeatureFactory;

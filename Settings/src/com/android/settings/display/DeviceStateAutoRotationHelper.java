@@ -22,7 +22,7 @@ import android.util.Log;
 import androidx.lifecycle.Lifecycle;
 
 import com.android.internal.view.RotationPolicy;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settingslib.core.AbstractPreferenceController;
 import com.android.settingslib.devicestate.DeviceStateRotationLockSettingsManager;

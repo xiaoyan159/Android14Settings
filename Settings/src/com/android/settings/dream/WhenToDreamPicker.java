@@ -20,7 +20,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.RadioButtonPickerFragment;
 import com.android.settingslib.dream.DreamBackend;
 import com.android.settingslib.widget.CandidateInfo;

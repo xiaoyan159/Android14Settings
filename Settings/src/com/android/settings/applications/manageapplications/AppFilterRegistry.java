@@ -18,7 +18,7 @@ package com.android.settings.applications.manageapplications;
 
 import androidx.annotation.IntDef;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppStateAlarmsAndRemindersBridge;
 import com.android.settings.applications.AppStateAppBatteryUsageBridge;
 import com.android.settings.applications.AppStateClonedAppsBridge;

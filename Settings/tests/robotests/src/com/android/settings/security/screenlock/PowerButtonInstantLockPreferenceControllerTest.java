@@ -27,7 +27,7 @@ import android.content.Context;
 import androidx.preference.SwitchPreference;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.security.trustagent.TrustAgentManager;
 import com.android.settings.testutils.FakeFeatureFactory;
 

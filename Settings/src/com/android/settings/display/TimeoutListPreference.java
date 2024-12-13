@@ -32,7 +32,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AlertDialog.Builder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.RestrictedListPreference;
 import com.android.settingslib.RestrictedLockUtils;
 

@@ -25,7 +25,7 @@ import android.text.TextUtils;
 import androidx.core.text.util.LocalePreferences;
 
 import com.android.internal.app.LocalePicker;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.Locale;
 

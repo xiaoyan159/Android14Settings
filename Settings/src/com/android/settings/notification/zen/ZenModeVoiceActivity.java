@@ -31,7 +31,7 @@ import android.service.notification.ZenModeConfig;
 import android.text.format.DateFormat;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.utils.VoiceSettingsActivity;
 
 import java.util.HashMap;

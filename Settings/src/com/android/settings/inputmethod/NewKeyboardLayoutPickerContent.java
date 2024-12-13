@@ -21,7 +21,7 @@ import android.content.Context;
 import android.hardware.input.InputDeviceIdentifier;
 import android.hardware.input.InputManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 
 public class NewKeyboardLayoutPickerContent extends DashboardFragment {

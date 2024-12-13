@@ -24,7 +24,7 @@ import androidx.preference.Preference;
 import androidx.preference.TwoStatePreference;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.security.trustagent.TrustAgentManager;

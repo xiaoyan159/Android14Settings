@@ -62,7 +62,7 @@ import androidx.preference.PreferenceViewHolder;
 import androidx.preference.TwoStatePreference;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SubSettings;
 import com.android.settings.Utils;
 import com.android.settings.biometrics.BiometricEnrollBase;

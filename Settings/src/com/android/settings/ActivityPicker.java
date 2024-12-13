@@ -48,6 +48,7 @@ import android.widget.TextView;
 
 import com.android.internal.app.AlertActivity;
 import com.android.internal.app.AlertController;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

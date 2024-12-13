@@ -21,7 +21,7 @@ import android.content.pm.verify.domain.DomainOwner;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.List;
 import java.util.SortedSet;

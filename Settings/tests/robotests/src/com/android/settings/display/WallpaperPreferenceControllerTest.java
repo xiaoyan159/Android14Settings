@@ -27,7 +27,7 @@ import android.content.pm.ResolveInfo;
 import androidx.fragment.app.FragmentActivity;
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.SettingsShadowResources;
 
 import com.google.common.collect.Lists;

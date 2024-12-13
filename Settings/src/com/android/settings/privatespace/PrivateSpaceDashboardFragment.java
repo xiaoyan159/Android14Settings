@@ -23,7 +23,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 
 /** Fragment representing the Private Space dashboard in Settings. */

@@ -44,7 +44,7 @@ import androidx.slice.builders.ListBuilder;
 import androidx.slice.builders.SliceAction;
 import androidx.slice.widget.SliceLiveData;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.homepage.contextualcards.ContextualCardsFragment;
 import com.android.settings.homepage.contextualcards.ControllerRendererPool;

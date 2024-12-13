@@ -22,7 +22,7 @@ import android.os.PowerManager;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.widget.BannerMessagePreference;
 
 /**

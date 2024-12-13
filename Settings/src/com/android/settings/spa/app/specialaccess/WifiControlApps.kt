@@ -20,7 +20,7 @@ import android.Manifest
 import android.app.AppOpsManager
 import android.app.AppOpsManager.MODE_IGNORED
 import android.content.Context
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spaprivileged.model.app.IPackageManagers
 import com.android.settingslib.spaprivileged.model.app.PackageManagers
 import com.android.settingslib.spaprivileged.template.app.AppOpPermissionListModel

@@ -25,7 +25,7 @@ import android.os.UserHandle;
 import android.util.Log;
 
 import com.android.internal.accessibility.AccessibilityShortcutController;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityShortcutPreferenceFragment;
 import com.android.settings.accessibility.AccessibilityUtil.QuickSettingsTooltipType;
 import com.android.settings.search.BaseSearchIndexProvider;

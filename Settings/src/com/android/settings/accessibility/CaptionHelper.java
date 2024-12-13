@@ -27,7 +27,7 @@ import android.view.accessibility.CaptioningManager;
 import android.view.accessibility.CaptioningManager.CaptionStyle;
 
 import com.android.internal.widget.SubtitleView;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.accessibility.AccessibilityUtils;
 
 import com.google.common.annotations.VisibleForTesting;

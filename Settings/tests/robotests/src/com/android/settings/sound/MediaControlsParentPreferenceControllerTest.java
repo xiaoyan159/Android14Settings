@@ -26,7 +26,7 @@ import android.content.ContentResolver;
 import android.content.Context;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.After;
 import org.junit.Before;

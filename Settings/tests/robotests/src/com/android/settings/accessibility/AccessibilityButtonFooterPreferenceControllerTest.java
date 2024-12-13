@@ -31,7 +31,7 @@ import android.text.Html;
 import androidx.preference.PreferenceScreen;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Rule;

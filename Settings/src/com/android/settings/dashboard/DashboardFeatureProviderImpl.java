@@ -57,7 +57,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.preference.Preference;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.Utils;
 import com.android.settings.activityembedding.ActivityEmbeddingRulesController;

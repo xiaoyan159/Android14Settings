@@ -36,7 +36,7 @@ import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.OnLifecycleEvent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.activityembedding.ActivityEmbeddingRulesController;
 import com.android.settings.homepage.SettingsHomepageActivity;
 import com.android.settings.overlay.FeatureFactory;

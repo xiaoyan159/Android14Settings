@@ -44,7 +44,7 @@ import android.view.ViewTreeObserver;
 import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.connecteddevice.stylus.StylusDevicesController;
 import com.android.settings.core.SettingsUIDeviceConfig;
 import com.android.settings.dashboard.RestrictedDashboardFragment;

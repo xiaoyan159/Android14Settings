@@ -42,7 +42,7 @@ import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceGroup;
 import androidx.preference.PreferenceManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.bluetooth.BluetoothDevicePreference;
 import com.android.settings.bluetooth.BluetoothDeviceUpdater;
 import com.android.settings.connecteddevice.dock.DockUpdater;

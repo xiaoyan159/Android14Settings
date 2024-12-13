@@ -36,7 +36,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.wifi.AccessPoint;
 
 import java.io.IOException;

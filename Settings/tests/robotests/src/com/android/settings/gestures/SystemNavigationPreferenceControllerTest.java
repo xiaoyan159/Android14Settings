@@ -174,16 +174,16 @@ public class SystemNavigationPreferenceControllerTest {
         SettingsShadowResources.overrideResource(R.integer.config_navBarInteractionMode,
                 NAV_BAR_MODE_GESTURAL);
         assertThat(TextUtils.equals(mController.getSummary(), mContext.getText(
-                com.android.settings.R.string.edge_to_edge_navigation_title))).isTrue();
+                com.cariad.cea.settings.R.string.edge_to_edge_navigation_title))).isTrue();
 
         SettingsShadowResources.overrideResource(R.integer.config_navBarInteractionMode,
                 NAV_BAR_MODE_3BUTTON);
         assertThat(TextUtils.equals(mController.getSummary(),
-                mContext.getText(com.android.settings.R.string.legacy_navigation_title))).isTrue();
+                mContext.getText(com.cariad.cea.settings.R.string.legacy_navigation_title))).isTrue();
 
         SettingsShadowResources.overrideResource(R.integer.config_navBarInteractionMode,
                 NAV_BAR_MODE_2BUTTON);
         assertThat(TextUtils.equals(mController.getSummary(), mContext.getText(
-                com.android.settings.R.string.swipe_up_to_switch_apps_title))).isTrue();
+                com.cariad.cea.settings.R.string.swipe_up_to_switch_apps_title))).isTrue();
     }
 }

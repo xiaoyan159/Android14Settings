@@ -32,7 +32,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import com.android.internal.util.Preconditions;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * Background of {@link ChartView} that renders grid lines as requested by

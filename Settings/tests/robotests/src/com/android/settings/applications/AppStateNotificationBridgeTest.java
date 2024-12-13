@@ -51,7 +51,7 @@ import android.os.UserManager;
 import android.widget.CompoundButton;
 import android.widget.Switch;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.AppStateNotificationBridge.NotificationsSentState;
 import com.android.settings.notification.NotificationBackend;
 import com.android.settingslib.applications.ApplicationsState;

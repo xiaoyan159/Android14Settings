@@ -27,7 +27,7 @@ import android.platform.test.flag.junit.SetFlagsRule
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.android.media.flags.Flags
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.testutils.FakeFeatureFactory
 import com.android.settingslib.spaprivileged.model.app.IAppOpsController
 import com.android.settingslib.spaprivileged.template.app.AppOpPermissionRecord

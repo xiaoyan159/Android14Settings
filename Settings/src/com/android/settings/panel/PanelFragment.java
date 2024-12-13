@@ -52,7 +52,7 @@ import androidx.slice.SliceMetadata;
 import androidx.slice.widget.SliceLiveData;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.panel.PanelLoggingContract.PanelClosedKeys;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;

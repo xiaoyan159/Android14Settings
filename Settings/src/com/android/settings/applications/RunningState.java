@@ -43,7 +43,7 @@ import android.text.format.Formatter;
 import android.util.Log;
 import android.util.SparseArray;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.Utils;
 import com.android.settingslib.applications.InterestingConfigChanges;
 

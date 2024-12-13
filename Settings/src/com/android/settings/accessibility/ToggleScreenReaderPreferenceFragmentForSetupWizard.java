@@ -27,7 +27,7 @@ import android.view.ViewGroup;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import com.google.android.setupcompat.template.FooterBarMixin;
 import com.google.android.setupdesign.GlifPreferenceLayout;

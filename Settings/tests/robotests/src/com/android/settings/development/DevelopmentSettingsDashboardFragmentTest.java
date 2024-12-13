@@ -32,7 +32,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentActivity;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;
 import com.android.settings.testutils.shadow.ShadowUserManager;
 import com.android.settings.widget.SettingsMainSwitchBar;

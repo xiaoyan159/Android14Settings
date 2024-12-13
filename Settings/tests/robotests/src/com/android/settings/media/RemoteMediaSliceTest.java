@@ -153,7 +153,7 @@ public class RemoteMediaSliceTest {
         final SliceAction primaryAction = metadata.getPrimaryAction();
 
         assertThat(primaryAction.getTitle().toString()).isEqualTo(mContext.getText(
-                com.android.settings.R.string.remote_media_volume_option_title));
+                com.cariad.cea.settings.R.string.remote_media_volume_option_title));
     }
 
     @Implements(SliceBackgroundWorker.class)

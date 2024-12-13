@@ -44,7 +44,7 @@ import androidx.annotation.Nullable;
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.app.chooser.DisplayResolveInfo;
 import com.android.internal.app.chooser.TargetInfo;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.qrcode.QrCodeGenerator;
 
 import com.google.zxing.WriterException;

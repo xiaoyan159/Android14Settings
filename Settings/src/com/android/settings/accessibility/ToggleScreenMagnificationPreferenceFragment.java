@@ -52,7 +52,7 @@ import androidx.preference.TwoStatePreference;
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.server.accessibility.Flags;
 import com.android.settings.DialogCreatable;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityDialogUtils.DialogType;
 import com.android.settings.accessibility.AccessibilityUtil.QuickSettingsTooltipType;
 import com.android.settings.accessibility.AccessibilityUtil.UserShortcutType;

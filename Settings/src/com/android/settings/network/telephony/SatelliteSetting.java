@@ -39,7 +39,7 @@ import androidx.annotation.Nullable;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.RestrictedDashboardFragment;
 import com.android.settingslib.HelpUtils;
 import com.android.settingslib.Utils;

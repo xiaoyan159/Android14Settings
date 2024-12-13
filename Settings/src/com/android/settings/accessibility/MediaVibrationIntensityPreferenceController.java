@@ -20,7 +20,7 @@ import android.content.Context;
 import android.os.VibrationAttributes;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Preference controller for am vibration intensity */
 public class MediaVibrationIntensityPreferenceController

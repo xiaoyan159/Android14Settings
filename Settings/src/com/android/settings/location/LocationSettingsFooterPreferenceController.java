@@ -30,7 +30,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.HelpUtils;
 import com.android.settingslib.widget.FooterPreference;
 

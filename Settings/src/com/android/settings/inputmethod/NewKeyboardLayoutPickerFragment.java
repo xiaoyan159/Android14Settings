@@ -36,7 +36,7 @@ import android.widget.TextView;
 import androidx.fragment.app.Fragment;
 
 import com.android.hardware.input.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.activityembedding.ActivityEmbeddingUtils;
 
 //TODO: b/316243168 - [Physical Keyboard Setting] Refactor NewKeyboardLayoutPickerFragment

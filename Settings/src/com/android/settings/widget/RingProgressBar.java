@@ -20,7 +20,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ProgressBar;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A (determinate) progress bar in the form of a ring. The progress bar goes clockwise starting

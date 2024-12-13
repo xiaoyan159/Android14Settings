@@ -24,7 +24,7 @@ import android.widget.ImageButton;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A custom preference for companion device apps. Added a button for association removal

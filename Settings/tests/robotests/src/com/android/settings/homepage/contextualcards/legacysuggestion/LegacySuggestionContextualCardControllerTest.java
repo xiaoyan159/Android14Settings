@@ -27,7 +27,7 @@ import static org.mockito.Mockito.when;
 import android.content.Context;
 import android.service.settings.suggestions.Suggestion;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.homepage.contextualcards.ContextualCardUpdateListener;
 import com.android.settings.testutils.FakeFeatureFactory;

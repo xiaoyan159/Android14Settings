@@ -38,7 +38,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.preference.Preference;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settingslib.RestrictedPreference;
 

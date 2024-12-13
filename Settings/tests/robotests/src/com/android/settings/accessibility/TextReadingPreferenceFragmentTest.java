@@ -36,7 +36,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.preference.PreferenceManager;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityDialogUtils.DialogEnums;
 import com.android.settings.accessibility.TextReadingResetController.ResetStateListener;
 import com.android.settings.testutils.XmlTestUtils;

@@ -35,8 +35,8 @@ import androidx.preference.PreferenceScreen;
 import androidx.preference.TwoStatePreference;
 
 import com.android.settings.DefaultRingtonePreference;
-import com.android.settings.R;
-import com.android.settings.RingtonePreference;
+import com.cariad.cea.settings.R;
+import com.cariad.cea.settings.RingtonePreference;
 
 import org.junit.Before;
 import org.junit.Test;

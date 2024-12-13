@@ -27,7 +27,7 @@ import android.text.TextUtils;
 
 import androidx.annotation.NonNull;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.io.File;
 

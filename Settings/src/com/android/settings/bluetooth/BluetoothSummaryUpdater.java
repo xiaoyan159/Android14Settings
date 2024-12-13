@@ -23,7 +23,7 @@ import android.util.Log;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.widget.SummaryUpdater;
 import com.android.settingslib.bluetooth.BluetoothCallback;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;

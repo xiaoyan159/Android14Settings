@@ -27,7 +27,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.RestrictedLockUtils
 import com.android.settingslib.RestrictedLockUtils.EnforcedAdmin
 import com.android.settingslib.RestrictedLockUtilsInternal

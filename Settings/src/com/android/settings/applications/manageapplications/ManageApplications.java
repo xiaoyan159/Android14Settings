@@ -93,7 +93,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.internal.compat.IPlatformCompat;
 import com.android.internal.jank.InteractionJankMonitor;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings.AlarmsAndRemindersActivity;
 import com.android.settings.Settings.AppBatteryUsageActivity;
 import com.android.settings.Settings.ChangeNfcTagAppsActivity;

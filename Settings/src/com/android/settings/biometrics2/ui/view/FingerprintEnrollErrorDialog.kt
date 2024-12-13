@@ -27,7 +27,7 @@ import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.DialogFragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics.fingerprint.FingerprintErrorDialog.getErrorMessage
 import com.android.settings.biometrics.fingerprint.FingerprintErrorDialog.getErrorTitle
 import com.android.settings.biometrics.fingerprint.FingerprintErrorDialog.getSetupErrorMessage

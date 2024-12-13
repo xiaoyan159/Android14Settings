@@ -47,7 +47,7 @@ import androidx.annotation.Nullable;
 
 import com.android.internal.app.AlertActivity;
 import com.android.internal.app.AlertController;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** @hide */
 public class NotificationAccessConfirmationActivity extends Activity

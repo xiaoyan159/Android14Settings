@@ -40,7 +40,7 @@ import androidx.preference.PreferenceManager;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.core.CategoryMixin.CategoryHandler;

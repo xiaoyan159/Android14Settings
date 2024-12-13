@@ -24,7 +24,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.slice.Slice;
 import androidx.slice.widget.SliceView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.homepage.contextualcards.logging.ContextualCardLogUtils;
 import com.android.settings.overlay.FeatureFactory;

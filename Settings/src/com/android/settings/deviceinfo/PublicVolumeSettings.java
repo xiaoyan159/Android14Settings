@@ -37,7 +37,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.util.Preconditions;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.deviceinfo.storage.StorageUtils;
 import com.android.settings.deviceinfo.storage.StorageUtils.MountTask;

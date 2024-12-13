@@ -20,7 +20,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Intent;
 import android.os.UserHandle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.password.ChooseLockSettingsHelper;
 

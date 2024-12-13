@@ -22,7 +22,7 @@ import androidx.compose.material.icons.outlined.Delete
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.widget.button.ActionButton
 import com.android.settingslib.spa.widget.dialog.AlertDialogButton
 import com.android.settingslib.spa.widget.dialog.rememberAlertDialogPresenter

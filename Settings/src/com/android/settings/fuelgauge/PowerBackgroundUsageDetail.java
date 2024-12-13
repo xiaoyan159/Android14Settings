@@ -32,7 +32,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.overlay.FeatureFactory;

@@ -25,7 +25,7 @@ import static java.util.Objects.requireNonNull;
 import android.app.admin.DevicePolicyManager;
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.enterprise.DeviceAdminStringProvider;
 
 class DeviceAdminStringProviderImpl implements DeviceAdminStringProvider {

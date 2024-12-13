@@ -34,7 +34,7 @@ import android.text.style.RelativeSizeSpan;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.defaultapps.DefaultAppPickerFragment;
 import com.android.settings.nfc.PaymentBackend.PaymentAppInfo;
 import com.android.settingslib.widget.CandidateInfo;

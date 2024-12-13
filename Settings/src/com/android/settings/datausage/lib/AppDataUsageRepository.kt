@@ -28,7 +28,7 @@ import android.util.SparseArray
 import android.util.SparseBooleanArray
 import androidx.annotation.VisibleForTesting
 import androidx.core.util.keyIterator
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.datausage.lib.NetworkStatsRepository.Companion.Bucket
 import com.android.settingslib.AppItem
 import com.android.settingslib.net.UidDetailProvider

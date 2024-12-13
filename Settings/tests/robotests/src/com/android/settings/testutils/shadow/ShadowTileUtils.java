@@ -22,7 +22,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.util.Pair;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.drawer.TileUtils;
 
 import org.robolectric.RuntimeEnvironment;

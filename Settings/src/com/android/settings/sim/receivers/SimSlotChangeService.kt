@@ -22,7 +22,7 @@ import android.app.job.JobService
 import android.content.ComponentName
 import android.content.Context
 import android.util.Log
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

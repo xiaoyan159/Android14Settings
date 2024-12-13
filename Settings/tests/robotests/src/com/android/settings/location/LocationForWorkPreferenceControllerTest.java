@@ -32,7 +32,7 @@ import android.provider.Settings;
 import androidx.lifecycle.LifecycleOwner;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.RestrictedLockUtils.EnforcedAdmin;
 import com.android.settingslib.RestrictedSwitchPreference;
 import com.android.settingslib.core.lifecycle.Lifecycle;

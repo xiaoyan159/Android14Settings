@@ -24,7 +24,7 @@ import android.os.UserHandle;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowLockPatternUtils;
 import com.android.settingslib.search.SearchIndexableRaw;
 

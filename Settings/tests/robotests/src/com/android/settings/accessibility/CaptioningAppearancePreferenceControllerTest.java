@@ -24,7 +24,7 @@ import android.view.accessibility.CaptioningManager;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import org.junit.Before;

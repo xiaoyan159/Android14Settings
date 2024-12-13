@@ -21,7 +21,7 @@ import android.net.Uri;
 import android.net.wifi.WifiManager;
 import android.provider.Settings;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 import com.android.settings.slices.SliceBackgroundWorker;
 

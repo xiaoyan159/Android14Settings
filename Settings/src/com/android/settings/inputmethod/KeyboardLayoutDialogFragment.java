@@ -41,7 +41,7 @@ import androidx.loader.app.LoaderManager.LoaderCallbacks;
 import androidx.loader.content.AsyncTaskLoader;
 import androidx.loader.content.Loader;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 
 import java.util.ArrayList;

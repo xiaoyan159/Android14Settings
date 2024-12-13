@@ -26,7 +26,7 @@ import android.view.ViewGroup;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * After a camera APP scanned a Wi-Fi DPP QR code, it can trigger

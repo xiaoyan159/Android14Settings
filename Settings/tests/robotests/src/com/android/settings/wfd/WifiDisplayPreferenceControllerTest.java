@@ -27,7 +27,7 @@ import android.content.Context;
 import android.content.pm.PackageManager;
 import android.media.MediaRouter;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

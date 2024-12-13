@@ -27,7 +27,7 @@ import android.app.settings.SettingsEnums;
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.AbstractPreferenceController;
 import com.android.settingslib.devicestate.DeviceStateRotationLockSettingsManager;
 

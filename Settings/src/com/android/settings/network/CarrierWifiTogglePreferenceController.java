@@ -22,7 +22,7 @@ import androidx.lifecycle.Lifecycle;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 import com.android.settings.wifi.WifiPickerTrackerHelper;
 import com.android.wifitrackerlib.WifiPickerTracker;

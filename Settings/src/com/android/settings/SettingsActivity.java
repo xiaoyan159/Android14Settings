@@ -74,6 +74,7 @@ import com.android.settingslib.core.instrumentation.Instrumentable;
 import com.android.settingslib.core.instrumentation.SharedPreferencesLogger;
 import com.android.settingslib.drawer.DashboardCategory;
 
+import com.cariad.cea.settings.R;
 import com.google.android.setupcompat.util.WizardManagerHelper;
 
 import java.util.ArrayList;

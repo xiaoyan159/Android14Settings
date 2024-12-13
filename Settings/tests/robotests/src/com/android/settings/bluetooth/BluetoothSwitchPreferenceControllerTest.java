@@ -26,7 +26,7 @@ import android.content.Context;
 import android.provider.Settings;
 import android.text.TextUtils;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settings.utils.AnnotationSpan;
 import com.android.settings.widget.SwitchWidgetController;

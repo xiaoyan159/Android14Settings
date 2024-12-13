@@ -18,7 +18,7 @@ package com.android.settings.biometrics.fingerprint2.ui.enrollment.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.android.settings.R
+import com.cariad.cea.settings.R
 
 /** A fragment that is responsible for enrolling a users fingerprint. */
 class FingerprintEnrollEnrollingV2Fragment : Fragment(R.layout.fingerprint_enroll_enrolling) {

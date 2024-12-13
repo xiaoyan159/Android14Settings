@@ -29,7 +29,7 @@ import androidx.compose.ui.test.performClick
 import androidx.preference.PreferenceManager
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.dashboard.DashboardFragment
 import com.android.settings.spa.preference.ComposePreference
 import com.android.settingslib.spa.testutils.onDialogText

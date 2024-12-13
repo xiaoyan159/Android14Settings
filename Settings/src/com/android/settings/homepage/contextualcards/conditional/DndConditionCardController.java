@@ -28,7 +28,7 @@ import android.service.notification.ZenModeConfig;
 
 import androidx.annotation.VisibleForTesting;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settings.homepage.contextualcards.ContextualCard;
 import com.android.settings.notification.zen.ZenModeSettings;

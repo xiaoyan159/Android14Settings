@@ -31,7 +31,7 @@ import android.net.wifi.WifiManager;
 import androidx.test.core.app.ApplicationProvider;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.wifitrackerlib.WifiEntry;
 
 import org.junit.Before;

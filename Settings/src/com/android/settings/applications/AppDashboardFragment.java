@@ -21,7 +21,7 @@ import android.content.Context;
 import android.provider.SearchIndexableResource;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.appcompat.UserAspectRatioAppsPreferenceController;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;

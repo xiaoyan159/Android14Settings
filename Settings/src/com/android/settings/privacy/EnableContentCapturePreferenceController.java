@@ -22,7 +22,7 @@ import android.os.UserManager;
 
 import androidx.annotation.NonNull;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 import com.android.settings.utils.ContentCaptureUtils;
 

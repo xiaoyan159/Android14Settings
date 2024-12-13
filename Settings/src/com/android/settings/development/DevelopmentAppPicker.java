@@ -29,7 +29,7 @@ import android.os.Bundle;
 import android.os.Process;
 import android.os.UserHandle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.applications.defaultapps.DefaultAppPickerFragment;
 import com.android.settingslib.applications.DefaultAppInfo;
 

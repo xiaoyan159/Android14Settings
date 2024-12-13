@@ -29,7 +29,7 @@ import android.provider.Settings;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.After;
 import org.junit.Before;

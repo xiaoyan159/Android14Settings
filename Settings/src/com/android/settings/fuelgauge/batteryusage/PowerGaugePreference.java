@@ -25,7 +25,7 @@ import android.widget.TextView;
 
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settingslib.widget.AppPreference;
 

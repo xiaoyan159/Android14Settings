@@ -36,7 +36,7 @@ import android.widget.TextView;
 import androidx.preference.Preference;
 
 import com.android.internal.app.LocaleHelper;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.Utils;
 import com.android.settings.applications.AppInfoBase;

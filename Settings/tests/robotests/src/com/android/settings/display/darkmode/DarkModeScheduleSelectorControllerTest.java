@@ -38,7 +38,7 @@ import androidx.preference.DropDownPreference;
 import androidx.preference.PreferenceScreen;
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.BedtimeSettingsUtils;
 
 import org.junit.Before;

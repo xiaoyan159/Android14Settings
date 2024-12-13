@@ -37,7 +37,7 @@ import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.CustomDialogPreferenceCompat.CustomPreferenceDialogFragment;
 
 import org.junit.Before;

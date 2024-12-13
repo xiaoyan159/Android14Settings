@@ -31,7 +31,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.widget.RadioButtonPickerFragment;
 import com.android.settingslib.widget.CandidateInfo;

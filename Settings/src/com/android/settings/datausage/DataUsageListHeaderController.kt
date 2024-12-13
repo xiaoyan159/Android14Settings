@@ -25,7 +25,7 @@ import android.widget.AdapterView
 import android.widget.Spinner
 import androidx.annotation.OpenForTesting
 import androidx.lifecycle.LifecycleOwner
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.core.SubSettingLauncher
 import com.android.settings.datausage.CycleAdapter.SpinnerInterface
 import com.android.settings.datausage.lib.NetworkUsageData

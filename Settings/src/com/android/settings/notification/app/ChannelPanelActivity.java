@@ -33,7 +33,7 @@ import androidx.core.view.WindowInsetsControllerCompat;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.SubSettingLauncher;
 import com.android.settingslib.core.lifecycle.HideNonSystemOverlayMixin;

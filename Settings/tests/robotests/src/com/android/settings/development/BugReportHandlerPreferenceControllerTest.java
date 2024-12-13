@@ -31,7 +31,7 @@ import android.os.UserManager;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.bugreporthandler.BugReportHandlerUtil;
 
 import org.junit.Before;

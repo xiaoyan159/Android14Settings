@@ -21,7 +21,7 @@ import android.provider.Settings;
 import android.view.KeyCharacterMap;
 import android.view.KeyEvent;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.core.TogglePreferenceController;
 

@@ -29,7 +29,7 @@ import androidx.compose.material.icons.outlined.CloudUpload
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spa.widget.button.ActionButton
 import com.android.settingslib.spaprivileged.framework.compose.DisposableBroadcastReceiverAsUser
 import kotlinx.coroutines.Dispatchers

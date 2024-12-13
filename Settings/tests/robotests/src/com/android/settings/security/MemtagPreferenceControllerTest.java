@@ -28,7 +28,7 @@ import android.content.Context;
 import androidx.test.core.app.ApplicationProvider;
 import androidx.test.ext.junit.rules.ActivityScenarioRule;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowDeviceConfig;
 import com.android.settings.testutils.shadow.ShadowRestrictedLockUtilsInternal;
 import com.android.settingslib.RestrictedSwitchPreference;

@@ -43,7 +43,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceGroup;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.Settings.DataUsageSummaryActivity;
 import com.android.settings.Settings.TetherSettingsActivity;

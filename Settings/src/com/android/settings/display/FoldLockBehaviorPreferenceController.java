@@ -31,7 +31,7 @@ import androidx.preference.Preference;
 
 import com.android.internal.foldables.FoldGracePeriodProvider;
 import com.android.internal.foldables.FoldLockSettingAvailabilityProvider;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 import java.util.HashMap;

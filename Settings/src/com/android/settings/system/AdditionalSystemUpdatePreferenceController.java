@@ -30,7 +30,7 @@ public class AdditionalSystemUpdatePreferenceController extends BasePreferenceCo
     @Override
     public int getAvailabilityStatus() {
         return mContext.getResources().getBoolean(
-                com.android.settings.R.bool.config_additional_system_update_setting_enable)
+                com.cariad.cea.settings.R.bool.config_additional_system_update_setting_enable)
                 ? AVAILABLE
                 : UNSUPPORTED_ON_DEVICE;
     }

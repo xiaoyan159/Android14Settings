@@ -38,7 +38,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /** Class for creating the TARE homepage in settings */
 public class TareHomePage extends Activity {

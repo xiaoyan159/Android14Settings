@@ -32,7 +32,7 @@ import androidx.test.espresso.matcher.ViewMatchers.Visibility;
 import androidx.test.filters.SmallTest;
 import androidx.test.runner.AndroidJUnit4;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Test;

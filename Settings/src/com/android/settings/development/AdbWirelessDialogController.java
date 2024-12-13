@@ -21,7 +21,7 @@ import android.content.res.Resources;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * The class for allowing UIs like {@link AdbWirelessDialog} and {@link AdbWirelessDialogUiBase} to

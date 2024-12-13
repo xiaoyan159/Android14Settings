@@ -20,7 +20,7 @@ import android.content.Context;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class RegionZonePreferenceController extends BaseTimeZonePreferenceController {
     private static final String PREFERENCE_KEY = "region_zone";

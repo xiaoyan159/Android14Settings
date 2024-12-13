@@ -22,7 +22,7 @@ import android.os.Bundle;
 
 import androidx.fragment.app.FragmentTransaction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.wifi.dpp.WifiDppBaseActivity;
 
 /**

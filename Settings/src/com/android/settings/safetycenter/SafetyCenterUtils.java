@@ -30,7 +30,7 @@ import static android.app.admin.DevicePolicyResources.Strings.Settings.WORK_PROF
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.biometrics.combination.CombinedBiometricProfileStatusPreferenceController;
 import com.android.settings.biometrics.face.FaceProfileStatusPreferenceController;
 import com.android.settings.biometrics.fingerprint.FingerprintProfileStatusPreferenceController;

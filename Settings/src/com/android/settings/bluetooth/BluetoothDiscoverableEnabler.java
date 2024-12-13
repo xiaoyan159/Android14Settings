@@ -28,7 +28,7 @@ import android.util.Log;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.bluetooth.BluetoothDiscoverableTimeoutReceiver;
 
 import java.time.Duration;

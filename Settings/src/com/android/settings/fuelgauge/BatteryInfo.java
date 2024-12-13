@@ -41,6 +41,7 @@ import com.android.settingslib.fuelgauge.Estimate;
 import com.android.settingslib.fuelgauge.EstimateKt;
 import com.android.settingslib.utils.PowerUtil;
 import com.android.settingslib.utils.StringUtil;
+import com.cariad.cea.settings.R;
 
 public class BatteryInfo {
     private static final String TAG = "BatteryInfo";
@@ -295,7 +296,7 @@ public class BatteryInfo {
         final long startTime = System.currentTimeMillis();
         final boolean isCompactStatus =
                 context.getResources()
-                        .getBoolean(com.android.settings.R.bool.config_use_compact_battery_status);
+                        .getBoolean(R.bool.config_use_compact_battery_status);
         BatteryInfo info = new BatteryInfo();
         info.mBatteryUsageStats = batteryUsageStats;
         info.batteryLevel = Utils.getBatteryLevel(batteryBroadcast);

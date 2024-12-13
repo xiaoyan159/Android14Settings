@@ -29,7 +29,7 @@ import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.config.sysui.SystemUiDeviceConfigFlags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.dashboard.profileselector.ProfileSelectFragment;
 import com.android.settingslib.applications.RecentAppOpsAccess;

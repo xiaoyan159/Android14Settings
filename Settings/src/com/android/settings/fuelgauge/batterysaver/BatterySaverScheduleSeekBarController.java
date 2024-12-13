@@ -29,7 +29,7 @@ import androidx.preference.Preference.OnPreferenceChangeListener;
 import androidx.preference.PreferenceScreen;
 
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.widget.SeekBarPreference;
 import com.android.settingslib.fuelgauge.BatterySaverUtils;

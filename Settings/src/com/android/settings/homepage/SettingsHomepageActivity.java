@@ -63,7 +63,6 @@ import androidx.window.embedding.SplitInfo;
 import androidx.window.embedding.SplitRule;
 import androidx.window.java.embedding.SplitControllerCallbackAdapter;
 
-import com.android.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SettingsApplication;
@@ -78,6 +77,7 @@ import com.android.settings.safetycenter.SafetyCenterManagerWrapper;
 import com.android.settingslib.Utils;
 import com.android.settingslib.core.lifecycle.HideNonSystemOverlayMixin;
 
+import com.cariad.cea.settings.R;
 import com.google.android.setupcompat.util.WizardManagerHelper;
 
 import java.net.URISyntaxException;

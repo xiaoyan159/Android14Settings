@@ -19,7 +19,7 @@ import android.util.AttributeSet;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 public class DataSaverPreference extends Preference implements DataSaverBackend.Listener {
 

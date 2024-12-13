@@ -42,7 +42,7 @@ import androidx.annotation.VisibleForTesting;
 import androidx.annotation.WorkerThread;
 
 import com.android.internal.util.ArrayUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.fuelgauge.batterytip.AnomalyDatabaseHelper;
 import com.android.settings.fuelgauge.batterytip.BatteryDatabaseManager;
 import com.android.settings.overlay.FeatureFactory;

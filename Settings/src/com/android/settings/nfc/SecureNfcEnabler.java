@@ -22,7 +22,7 @@ import android.os.UserManager;
 
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * SecureNfcEnabler is a helper to manage the Secure Nfc on/off checkbox preference

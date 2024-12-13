@@ -19,7 +19,7 @@ package com.android.settings.bluetooth
 import android.content.Context
 import android.os.UserManager
 import androidx.appcompat.app.AlertDialog
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settingslib.spaprivileged.framework.common.devicePolicyManager
 import com.android.settingslib.spaprivileged.framework.common.userManager
 

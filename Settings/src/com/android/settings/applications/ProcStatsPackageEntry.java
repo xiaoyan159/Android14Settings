@@ -23,7 +23,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.util.Log;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 
 import java.util.ArrayList;

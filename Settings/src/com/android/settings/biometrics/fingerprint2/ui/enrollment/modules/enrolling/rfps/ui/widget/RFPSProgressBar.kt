@@ -27,7 +27,7 @@ import android.util.AttributeSet
 import android.util.Log
 import android.view.animation.AnimationUtils
 import android.view.animation.Interpolator
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.widget.RingProgressBar
 
 /** Progress bar for rear fingerprint enrollment. */

@@ -23,7 +23,7 @@ import android.widget.TextView;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A preference whose summary text will only span one single line.

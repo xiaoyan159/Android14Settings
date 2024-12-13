@@ -23,7 +23,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.vectorResource
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.spa.SpaActivity.Companion.startSpaActivity
 import com.android.settings.spa.preference.ComposePreferenceController
 import com.android.settingslib.spa.widget.preference.Preference

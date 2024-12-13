@@ -32,7 +32,7 @@ import android.hardware.fingerprint.FingerprintSensorPropertiesInternal;
 import android.view.View;
 import android.widget.Button;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settings.testutils.shadow.ShadowFingerprintManager;
 import com.android.settings.testutils.shadow.ShadowLockPatternUtils;

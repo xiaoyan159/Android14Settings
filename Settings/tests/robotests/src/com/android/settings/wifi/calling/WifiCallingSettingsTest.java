@@ -32,7 +32,7 @@ import android.view.View;
 import androidx.fragment.app.FragmentActivity;
 
 import com.android.ims.ImsManager;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.network.ims.MockWifiCallingQueryImsState;
 import com.android.settings.widget.RtlCompatibleViewPager;

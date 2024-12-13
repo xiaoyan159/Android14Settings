@@ -21,7 +21,7 @@ import android.provider.Settings;
 import android.provider.Settings.System;
 import android.text.format.DateFormat;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 
 import java.util.Locale;

@@ -24,7 +24,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
 public class SystemNavigationPreferenceController extends BasePreferenceController {

@@ -26,7 +26,7 @@ import android.hardware.fingerprint.FingerprintManager;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.password.ChooseLockSettingsHelper;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settings.testutils.shadow.ShadowAlertDialogCompat;

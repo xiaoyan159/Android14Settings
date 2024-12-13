@@ -27,7 +27,7 @@ import android.content.Context;
 
 import androidx.preference.Preference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowLockPatternUtils;
 import com.android.settings.testutils.shadow.ShadowUserManager;
 

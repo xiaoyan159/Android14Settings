@@ -53,7 +53,7 @@ import android.util.Log;
 import androidx.annotation.VisibleForTesting;
 
 import com.android.internal.util.CollectionUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.bluetooth.CachedBluetoothDevice;
 import com.android.settingslib.bluetooth.LocalBluetoothManager;
 import com.android.settingslib.notification.ConversationIconFactory;

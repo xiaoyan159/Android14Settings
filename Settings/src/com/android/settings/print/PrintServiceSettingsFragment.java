@@ -58,7 +58,7 @@ import androidx.loader.content.Loader;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.RecyclerView.AdapterDataObserver;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.widget.SettingsMainSwitchBar;

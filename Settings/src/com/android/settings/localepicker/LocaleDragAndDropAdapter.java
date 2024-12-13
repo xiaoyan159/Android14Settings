@@ -38,7 +38,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.internal.app.LocalePicker;
 import com.android.internal.app.LocaleStore;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.shortcut.ShortcutsUpdateTask;
 

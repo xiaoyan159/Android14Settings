@@ -33,7 +33,7 @@ import androidx.preference.PreferenceScreen;
 import androidx.preference.TwoStatePreference;
 
 import com.android.settings.AirplaneModeEnabler;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnDestroy;

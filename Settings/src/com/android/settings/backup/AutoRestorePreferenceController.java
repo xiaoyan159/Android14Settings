@@ -27,7 +27,7 @@ import android.util.Log;
 import androidx.preference.Preference;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 
 public class AutoRestorePreferenceController extends TogglePreferenceController {

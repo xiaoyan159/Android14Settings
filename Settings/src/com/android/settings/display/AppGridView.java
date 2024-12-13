@@ -35,7 +35,7 @@ import android.widget.ImageView;
 import androidx.annotation.VisibleForTesting;
 import androidx.core.util.Preconditions;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -19,7 +19,7 @@ import static org.junit.Assert.assertTrue;
 
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

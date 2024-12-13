@@ -30,7 +30,7 @@ import androidx.preference.Preference;
 import androidx.preference.Preference.OnPreferenceChangeListener;
 import androidx.preference.TwoStatePreference;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Settings;
 import com.android.settings.applications.AppInfoWithHeader;
 import com.android.settings.applications.AppStateAppOpsBridge;

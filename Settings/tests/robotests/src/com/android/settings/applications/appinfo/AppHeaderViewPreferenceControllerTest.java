@@ -34,7 +34,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.lifecycle.LifecycleOwner;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowSettingsLibUtils;
 import com.android.settingslib.applications.ApplicationsState;
 import com.android.settingslib.core.lifecycle.Lifecycle;

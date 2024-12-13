@@ -27,7 +27,7 @@ import android.provider.SearchIndexableResource;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.accessibility.AccessibilityUtil.QuickSettingsTooltipType;
 
 import org.junit.Before;

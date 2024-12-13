@@ -21,7 +21,7 @@ import android.content.Intent;
 
 import androidx.lifecycle.LifecycleOwner;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsDumpService;
 import com.android.settings.core.OnActivityResultListener;
 import com.android.settings.dashboard.DashboardFragment;

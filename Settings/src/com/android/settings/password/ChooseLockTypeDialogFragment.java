@@ -35,7 +35,7 @@ import androidx.appcompat.app.AlertDialog.Builder;
 import androidx.fragment.app.Fragment;
 
 import com.android.internal.widget.LockPatternUtils;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
 import com.android.settings.password.ChooseLockGeneric.ChooseLockGenericFragment;
 

@@ -30,7 +30,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentContainerView;
 import androidx.test.rule.ActivityTestRule;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.security.ZygoteShadow;
 import com.android.settings.testutils.shadow.ShadowDeviceConfig;
 import com.android.settings.testutils.shadow.ShadowRestrictedLockUtilsInternal;

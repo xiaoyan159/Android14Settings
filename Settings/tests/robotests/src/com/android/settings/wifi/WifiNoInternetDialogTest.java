@@ -42,7 +42,7 @@ import android.net.NetworkInfo;
 import android.net.NetworkRequest;
 import android.os.Bundle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 import org.junit.Before;
 import org.junit.Ignore;

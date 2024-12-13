@@ -8,7 +8,7 @@ import android.provider.SearchIndexableResource;
 import android.util.AttributeSet;
 import android.util.Xml;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.search.SearchFeatureProvider;
 import com.android.settings.search.SearchFeatureProviderImpl;
 import com.android.settings.testutils.FakeFeatureFactory;

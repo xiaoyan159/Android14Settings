@@ -23,7 +23,7 @@ import android.telephony.TelephonyManager;
 
 import com.android.internal.annotations.VisibleForTesting;
 import com.android.internal.telephony.flags.Flags;
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.TogglePreferenceController;
 
 /** Preference controller for Hearing Aid Compatibility (HAC) settings */

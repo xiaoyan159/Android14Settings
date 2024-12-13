@@ -28,7 +28,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.liveData
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.overlay.FeatureFactory.Companion.featureFactory
 import com.android.settingslib.spa.widget.preference.Preference
 import com.android.settingslib.spa.widget.preference.PreferenceModel

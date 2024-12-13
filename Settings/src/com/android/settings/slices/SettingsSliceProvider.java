@@ -46,7 +46,7 @@ import androidx.collection.ArraySet;
 import androidx.slice.Slice;
 import androidx.slice.SliceProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.Utils;
 import com.android.settings.bluetooth.BluetoothSliceBuilder;
 import com.android.settings.core.BasePreferenceController;

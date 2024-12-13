@@ -21,7 +21,7 @@ import android.content.Context;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 
 /** Tip to show current battery level is low */

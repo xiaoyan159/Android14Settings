@@ -28,7 +28,7 @@ import android.widget.Toast;
 import androidx.annotation.StringRes;
 import androidx.slice.Slice;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 
 /**
  * A collection of API making a PreferenceController "sliceable"

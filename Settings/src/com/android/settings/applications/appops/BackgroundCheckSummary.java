@@ -26,7 +26,7 @@ import android.view.ViewGroup;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.InstrumentedPreferenceFragment;
 
 public class BackgroundCheckSummary extends InstrumentedPreferenceFragment {

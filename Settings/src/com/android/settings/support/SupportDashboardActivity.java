@@ -19,7 +19,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.overlay.SupportFeatureProvider;
 import com.android.settings.search.BaseSearchIndexProvider;

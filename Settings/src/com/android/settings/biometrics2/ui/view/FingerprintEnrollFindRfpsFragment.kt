@@ -31,7 +31,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics.fingerprint.FingerprintFindSensorAnimation
 import com.android.settings.biometrics2.ui.model.EnrollmentProgress
 import com.android.settings.biometrics2.ui.model.EnrollmentStatusMessage

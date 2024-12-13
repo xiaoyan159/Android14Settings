@@ -42,7 +42,7 @@ import androidx.compose.ui.res.stringArrayResource
 import androidx.compose.ui.res.stringResource
 import androidx.navigation.NavType
 import androidx.navigation.navArgument
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.overlay.FeatureFactory.Companion.featureFactory
 import com.android.settingslib.spa.framework.common.SettingsPageProvider
 import com.android.settingslib.spa.framework.theme.SettingsDimension

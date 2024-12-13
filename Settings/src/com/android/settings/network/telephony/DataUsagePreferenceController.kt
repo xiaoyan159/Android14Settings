@@ -28,7 +28,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import androidx.preference.Preference
 import androidx.preference.PreferenceScreen
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.datausage.DataUsageUtils
 import com.android.settings.datausage.lib.DataUsageLib
 import com.android.settings.datausage.lib.NetworkCycleDataRepository

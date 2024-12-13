@@ -74,7 +74,7 @@ public class DockAudioMediaPreferenceControllerTest {
                 .getSystemService(Context.DEVICE_POLICY_SERVICE);
         when(mSetting.getActivity()).thenReturn(mActivity);
         when(mActivity.getContentResolver()).thenReturn(mContentResolver);
-        when(mActivity.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mActivity.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(true);
         when(mActivity.getResources().getString(anyInt())).thenReturn("test string");
         mPreference = new DropDownPreference(RuntimeEnvironment.application);
@@ -86,7 +86,7 @@ public class DockAudioMediaPreferenceControllerTest {
 
     @Test
     public void isAvailable_hasDockSettings_shouldReturnTrue() {
-        when(mContext.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(true);
 
         assertThat(mController.isAvailable()).isTrue();
@@ -94,7 +94,7 @@ public class DockAudioMediaPreferenceControllerTest {
 
     @Test
     public void isAvailable_noDockSettings_shouldReturnFalse() {
-        when(mContext.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(false);
 
         assertThat(mController.isAvailable()).isFalse();
@@ -104,7 +104,7 @@ public class DockAudioMediaPreferenceControllerTest {
     public void isAvailable_undocked_shouldReturnFalse() {
         when(mContext.registerReceiver(nullable(BroadcastReceiver.class),
             any(IntentFilter.class))).thenReturn(null);
-        when(mContext.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(true);
 
         assertThat(mController.isAvailable()).isFalse();
@@ -113,7 +113,7 @@ public class DockAudioMediaPreferenceControllerTest {
     @Test
     public void isAvailable_highEndDock_shouldReturnFalse() {
         fakeDockState(Intent.EXTRA_DOCK_STATE_HE_DESK);
-        when(mContext.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(true);
 
         assertThat(mController.isAvailable()).isFalse();
@@ -122,7 +122,7 @@ public class DockAudioMediaPreferenceControllerTest {
     @Test
     public void isAvailable_lowEndDock_shouldReturnTrue() {
         fakeDockState(Intent.EXTRA_DOCK_STATE_LE_DESK);
-        when(mContext.getResources().getBoolean(com.android.settings.R.bool.has_dock_settings))
+        when(mContext.getResources().getBoolean(com.cariad.cea.settings.R.bool.has_dock_settings))
             .thenReturn(true);
 
         assertThat(mController.isAvailable()).isTrue();

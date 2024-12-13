@@ -37,7 +37,7 @@ import android.text.TextUtils;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.password.SetupChooseLockGeneric.SetupChooseLockGenericFragment;
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settings.testutils.shadow.ShadowLockPatternUtils;

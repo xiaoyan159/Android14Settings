@@ -26,7 +26,7 @@ import android.widget.SeekBar;
 import androidx.annotation.NonNull;
 import androidx.preference.PreferenceScreen;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settings.widget.LabeledSeekBarPreference;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;

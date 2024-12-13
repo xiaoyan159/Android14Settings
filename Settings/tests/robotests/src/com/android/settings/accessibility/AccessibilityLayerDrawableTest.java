@@ -23,7 +23,7 @@ import android.graphics.drawable.Drawable;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.ImageTestUtils;
 
 import org.junit.Test;

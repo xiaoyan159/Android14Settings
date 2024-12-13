@@ -34,7 +34,7 @@ import android.telephony.SubscriptionManager;
 
 import androidx.test.core.app.ApplicationProvider;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.testutils.shadow.ShadowDashboardFragment;
 import com.android.settings.testutils.shadow.ShadowDataUsageUtils;
 import com.android.settings.testutils.shadow.ShadowUserManager;

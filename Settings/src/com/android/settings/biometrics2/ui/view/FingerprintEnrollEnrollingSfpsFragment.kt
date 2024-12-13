@@ -48,7 +48,7 @@ import com.airbnb.lottie.LottieComposition
 import com.airbnb.lottie.LottieCompositionFactory
 import com.airbnb.lottie.LottieProperty
 import com.airbnb.lottie.model.KeyPath
-import com.android.settings.R
+import com.cariad.cea.settings.R
 import com.android.settings.biometrics2.ui.model.EnrollmentProgress
 import com.android.settings.biometrics2.ui.model.EnrollmentStatusMessage
 import com.android.settings.biometrics2.ui.viewmodel.FingerprintEnrollEnrollingViewModel

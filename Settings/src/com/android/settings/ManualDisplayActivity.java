@@ -25,6 +25,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.cariad.cea.settings.R;
+
 import java.io.File;
 
 /**

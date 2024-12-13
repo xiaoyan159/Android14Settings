@@ -18,7 +18,7 @@ package com.android.settings.notification;
 
 import android.content.Context;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settingslib.utils.StringUtil;
 

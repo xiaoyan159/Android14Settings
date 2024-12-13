@@ -63,7 +63,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 import androidx.slice.SliceViewManager;
 
-import com.android.settings.R;
+import com.cariad.cea.settings.R;
 import com.android.settings.SettingsActivity;
 import com.android.settings.dashboard.CategoryManager;
 import com.android.settings.dashboard.DashboardFeatureProvider;
